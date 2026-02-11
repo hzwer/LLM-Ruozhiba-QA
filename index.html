@@ -186,7 +186,7 @@
 
         .ai-responses-container {
             display: grid;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(2, 1fr);
             gap: 15px;
             margin-top: 15px;
         }
@@ -210,6 +210,10 @@
             border-left-color: #f59e0b;
         }
 
+        .ai-response.gemini {
+            border-left-color: #8b5cf6;
+        }
+
         .ai-response strong {
             color: #333;
             display: block;
@@ -227,6 +231,10 @@
 
         .ai-response.step3 strong {
             color: #f59e0b;
+        }
+
+        .ai-response.gemini strong {
+            color: #8b5cf6;
         }
 
         .ai-response-content {
@@ -380,7 +388,7 @@
                     <div class="tags">
                         ${q.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
                     </div>
-                    ${q.deepseek_answer || q.kimi_answer || q.step3_answer ? `
+                    ${q.deepseek_answer || q.kimi_answer || q.step3_answer || q.gemini_answer ? `
                         <div class="ai-responses-container">
                             ${q.deepseek_answer ? `
                                 <div class="ai-response deepseek">
@@ -400,6 +408,12 @@
                                     <div class="ai-response-content">${q.step3_answer}</div>
                                 </div>
                             ` : '<div class="ai-response step3"><strong>Step3.5 Flash</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
+                            ${q.gemini_answer ? `
+                                <div class="ai-response gemini">
+                                    <strong>Gemini</strong>
+                                    <div class="ai-response-content">${q.gemini_answer}</div>
+                                </div>
+                            ` : '<div class="ai-response gemini"><strong>Gemini</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
                         </div>
                     ` : ''}
                     ${q.description ? `
