@@ -881,13 +881,28 @@
             console.log('当前排序选项:', sortValue, '待排序题目数:', sortedQuestions.length);
 
             if (sortValue === 'difficulty_desc' || sortValue === 'difficulty_asc') {
+                // 统计有难度分数的题目数量
+                const questionsWithScore = sortedQuestions.filter(q => typeof q.difficulty_score === 'number');
+                console.log('有难度分数的题目数:', questionsWithScore.length, '/', sortedQuestions.length);
+                
+                if (questionsWithScore.length === 0) {
+                    console.warn('没有题目有难度分数，无法按难度排序');
+                } else {
+                    // 显示排序前的难度分数分布
+                    const beforeScores = sortedQuestions.slice(0, 5).map(q => ({
+                        id: q.id,
+                        score: q.difficulty_score
+                    }));
+                    console.log('排序前前5题的难度分数:', beforeScores);
+                }
+                
                 sortedQuestions.sort((a, b) => {
                     const aHasScore = typeof a.difficulty_score === 'number';
                     const bHasScore = typeof b.difficulty_score === 'number';
                     
-                    // 如果两个都没有分数，保持原顺序
+                    // 如果两个都没有分数，保持原顺序（使用 id 作为稳定排序键）
                     if (!aHasScore && !bHasScore) {
-                        return 0;
+                        return (a.id || '').localeCompare(b.id || '');
                     }
                     // 如果只有一个有分数，有分数的排在前面
                     if (aHasScore && !bHasScore) {
@@ -899,9 +914,22 @@
                     // 两个都有分数，按分数排序
                     const ad = a.difficulty_score;
                     const bd = b.difficulty_score;
-                    return sortValue === 'difficulty_desc' ? bd - ad : ad - bd;
+                    if (ad !== bd) {
+                        // 分数不同，按排序方向排序
+                        return sortValue === 'difficulty_desc' ? bd - ad : ad - bd;
+                    }
+                    // 分数相同，使用 id 作为稳定排序键
+                    return (a.id || '').localeCompare(b.id || '');
                 });
-                console.log('按难度排序完成，前3题的难度分数:', sortedQuestions.slice(0, 3).map(q => q.difficulty_score));
+                
+                // 显示排序后的前几个题目的难度分数
+                const topScores = sortedQuestions.slice(0, 5).map(q => ({
+                    id: q.id,
+                    question: q.question ? q.question.substring(0, 20) + '...' : '',
+                    score: q.difficulty_score
+                }));
+                console.log('排序后前5题的难度分数:', topScores);
+                console.log('排序方向:', sortValue === 'difficulty_desc' ? '从高到低' : '从低到高');
             } else if (sortValue === 'default') {
                 // 默认按互动数排序
                 sortedQuestions.sort((a, b) => {
