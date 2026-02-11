@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LLM 弱智题收集库</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            color: white;
+            margin-bottom: 40px;
+            padding: 30px 0;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-bottom: 40px;
+            flex-wrap: wrap;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 20px 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .stat-label {
+            color: #666;
+            margin-top: 5px;
+        }
+
+        .filters {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+
+        .filter-group {
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-group label {
+            font-weight: 500;
+            color: #333;
+        }
+
+        select, input {
+            padding: 8px 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        select:focus, input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .questions-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+        }
+
+        .question-card {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .question-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 12px rgba(0,0,0,0.15);
+        }
+
+        .question-number {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 0.9em;
+            margin-bottom: 15px;
+        }
+
+        .question-text {
+            font-size: 1.1em;
+            line-height: 1.6;
+            color: #333;
+            margin-bottom: 15px;
+            font-weight: 500;
+        }
+
+        .category-badge {
+            display: inline-block;
+            background: #f0f0f0;
+            color: #666;
+            padding: 4px 10px;
+            border-radius: 15px;
+            font-size: 0.85em;
+            margin-right: 8px;
+        }
+
+        .tags {
+            margin: 15px 0;
+        }
+
+        .tag {
+            display: inline-block;
+            background: #e3f2fd;
+            color: #1976d2;
+            padding: 3px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            margin-right: 5px;
+            margin-bottom: 5px;
+        }
+
+        .expected-answer {
+            background: #f5f5f5;
+            padding: 12px;
+            border-radius: 5px;
+            margin-top: 15px;
+            border-left: 4px solid #4caf50;
+        }
+
+        .expected-answer strong {
+            color: #4caf50;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .description {
+            color: #666;
+            font-size: 0.9em;
+            line-height: 1.5;
+            margin-top: 12px;
+            padding-top: 12px;
+            border-top: 1px solid #e0e0e0;
+        }
+
+        .no-results {
+            text-align: center;
+            color: white;
+            font-size: 1.2em;
+            padding: 40px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .questions-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            h1 {
+                font-size: 1.8em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤖 LLM 弱智题收集库</h1>
+            <p class="subtitle">收集那些让 AI "犯傻" 的题目</p>
+        </header>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number" id="totalQuestions">0</div>
+                <div class="stat-label">题目总数</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="totalCategories">0</div>
+                <div class="stat-label">分类数量</div>
+            </div>
+        </div>
+
+        <div class="filters">
+            <div class="filter-group">
+                <label>分类筛选：</label>
+                <select id="categoryFilter">
+                    <option value="">全部</option>
+                </select>
+                <label>搜索：</label>
+                <input type="text" id="searchInput" placeholder="搜索题目内容...">
+            </div>
+        </div>
+
+        <div class="questions-grid" id="questionsGrid">
+            <!-- 题目卡片将在这里动态生成 -->
+        </div>
+
+        <div class="no-results" id="noResults" style="display: none;">
+            没有找到匹配的题目
+        </div>
+    </div>
+
+    <script>
+        let questions = [];
+        let filteredQuestions = [];
+
+        // 加载题目数据
+        async function loadQuestions() {
+            try {
+                const response = await fetch('questions.json');
+                questions = await response.json();
+                filteredQuestions = questions;
+                renderQuestions();
+                updateStats();
+                populateCategories();
+            } catch (error) {
+                console.error('加载题目失败:', error);
+                document.getElementById('questionsGrid').innerHTML = 
+                    '<div class="no-results">加载失败，请检查 questions.json 文件</div>';
+            }
+        }
+
+        // 更新统计信息
+        function updateStats() {
+            document.getElementById('totalQuestions').textContent = questions.length;
+            const categories = new Set(questions.map(q => q.category));
+            document.getElementById('totalCategories').textContent = categories.size;
+        }
+
+        // 填充分类选项
+        function populateCategories() {
+            const categories = new Set(questions.map(q => q.category));
+            const select = document.getElementById('categoryFilter');
+            categories.forEach(category => {
+                const option = document.createElement('option');
+                option.value = category;
+                option.textContent = category;
+                select.appendChild(option);
+            });
+        }
+
+        // 渲染题目
+        function renderQuestions() {
+            const grid = document.getElementById('questionsGrid');
+            const noResults = document.getElementById('noResults');
+            
+            if (filteredQuestions.length === 0) {
+                grid.style.display = 'none';
+                noResults.style.display = 'block';
+                return;
+            }
+
+            grid.style.display = 'grid';
+            noResults.style.display = 'none';
+
+            grid.innerHTML = filteredQuestions.map(q => `
+                <div class="question-card">
+                    <div class="question-number">#${q.id}</div>
+                    <div class="question-text">${q.question}</div>
+                    <div>
+                        <span class="category-badge">${q.category}</span>
+                        ${q.difficulty ? `<span class="category-badge">${q.difficulty}</span>` : ''}
+                    </div>
+                    <div class="tags">
+                        ${q.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
+                    </div>
+                    ${q.expected_answer ? `
+                        <div class="expected-answer">
+                            <strong>期望答案：</strong>
+                            ${q.expected_answer}
+                        </div>
+                    ` : ''}
+                    ${q.description ? `
+                        <div class="description">${q.description}</div>
+                    ` : ''}
+                </div>
+            `).join('');
+        }
+
+        // 筛选题目
+        function filterQuestions() {
+            const category = document.getElementById('categoryFilter').value;
+            const search = document.getElementById('searchInput').value.toLowerCase();
+
+            filteredQuestions = questions.filter(q => {
+                const matchCategory = !category || q.category === category;
+                const matchSearch = !search || 
+                    q.question.toLowerCase().includes(search) ||
+                    (q.description && q.description.toLowerCase().includes(search)) ||
+                    q.tags.some(tag => tag.toLowerCase().includes(search));
+                return matchCategory && matchSearch;
+            });
+
+            renderQuestions();
+        }
+
+        // 事件监听
+        document.getElementById('categoryFilter').addEventListener('change', filterQuestions);
+        document.getElementById('searchInput').addEventListener('input', filterQuestions);
+
+        // 初始化
+        loadQuestions();
+    </script>
+</body>
+</html>
