@@ -599,6 +599,13 @@
             return questionData.likes + questionData.dislikes;
         }
 
+        // 获取题目的净评分（点赞数 - 点踩数）
+        function getQuestionNetScore(questionId) {
+            const data = getInteractionData();
+            const questionData = data[questionId] || { likes: 0, dislikes: 0 };
+            return questionData.likes - questionData.dislikes;
+        }
+
         // 更新题目的点赞/点踩
         function updateQuestionFeedback(questionId, type) {
             const data = getInteractionData();
@@ -839,6 +846,20 @@
                 }
                 
                 sortedQuestions.sort((a, b) => {
+                    // 首先检查净评分，净评分为负的排到最后
+                    const aNetScore = getQuestionNetScore(a.id);
+                    const bNetScore = getQuestionNetScore(b.id);
+                    const aIsNegative = aNetScore < 0;
+                    const bIsNegative = bNetScore < 0;
+                    
+                    if (aIsNegative && !bIsNegative) {
+                        return 1; // a 排到最后
+                    }
+                    if (!aIsNegative && bIsNegative) {
+                        return -1; // b 排到最后
+                    }
+                    // 如果都是负数或都不是负数，继续按难度排序
+                    
                     const aHasScore = typeof a.difficulty_score === 'number';
                     const bHasScore = typeof b.difficulty_score === 'number';
                     
@@ -875,6 +896,20 @@
             } else if (sortValue === 'default') {
                 // 默认按互动数排序
                 sortedQuestions.sort((a, b) => {
+                    // 首先检查净评分，净评分为负的排到最后
+                    const aNetScore = getQuestionNetScore(a.id);
+                    const bNetScore = getQuestionNetScore(b.id);
+                    const aIsNegative = aNetScore < 0;
+                    const bIsNegative = bNetScore < 0;
+                    
+                    if (aIsNegative && !bIsNegative) {
+                        return 1; // a 排到最后
+                    }
+                    if (!aIsNegative && bIsNegative) {
+                        return -1; // b 排到最后
+                    }
+                    // 如果都是负数或都不是负数，继续按互动数排序
+                    
                     const aCount = getQuestionInteractionCount(a.id);
                     const bCount = getQuestionInteractionCount(b.id);
                     if (aCount !== bCount) {
