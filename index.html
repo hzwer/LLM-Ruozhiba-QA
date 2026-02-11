@@ -215,6 +215,27 @@
             color: #f59e0b;
         }
 
+        .score-badge {
+            display: inline-block;
+            margin-left: 8px;
+            padding: 2px 8px;
+            background: rgba(0, 0, 0, 0.08);
+            border-radius: 12px;
+            font-size: 0.85em;
+            font-weight: normal;
+            color: #666;
+        }
+
+        .ai-response.chatgpt .score-badge {
+            background: rgba(16, 163, 127, 0.15);
+            color: #10a37f;
+        }
+
+        .ai-response.stepfun .score-badge {
+            background: rgba(245, 158, 11, 0.15);
+            color: #f59e0b;
+        }
+
         .ai-response-content {
             color: #333;
             line-height: 1.6;
@@ -986,7 +1007,7 @@
                         <div class="ai-responses-container">
                             ${q.kimi_full_answer ? `
                                 <div class="ai-response chatgpt">
-                                    <strong>Kimi (K2.5 Fast)</strong>
+                                    <strong>Kimi (K2.5 Fast)${typeof q.kimi_answer_score === 'number' ? ` <span class="score-badge">评分：${q.kimi_answer_score}</span>` : ''}</strong>
                                     <div class="ai-response-content">
                                         ${q.kimi_excerpt ? `<div class="ai-response-excerpt">${q.kimi_excerpt}</div>` : ''}
                                         <a href="javascript:void(0)" onclick="openModal('${q.id}', 'kimi')" style="color: #10a37f; text-decoration: none; cursor: pointer;">
@@ -997,7 +1018,7 @@
                             ` : ''}
                             ${q.stepfun_full_answer ? `
                                 <div class="ai-response stepfun">
-                                    <strong>Step 3.5 Flash</strong>
+                                    <strong>Step 3.5 Flash${typeof q.flash_answer_score === 'number' ? ` <span class="score-badge">评分：${q.flash_answer_score}</span>` : ''}</strong>
                                     <div class="ai-response-content">
                                         ${q.stepfun_excerpt ? `<div class="ai-response-excerpt">${q.stepfun_excerpt}</div>` : ''}
                                         <a href="javascript:void(0)" onclick="openModal('${q.id}', 'stepfun')" style="color: #f59e0b; text-decoration: none; cursor: pointer;">
