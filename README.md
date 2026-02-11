@@ -25,7 +25,7 @@
 - `question`: 问题内容
 - `category`: 分类
 - `description`: 题目说明
-- `added_date`: 添加日期
+- `added_date`: 创建日期（格式：YYYY-MM-DD，如 `2024-01-01`）
 - `difficulty`: 难度（可选）
 - `chatgpt_answer`: ChatGPT 的回答（链接）
 - `stepfun_answer`: Stepfun 的回答（链接）

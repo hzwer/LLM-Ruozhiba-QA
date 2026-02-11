@@ -231,6 +231,14 @@
             }
         }
 
+        .date-info {
+            color: #999;
+            font-size: 0.85em;
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #f0f0f0;
+        }
+
         .description {
             color: #666;
             font-size: 0.9em;
@@ -436,6 +444,9 @@
                     ` : ''}
                     ${q.description ? `
                         <div class="description">${q.description}</div>
+                    ` : ''}
+                    ${q.added_date ? `
+                        <div class="date-info">创建日期：${q.added_date}</div>
                     ` : ''}
                 </div>
             `).join('');
