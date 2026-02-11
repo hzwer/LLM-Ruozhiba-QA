@@ -216,8 +216,12 @@
         .ai-response-excerpt {
             color: #555;
             line-height: 1.6;
-            margin-bottom: 10px;
+            margin-bottom: 12px;
             font-style: italic;
+            font-size: 0.95em;
+            padding: 8px;
+            background: rgba(0, 0, 0, 0.02);
+            border-radius: 4px;
         }
 
         .ai-response-content a {
@@ -484,9 +488,6 @@
                                 </div>
                             ` : '<div class="ai-response stepfun"><strong>Stepfun</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
                         </div>
-                    ` : ''}
-                    ${q.description ? `
-                        <div class="description">${q.description}</div>
                     ` : ''}
                     ${q.added_date ? `
                         <div class="date-info">创建日期：${q.added_date}</div>
