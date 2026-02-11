@@ -244,6 +244,55 @@
             background: rgba(0, 0, 0, 0.1);
         }
 
+        .feedback-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 10px;
+            align-items: center;
+        }
+
+        .feedback-btn {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            padding: 4px 10px;
+            border: 1px solid #ddd;
+            border-radius: 15px;
+            background: white;
+            cursor: pointer;
+            font-size: 0.85em;
+            transition: all 0.2s;
+            user-select: none;
+        }
+
+        .feedback-btn:hover {
+            background: #f5f5f5;
+            border-color: #999;
+        }
+
+        .feedback-btn.liked {
+            background: #e8f5e9;
+            border-color: #4caf50;
+            color: #2e7d32;
+        }
+
+        .feedback-btn.disliked {
+            background: #ffebee;
+            border-color: #f44336;
+            color: #c62828;
+        }
+
+        .feedback-btn:active {
+            transform: scale(0.95);
+        }
+
+        .feedback-count {
+            font-size: 0.85em;
+            color: #666;
+            min-width: 20px;
+            text-align: center;
+        }
+
         @media (max-width: 768px) {
             .ai-responses-container {
                 grid-template-columns: 1fr;
@@ -369,6 +418,82 @@
         let questions = [];
         let filteredQuestions = [];
 
+        // 获取互动数据（从 localStorage）
+        function getInteractionData() {
+            try {
+                const data = localStorage.getItem('questionInteractions');
+                return data ? JSON.parse(data) : {};
+            } catch (e) {
+                return {};
+            }
+        }
+
+        // 保存互动数据（到 localStorage）
+        function saveInteractionData(data) {
+            try {
+                localStorage.setItem('questionInteractions', JSON.stringify(data));
+            } catch (e) {
+                console.error('保存互动数据失败:', e);
+            }
+        }
+
+        // 获取题目的互动数（所有 AI 回答的互动数总和）
+        function getQuestionInteractionCount(question) {
+            const data = getInteractionData();
+            let total = 0;
+            
+            // 计算该题目下所有 AI 回答的互动数
+            if (question.kimi_answer) {
+                const kimiData = data[question.id + '-kimi'] || { likes: 0, dislikes: 0 };
+                total += kimiData.likes + kimiData.dislikes;
+            }
+            if (question.stepfun_answer) {
+                const stepfunData = data[question.id + '-stepfun'] || { likes: 0, dislikes: 0 };
+                total += stepfunData.likes + stepfunData.dislikes;
+            }
+            
+            return total;
+        }
+
+        // 更新题目的点赞/点踩
+        function updateQuestionFeedback(questionId, type) {
+            const data = getInteractionData();
+            if (!data[questionId]) {
+                data[questionId] = { likes: 0, dislikes: 0, userVote: null };
+            }
+            
+            const questionData = data[questionId];
+            
+            // 如果用户已经投过票，先撤销之前的投票
+            if (questionData.userVote === 'like') {
+                questionData.likes = Math.max(0, questionData.likes - 1);
+            } else if (questionData.userVote === 'dislike') {
+                questionData.dislikes = Math.max(0, questionData.dislikes - 1);
+            }
+            
+            // 如果点击的是已选中的按钮，则取消投票
+            if (questionData.userVote === type) {
+                questionData.userVote = null;
+            } else {
+                // 否则更新投票
+                questionData.userVote = type;
+                if (type === 'like') {
+                    questionData.likes++;
+                } else {
+                    questionData.dislikes++;
+                }
+            }
+            
+            saveInteractionData(data);
+            return questionData;
+        }
+
+        // 获取用户对题目的投票状态
+        function getUserVote(questionId) {
+            const data = getInteractionData();
+            return data[questionId]?.userVote || null;
+        }
+
         // 加载题目数据
         async function loadQuestions() {
             try {
@@ -433,15 +558,20 @@
                 const questionResults = await Promise.all(questionPromises);
                 console.log('加载的题目结果:', questionResults);
                 
-                // 过滤掉 null 值，并随机排序
+                // 过滤掉 null 值
                 questions = questionResults
                     .filter(q => q !== null && q.id !== undefined);
                 
-                // 使用 Fisher-Yates 洗牌算法随机打乱顺序
-                for (let i = questions.length - 1; i > 0; i--) {
-                    const j = Math.floor(Math.random() * (i + 1));
-                    [questions[i], questions[j]] = [questions[j], questions[i]];
-                }
+                // 按互动数排序（互动数多的在前），互动数相同的随机排序
+                questions.sort((a, b) => {
+                    const aCount = getQuestionInteractionCount(a);
+                    const bCount = getQuestionInteractionCount(b);
+                    if (aCount !== bCount) {
+                        return bCount - aCount; // 互动数多的在前
+                    }
+                    // 互动数相同则随机排序
+                    return Math.random() - 0.5;
+                });
                 
                 console.log('处理后的题目:', questions);
                 
@@ -482,6 +612,73 @@
             });
         }
 
+        // 生成点赞/点踩按钮 HTML
+        function generateFeedbackButtons(questionId) {
+            const data = getInteractionData();
+            const questionData = data[questionId] || { likes: 0, dislikes: 0, userVote: null };
+            const userVote = questionData.userVote;
+            
+            return `
+                <div class="feedback-buttons">
+                    <div class="feedback-btn ${userVote === 'like' ? 'liked' : ''}" 
+                         onclick="handleFeedback('${questionId}', 'like')">
+                        <span>👍</span>
+                        <span class="feedback-count" id="like-count-${questionId}">${questionData.likes}</span>
+                    </div>
+                    <div class="feedback-btn ${userVote === 'dislike' ? 'disliked' : ''}" 
+                         onclick="handleFeedback('${questionId}', 'dislike')">
+                        <span>👎</span>
+                        <span class="feedback-count" id="dislike-count-${questionId}">${questionData.dislikes}</span>
+                    </div>
+                </div>
+            `;
+        }
+
+        // 处理点赞/点踩
+        function handleFeedback(questionId, type) {
+            const questionData = updateQuestionFeedback(questionId, type);
+            
+            // 更新按钮显示
+            const likeBtn = document.getElementById(`like-count-${questionId}`)?.parentElement;
+            const dislikeBtn = document.getElementById(`dislike-count-${questionId}`)?.parentElement;
+            
+            if (likeBtn) {
+                likeBtn.querySelector('.feedback-count').textContent = questionData.likes;
+                if (questionData.userVote === 'like') {
+                    likeBtn.classList.add('liked');
+                } else {
+                    likeBtn.classList.remove('liked');
+                }
+            }
+            
+            if (dislikeBtn) {
+                dislikeBtn.querySelector('.feedback-count').textContent = questionData.dislikes;
+                if (questionData.userVote === 'dislike') {
+                    dislikeBtn.classList.add('disliked');
+                } else {
+                    dislikeBtn.classList.remove('disliked');
+                }
+            }
+            
+            // 重新排序并渲染
+            questions.sort((a, b) => {
+                const aCount = getQuestionInteractionCount(a);
+                const bCount = getQuestionInteractionCount(b);
+                if (aCount !== bCount) {
+                    return bCount - aCount;
+                }
+                return Math.random() - 0.5;
+            });
+            
+            // 如果当前没有筛选，重新渲染所有题目
+            const category = document.getElementById('categoryFilter').value;
+            const search = document.getElementById('searchInput').value.toLowerCase();
+            if (!category && !search) {
+                filteredQuestions = questions;
+                renderQuestions();
+            }
+        }
+
         // 渲染题目
         function renderQuestions() {
             const grid = document.getElementById('questionsGrid');
@@ -496,7 +693,12 @@
             grid.style.display = 'grid';
             noResults.style.display = 'none';
 
-            grid.innerHTML = filteredQuestions.map(q => `
+            grid.innerHTML = filteredQuestions.map(q => {
+                const interactionData = getInteractionData();
+                const questionData = interactionData[q.id] || { likes: 0, dislikes: 0, userVote: null };
+                const userVote = questionData.userVote;
+                
+                return `
                 <div class="question-card">
                     <div class="question-number">${q.id}</div>
                     <div class="question-text">${q.question}</div>
@@ -513,6 +715,7 @@
                                         <a href="${q.kimi_answer}" target="_blank" rel="noopener noreferrer" style="color: #10a37f; text-decoration: none;">
                                             查看完整回答 →
                                         </a>
+                                        ${generateFeedbackButtons(q.id + '-kimi')}
                                     </div>
                                 </div>
                             ` : ''}
@@ -524,6 +727,7 @@
                                         <a href="${q.stepfun_answer}" target="_blank" rel="noopener noreferrer" style="color: #f59e0b; text-decoration: none;">
                                             查看完整回答 →
                                         </a>
+                                        ${generateFeedbackButtons(q.id + '-stepfun')}
                                     </div>
                                 </div>
                             ` : ''}
@@ -539,7 +743,8 @@
                         <div class="date-info">创建日期：${q.added_date}</div>
                     ` : ''}
                 </div>
-            `).join('');
+            `;
+            }).join('');
         }
 
         // 筛选题目
