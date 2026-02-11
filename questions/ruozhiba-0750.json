@@ -9,5 +9,13 @@
   "cursor_comment": "",
   "kimi_excerpt": "这句话是英语问候语，先称呼Peter又询问名字，逻辑上存在矛盾，可能是语言错误或身份确认。",
   "kimi_full_answer": "这句话\"Hello, Peter whats your name?\"是一个英语问候语，但逻辑上有些矛盾。说话者先称呼对方为\"Peter\"，然后又问\"whats your name?\"（你叫什么名字？）。这可能意味着：1）说话者不确定对方是否是Peter，所以在打招呼后确认身份；2）这是一个语言学习者的常见错误，将问候语和询问名字的表达混在一起了；3）可能是在开玩笑或测试对方。正确的表达应该是直接说\"Hello, what's your name?\"（如果不认识对方）或\"Hello, Peter!\"（如果已经知道对方名字）。",
-  "human_answer": "Hello, you just called me Peter, so my name is Peter."
+  "human_answer": "Hello, you just called me Peter, so my name is Peter.",
+  "difficulty_score": 5,
+  "flash_answer_score": 8,
+  "kimi_answer_score": 7,
+  "tags": [
+    "语言理解",
+    "逻辑分析",
+    "日常对话"
+  ]
 }

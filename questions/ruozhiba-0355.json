@@ -9,5 +9,13 @@
   "cursor_comment": "",
   "kimi_excerpt": "雨字头下面加田是「雷」字，读léi，表示雷电。",
   "kimi_full_answer": "这个字是「雷」字。\n\n解析：\n1. 「雨字头」指的是汉字偏旁「雨」，通常与天气、降水相关\n2. 「雷下面的田」指的是「雷」字去掉雨字头后剩余的部分，即「田」字\n3. 雨字头（雨）+ 田 = 雷\n\n所以雨字头下面加一个田，组合起来就是「雷」字。这个字读作「léi」，表示打雷、雷电的意思。",
-  "human_answer": "这个字是\"电\"。"
+  "human_answer": "这个字是\"电\"。",
+  "difficulty_score": 2,
+  "flash_answer_score": 9,
+  "kimi_answer_score": 10,
+  "tags": [
+    "汉字结构",
+    "偏旁部首",
+    "语文常识"
+  ]
 }

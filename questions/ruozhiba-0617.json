@@ -9,5 +9,13 @@
   "cursor_comment": "",
   "kimi_excerpt": "SR是Super Rare（超稀有）的缩写，表示比R更高一级的稀有度，并非\"够罕见\"的意思。",
   "kimi_full_answer": "SR并不是\"够罕见\"的意思。在手游抽卡系统中，R代表Rare（罕见），而SR代表Super Rare（超稀有）或Superior Rare（高级稀有）。这是一个等级递进体系，通常从低到高为：N（Normal，普通）→ R（Rare，稀有）→ SR（Super Rare，超稀有）→ SSR（Super Super Rare，特级超稀有）→ UR（Ultra Rare，极度稀有）等。SR是比R更高一级的稀有度，而不是\"够罕见\"这种字面理解。这种分级系统起源于日本卡牌游戏，后被广泛应用于各类手游抽卡机制中。",
-  "human_answer": "不是的，SR在手游中通常代表的是“Super Rare”，意思是“超级罕见”。"
+  "human_answer": "不是的，SR在手游中通常代表的是“Super Rare”，意思是“超级罕见”。",
+  "difficulty_score": 4,
+  "flash_answer_score": 9,
+  "kimi_answer_score": 9,
+  "tags": [
+    "游戏术语",
+    "语言理解",
+    "常识科普"
+  ]
 }
