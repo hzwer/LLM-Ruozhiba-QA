@@ -1,7 +1,6 @@
 # LLM Ruozhiba QA (LLM 弱智题收集库)
 
-针对 LLM 定制的弱智吧问题
-**https://hzwer.github.io/LLM-Ruozhiba-QA/**
+针对 LLM 定制的弱智吧问题 [在线网页](https://hzwer.github.io/LLM-Ruozhiba-QA/**)
 
 ## 📝 题目格式
 
