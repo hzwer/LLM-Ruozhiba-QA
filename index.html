@@ -973,16 +973,10 @@
                 <div class="question-card">
                     <div class="question-number">${q.id}</div>
                     <div class="question-text">${q.question}</div>
-                    <div>
+                    <div class="meta-line">
                         <span class="category-badge">${q.category}</span>
+                        ${typeof q.difficulty_score === 'number' ? `<span class="meta-badge">难度评分：${q.difficulty_score}</span>` : ''}
                     </div>
-                    ${(typeof q.difficulty_score === 'number') || (typeof q.kimi_answer_score === 'number') || (typeof q.flash_answer_score === 'number') ? `
-                        <div class="meta-line">
-                            ${typeof q.difficulty_score === 'number' ? `<span class="meta-badge">难度评分：${q.difficulty_score}</span>` : ''}
-                            ${typeof q.kimi_answer_score === 'number' ? `<span class="meta-badge">Kimi 评分：${q.kimi_answer_score}</span>` : ''}
-                            ${typeof q.flash_answer_score === 'number' ? `<span class="meta-badge">Step 3.5 评分：${q.flash_answer_score}</span>` : ''}
-                        </div>
-                    ` : ''}
                     ${q.kimi_full_answer || q.stepfun_full_answer ? `
                         <div class="ai-responses-container">
                             ${q.kimi_full_answer ? `
