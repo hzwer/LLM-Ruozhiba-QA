@@ -4,8 +4,8 @@
   "category": "逻辑推理",
   "description": "这是一个典型的逻辑陷阱题。题目中的\"父母\"本身就是指已经结婚的夫妻关系，所以问他们能否结婚是逻辑上的矛盾。某些 AI 可能会误解为询问血缘关系之间的婚姻合法性，而忽略了\"父母\"这个词本身就包含了夫妻关系的含义。",
   "added_date": "2026-02-11",
-  "chatgpt_answer": "https://chatgpt.com/c/698c3186-2d8c-832d-bf75-03fab9d37060",
-  "chatgpt_excerpt": "如果你说的是\"亲生父母\"（也就是有血缘关系的直系亲属之间），那在几乎所有国家和地区，这都是法律明确禁止的",
+  "kimi_answer": "https://www.kimi.com/share/19c4bb40-9042-83a0-8000-0000b308a633",
+  "kimi_excerpt": "根据《中华人民共和国民法典》的规定，父母之间不可以结婚。",
   "stepfun_answer": "https://www.stepfun.com/share/210422761563508736?shareto_way=link",
   "stepfun_excerpt": "你的亲生父母：已是夫妻，无需再问\"能否结婚\"。",
   "cursor_comment": "把'父母'理解成了血缘关系，但父母本身就是夫妻关系啊！"

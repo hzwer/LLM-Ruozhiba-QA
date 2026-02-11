@@ -12,10 +12,10 @@
 - `category`: 分类
 - `description`: 题目说明
 - `added_date`: 创建日期（格式：YYYY-MM-DD，如 `2024-01-01`）
-- `chatgpt_answer`: ChatGPT 的回答链接
-- `chatgpt_excerpt`: ChatGPT 的回答精华摘录
-- `stepfun_answer`: Stepfun 的回答链接
-- `stepfun_excerpt`: Stepfun 的回答精华摘录
+- `kimi_answer`: Kimi (K2.5 Fast) 的回答链接
+- `kimi_excerpt`: Kimi (K2.5 Fast) 的回答精华摘录
+- `stepfun_answer`: Step 3.5 Flash 的回答链接
+- `stepfun_excerpt`: Step 3.5 Flash 的回答精华摘录
 - `cursor_comment`: Cursor 自动锐评（对 AI 回答的点评）
 
 系统会自动扫描 `questions/` 文件夹下的所有 JSON 文件（排除 `index.json`）并展示。只需在 `questions/` 文件夹下创建符合格式的 JSON 文件即可。

@@ -503,22 +503,22 @@
                     <div>
                         <span class="category-badge">${q.category}</span>
                     </div>
-                    ${q.chatgpt_answer || q.stepfun_answer ? `
+                    ${q.kimi_answer || q.stepfun_answer ? `
                         <div class="ai-responses-container">
-                            ${q.chatgpt_answer ? `
+                            ${q.kimi_answer ? `
                                 <div class="ai-response chatgpt">
-                                    <strong>ChatGPT</strong>
+                                    <strong>Kimi (K2.5 Fast)</strong>
                                     <div class="ai-response-content">
-                                        ${q.chatgpt_excerpt ? `<div class="ai-response-excerpt">${q.chatgpt_excerpt}</div>` : ''}
-                                        <a href="${q.chatgpt_answer}" target="_blank" rel="noopener noreferrer" style="color: #10a37f; text-decoration: none;">
+                                        ${q.kimi_excerpt ? `<div class="ai-response-excerpt">${q.kimi_excerpt}</div>` : ''}
+                                        <a href="${q.kimi_answer}" target="_blank" rel="noopener noreferrer" style="color: #10a37f; text-decoration: none;">
                                             查看完整回答 →
                                         </a>
                                     </div>
                                 </div>
-                            ` : '<div class="ai-response chatgpt"><strong>ChatGPT</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
+                            ` : '<div class="ai-response chatgpt"><strong>Kimi (K2.5 Fast)</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
                             ${q.stepfun_answer ? `
                                 <div class="ai-response stepfun">
-                                    <strong>Stepfun</strong>
+                                    <strong>Step 3.5 Flash</strong>
                                     <div class="ai-response-content">
                                         ${q.stepfun_excerpt ? `<div class="ai-response-excerpt">${q.stepfun_excerpt}</div>` : ''}
                                         <a href="${q.stepfun_answer}" target="_blank" rel="noopener noreferrer" style="color: #f59e0b; text-decoration: none;">
@@ -526,7 +526,7 @@
                                         </a>
                                     </div>
                                 </div>
-                            ` : '<div class="ai-response stepfun"><strong>Stepfun</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
+                            ` : '<div class="ai-response stepfun"><strong>Step 3.5 Flash</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
                         </div>
                     ` : ''}
                     ${q.cursor_comment ? `
