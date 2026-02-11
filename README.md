@@ -4,19 +4,17 @@
 
 ## 📝 题目格式
 
-题目文件存放在 `questions/` 文件夹下，每个题目一个 JSON 文件（如 `car-wash.json`, `example-question.json`）。
+题目文件存放在 `questions/` 文件夹下，每个题目一个 JSON 文件（如 `ruozhiba-0001.json`）。
 
 每个题目包含以下信息：
-- `id`: 唯一标识符（建议使用两个单词，用连字符连接，如 `car-wash`）
+- `id`: 唯一标识符
 - `question`: 问题内容
 - `category`: 分类
 - `description`: 题目说明
-- `added_date`: 创建日期（格式：YYYY-MM-DD，如 `2024-01-01`）
 - `kimi_answer`: Kimi (K2.5 Fast) 的回答链接
 - `kimi_excerpt`: Kimi (K2.5 Fast) 的回答精华摘录
 - `stepfun_answer`: Step 3.5 Flash 的回答链接
 - `stepfun_excerpt`: Step 3.5 Flash 的回答精华摘录
-- `cursor_comment`: Cursor 自动锐评（对 AI 回答的点评）
 
 系统会自动扫描 `questions/` 文件夹下的所有 JSON 文件（排除 `index.json`）并展示。只需在 `questions/` 文件夹下创建符合格式的 JSON 文件即可。
 
@@ -29,7 +27,7 @@
 如果你愿意帮项目者直接生成好放进来：
 
 1. Fork 本项目
-2. 在 `questions/` 文件夹下创建新的 JSON 文件，文件名和 id 使用两个单词（用连字符连接，如 `car-wash.json`，id 为 `"car-wash"`）
+2. 在 `questions/` 文件夹下创建新的 JSON 文件
 3. 提交 Pull Request
 
 系统会自动识别并展示新添加的题目文件。

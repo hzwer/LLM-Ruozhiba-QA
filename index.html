@@ -962,18 +962,9 @@
                             ` : ''}
                         </div>
                     ` : ''}
-                    ${q.cursor_comment ? `
-                        <div class="cursor-comment" onclick="event.stopPropagation();">
-                            <strong>💬 Cursor 锐评：</strong>
-                            <div class="cursor-comment-content">${q.cursor_comment}</div>
-                        </div>
-                    ` : ''}
                     <div onclick="event.stopPropagation();">
                         ${generateFeedbackButtons(q.id)}
                     </div>
-                    ${q.added_date ? `
-                        <div class="date-info">创建日期：${q.added_date}</div>
-                    ` : ''}
                 </div>
             `;
             }).join('');
