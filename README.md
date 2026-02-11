@@ -8,7 +8,7 @@
 
 比如：
 - "我想去洗车店洗车，如果我家离洗车店只有50米，你建议我开车去还是走路去？"
-- 明明走路更合理，但 AI 可能会建议你开车去...
+- 虽然距离很近，但必须开车去，因为要洗车。某些 AI 可能会建议走路，忽略了"洗车"这个前提条件...
 
 这个项目旨在收集这类"弱智题"，帮助测试和评估 AI 模型的常识推理能力。
 
@@ -22,7 +22,9 @@
 - `id`: 唯一标识符
 - `question`: 问题内容
 - `category`: 分类
-- `expected_answer`: 期望的答案（可选）
+- `kimi_answer`: Kimi 的回答
+- `deepseek_answer`: Deepseek v3.2 的回答
+- `step3_answer`: Step3.5 Flash 的回答
 - `description`: 题目说明
 - `tags`: 标签数组
 - `added_date`: 添加日期
