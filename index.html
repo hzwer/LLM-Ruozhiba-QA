@@ -628,18 +628,40 @@
                 let fileList = [];
                 
                 try {
-                    // 尝试使用 GitHub API 获取文件列表
-                    const apiResponse = await fetch(apiUrl);
-                    if (apiResponse.ok) {
-                        const files = await apiResponse.json();
-                        // 过滤出 JSON 文件，排除 index.json
-                        fileList = files
-                            .filter(file => file.type === 'file' && file.name.endsWith('.json') && file.name !== 'index.json')
-                            .map(file => file.name);
-                        console.log('通过 GitHub API 获取的文件列表:', fileList);
-                    } else {
-                        throw new Error('GitHub API 请求失败');
+                    // 尝试使用 GitHub API 获取文件列表（支持分页）
+                    let allFiles = [];
+                    let page = 1;
+                    const perPage = 100;
+                    
+                    while (true) {
+                        const apiUrlWithPage = `${apiUrl}?per_page=${perPage}&page=${page}`;
+                        const apiResponse = await fetch(apiUrlWithPage);
+                        
+                        if (apiResponse.ok) {
+                            const files = await apiResponse.json();
+                            
+                            if (files.length === 0) {
+                                break; // 没有更多文件了
+                            }
+                            
+                            allFiles = allFiles.concat(files);
+                            
+                            // 如果返回的文件数少于每页数量，说明已经是最后一页
+                            if (files.length < perPage) {
+                                break;
+                            }
+                            
+                            page++;
+                        } else {
+                            throw new Error('GitHub API 请求失败');
+                        }
                     }
+                    
+                    // 过滤出 JSON 文件，排除 index.json
+                    fileList = allFiles
+                        .filter(file => file.type === 'file' && file.name.endsWith('.json') && file.name !== 'index.json')
+                        .map(file => file.name);
+                    console.log('通过 GitHub API 获取的文件列表（分页）:', fileList.length, '个文件');
                 } catch (apiError) {
                     console.warn('GitHub API 获取文件列表失败，尝试使用 index.json:', apiError);
                     // 如果 API 失败，回退到使用 index.json
