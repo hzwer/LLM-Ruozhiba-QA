@@ -331,8 +331,33 @@
         // 加载题目数据
         async function loadQuestions() {
             try {
-                const response = await fetch('questions.json');
-                questions = await response.json();
+                // 先加载索引文件，获取所有题目文件列表
+                const indexResponse = await fetch('questions/index.json');
+                const fileList = await indexResponse.json();
+                
+                // 并行加载所有题目文件
+                const questionPromises = fileList.map(filename => 
+                    fetch(`questions/${filename}`)
+                        .then(response => {
+                            if (!response.ok) {
+                                console.warn(`无法加载 ${filename}`);
+                                return null;
+                            }
+                            return response.json();
+                        })
+                        .catch(error => {
+                            console.warn(`加载 ${filename} 失败:`, error);
+                            return null;
+                        })
+                );
+                
+                const questionResults = await Promise.all(questionPromises);
+                
+                // 过滤掉 null 值，并按 id 排序
+                questions = questionResults
+                    .filter(q => q !== null && q.id !== undefined)
+                    .sort((a, b) => a.id - b.id);
+                
                 filteredQuestions = questions;
                 renderQuestions();
                 updateStats();
@@ -340,7 +365,7 @@
             } catch (error) {
                 console.error('加载题目失败:', error);
                 document.getElementById('questionsGrid').innerHTML = 
-                    '<div class="no-results">加载失败，请检查 questions.json 文件</div>';
+                    '<div class="no-results">加载失败，请检查 questions 文件夹</div>';
             }
         }
 
