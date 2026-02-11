@@ -24,15 +24,19 @@
         }
 
         header {
-            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
             color: white;
             margin-bottom: 40px;
             padding: 30px 0;
+            flex-wrap: wrap;
         }
 
         h1 {
             font-size: 2.5em;
-            margin-bottom: 10px;
+            margin: 0;
             text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
         }
 
@@ -42,7 +46,6 @@
         }
 
         .github-link {
-            margin-top: 15px;
             display: inline-block;
         }
 
@@ -57,6 +60,11 @@
             display: inline-flex;
             align-items: center;
             gap: 6px;
+        }
+
+        .github-link .star-count {
+            margin-left: 4px;
+            font-weight: 500;
         }
 
         .github-link a:hover {
@@ -298,6 +306,16 @@
             h1 {
                 font-size: 1.8em;
             }
+
+            header {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .github-link a {
+                font-size: 0.85em;
+                padding: 6px 14px;
+            }
         }
     </style>
 </head>
@@ -311,6 +329,7 @@
                         <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"/>
                     </svg>
                     GitHub 项目
+                    <span class="star-count" id="starCount">⭐</span>
                 </a>
             </div>
         </header>
@@ -540,12 +559,32 @@
             renderQuestions();
         }
 
+        // 获取 GitHub star 数量
+        async function loadStarCount() {
+            try {
+                const repo = 'hzwer/LLM-Ruozhiba-QA';
+                const apiUrl = `https://api.github.com/repos/${repo}`;
+                const response = await fetch(apiUrl);
+                if (response.ok) {
+                    const data = await response.json();
+                    const starCount = data.stargazers_count || 0;
+                    document.getElementById('starCount').textContent = `⭐ ${starCount}`;
+                } else {
+                    document.getElementById('starCount').textContent = '⭐';
+                }
+            } catch (error) {
+                console.warn('获取 star 数量失败:', error);
+                document.getElementById('starCount').textContent = '⭐';
+            }
+        }
+
         // 事件监听
         document.getElementById('categoryFilter').addEventListener('change', filterQuestions);
         document.getElementById('searchInput').addEventListener('input', filterQuestions);
 
         // 初始化
         loadQuestions();
+        loadStarCount();
     </script>
 </body>
 </html>
