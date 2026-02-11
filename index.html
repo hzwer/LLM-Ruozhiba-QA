@@ -162,18 +162,27 @@
             margin-bottom: 5px;
         }
 
-        .expected-answer {
+        .ai-response {
             background: #f5f5f5;
             padding: 12px;
             border-radius: 5px;
-            margin-top: 15px;
-            border-left: 4px solid #4caf50;
+            margin-top: 10px;
+            border-left: 4px solid #2196f3;
         }
 
-        .expected-answer strong {
-            color: #4caf50;
+        .ai-response:first-of-type {
+            margin-top: 15px;
+        }
+
+        .ai-response strong {
+            color: #2196f3;
             display: block;
             margin-bottom: 5px;
+        }
+
+        .ai-response-content {
+            color: #333;
+            line-height: 1.5;
         }
 
         .description {
@@ -210,9 +219,6 @@
         <header>
             <h1>🤖 LLM 弱智题收集库</h1>
             <p class="subtitle">收集那些让 AI "犯傻" 的题目</p>
-            <p style="margin-top: 10px; font-size: 0.9em; opacity: 0.85;">
-                🌐 公开访问 · 无需安装 · 直接使用
-            </p>
         </header>
 
         <div class="stats">
@@ -310,11 +316,25 @@
                     <div class="tags">
                         ${q.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
                     </div>
-                    ${q.expected_answer ? `
-                        <div class="expected-answer">
-                            <strong>期望答案：</strong>
-                            ${q.expected_answer}
-                        </div>
+                    ${q.kimi_answer || q.deepseek_answer || q.step3_answer ? `
+                        ${q.kimi_answer ? `
+                            <div class="ai-response">
+                                <strong>Kimi 回答：</strong>
+                                <div class="ai-response-content">${q.kimi_answer}</div>
+                            </div>
+                        ` : ''}
+                        ${q.deepseek_answer ? `
+                            <div class="ai-response">
+                                <strong>Deepseek v3.2 回答：</strong>
+                                <div class="ai-response-content">${q.deepseek_answer}</div>
+                            </div>
+                        ` : ''}
+                        ${q.step3_answer ? `
+                            <div class="ai-response">
+                                <strong>Step3.5 Flash 回答：</strong>
+                                <div class="ai-response-content">${q.step3_answer}</div>
+                            </div>
+                        ` : ''}
                     ` : ''}
                     ${q.description ? `
                         <div class="description">${q.description}</div>

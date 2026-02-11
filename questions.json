@@ -3,11 +3,12 @@
     "id": 1,
     "question": "我想去洗车店洗车，如果我家离洗车店只有50米，你建议我开车去还是走路去？",
     "category": "生活常识",
-    "expected_answer": "走路去（距离太近，开车不划算，而且洗车店就在附近）",
     "description": "这是一个典型的常识推理题。50米的距离对于人类来说，明显应该走路去。但某些 AI 可能会建议开车，忽略了距离、成本、环保等常识因素。",
     "tags": ["常识推理", "生活场景", "距离判断"],
     "added_date": "2024-01-01",
     "difficulty": "简单",
-    "ai_responses": []
+    "kimi_answer": "",
+    "deepseek_answer": "",
+    "step3_answer": ""
   }
 ]
