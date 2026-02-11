@@ -707,15 +707,37 @@
                     .filter(q => q !== null && q.id !== undefined);
 
                 // 合并难度和评分信息
+                let matchedCount = 0;
+                let unmatchedSamples = [];
                 questions.forEach(q => {
-                    const score = scoreMap[(q.question || '').trim()];
+                    const questionText = (q.question || '').trim();
+                    const score = scoreMap[questionText];
                     if (score) {
                         q.difficulty_score = score.difficulty_score;
                         q.flash_answer_score = score.flash_answer_score;
                         q.kimi_answer_score = score.kimi_answer_score;
                         q.tags = score.tags;
+                        matchedCount++;
+                    } else if (unmatchedSamples.length < 3) {
+                        unmatchedSamples.push({
+                            question: questionText,
+                            availableKeys: Object.keys(scoreMap).slice(0, 3)
+                        });
                     }
                 });
+                console.log('成功匹配评分数据的题目数:', matchedCount, '/', questions.length);
+                if (matchedCount > 0) {
+                    const sample = questions.find(q => q.difficulty_score !== undefined);
+                    console.log('示例题目评分数据:', {
+                        question: sample.question,
+                        difficulty_score: sample.difficulty_score,
+                        flash_answer_score: sample.flash_answer_score,
+                        kimi_answer_score: sample.kimi_answer_score
+                    });
+                }
+                if (unmatchedSamples.length > 0) {
+                    console.warn('未匹配的题目示例:', unmatchedSamples);
+                }
                 
                 // 按互动数排序（互动数多的在前），互动数相同的随机排序
                 questions.sort((a, b) => {
@@ -924,11 +946,11 @@
                     <div>
                         <span class="category-badge">${q.category}</span>
                     </div>
-                    ${typeof q.difficulty_score === 'number' || (q.kimi_answer_score !== undefined) || (q.flash_answer_score !== undefined) || (q.tags && q.tags.length) ? `
+                    ${(typeof q.difficulty_score === 'number') || (typeof q.kimi_answer_score === 'number') || (typeof q.flash_answer_score === 'number') || (q.tags && q.tags.length) ? `
                         <div class="meta-line">
                             ${typeof q.difficulty_score === 'number' ? `<span class="meta-badge">难度评分：${q.difficulty_score}</span>` : ''}
-                            ${q.kimi_answer_score !== undefined ? `<span class="meta-badge">Kimi 评分：${q.kimi_answer_score}</span>` : ''}
-                            ${q.flash_answer_score !== undefined ? `<span class="meta-badge">Step 3.5 评分：${q.flash_answer_score}</span>` : ''}
+                            ${typeof q.kimi_answer_score === 'number' ? `<span class="meta-badge">Kimi 评分：${q.kimi_answer_score}</span>` : ''}
+                            ${typeof q.flash_answer_score === 'number' ? `<span class="meta-badge">Step 3.5 评分：${q.flash_answer_score}</span>` : ''}
                             ${q.tags && q.tags.length ? `<span>${q.tags.map(t => '#' + t).join(' ')}</span>` : ''}
                         </div>
                     ` : ''}
