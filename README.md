@@ -1,19 +1,6 @@
 # LLM Ruozhiba QA (LLM 弱智题收集库)
 
-一个专门收集那些会让 AI 大模型"犯傻"的弱智题目的项目。
-
-## 📖 项目简介
-
-你有没有遇到过这样的情况：问 AI 一个看似简单的问题，但它却给出了令人啼笑皆非的答案？
-
-比如：
-- "我想去洗车店洗车，如果我家离洗车店只有50米，你建议我开车去还是走路去？"
-- 虽然距离很近，但必须开车去，因为要洗车。某些 AI 可能会建议走路，忽略了"洗车"这个前提条件...
-
-这个项目旨在收集这类"弱智题"，帮助测试和评估 AI 模型的常识推理能力。
-
-## 🌐 在线访问
-
+针对 LLM 定制的弱智吧问题
 **https://hzwer.github.io/LLM-Ruozhiba-QA/**
 
 ## 📝 题目格式
@@ -27,10 +14,10 @@
 - `description`: 题目说明
 - `added_date`: 创建日期（格式：YYYY-MM-DD，如 `2024-01-01`）
 - `chatgpt_answer`: ChatGPT 的回答链接
-- `chatgpt_excerpt`: ChatGPT 的回答精华摘录（可选，显示在首页）
+- `chatgpt_excerpt`: ChatGPT 的回答精华摘录
 - `stepfun_answer`: Stepfun 的回答链接
-- `stepfun_excerpt`: Stepfun 的回答精华摘录（可选，显示在首页）
-- `cursor_comment`: Cursor 自动锐评（可选，对 AI 回答的点评）
+- `stepfun_excerpt`: Stepfun 的回答精华摘录
+- `cursor_comment`: Cursor 自动锐评（对 AI 回答的点评）
 
 系统会自动扫描 `questions/` 文件夹下的所有 JSON 文件（排除 `index.json`）并展示。只需在 `questions/` 文件夹下创建符合格式的 JSON 文件即可。
 
@@ -38,13 +25,15 @@
 
 欢迎提交 PR 添加新的弱智题！
 
+如果你嫌麻烦，想好你的题，然后提个 issue 即可
+
+如果你愿意帮项目者直接生成好放进来：
+
 1. Fork 本项目
 2. 在 `questions/` 文件夹下创建新的 JSON 文件，文件名和 id 使用两个单词（用连字符连接，如 `car-wash.json`，id 为 `"car-wash"`）
 3. 提交 Pull Request
 
-系统会自动识别并展示新添加的题目文件，无需手动更新任何索引文件。
-
-题目应该对人类来说很简单，但对 AI 可能困难。
+系统会自动识别并展示新添加的题目文件。
 
 ## 📄 许可证
 
