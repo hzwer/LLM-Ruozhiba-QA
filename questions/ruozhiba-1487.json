@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目可能是一种幽默或误解，但看了人类回答后可以理解其逻辑（健胃消食片不会导致吃撑），不涉及色情内容。"
 }

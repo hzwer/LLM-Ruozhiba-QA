@@ -12,5 +12,8 @@
   "difficulty_score": 3.62,
   "flash_answer_score": 8,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是跨作品的文学人物称呼问题，属于脑洞/幽默类型，逻辑清晰，无任何色情或不当内容。"
 }

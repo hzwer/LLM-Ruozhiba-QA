@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问虚构生物\"喰种\"的赫子如何在体内存放，并提及海绵体。虽然问题涉及人体解剖学术语，但属于对生物结构功能的科学性质疑或类比，没有性暗示或不当内容。人类回答从生物学角度给出合理解释，逻辑清晰，因此不标记为过于奇怪或涉及色情。"
 }

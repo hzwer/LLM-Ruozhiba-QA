@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问洗衣机进水问题，人类回答后逻辑清晰，解释了正常进水与泄露的区别，不涉及任何奇怪或难以理解的内容；且题目纯属家电使用问题，无任何色情、性暗示或不当性内容。"
 }

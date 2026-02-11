@@ -12,5 +12,8 @@
   "difficulty_score": 0.0,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 0
+  "original_difficulty_score": 0,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问手机内存16G等于多少GB，这是一个关于存储容量单位换算的常见问题。G是GB的简写，16G即16GB，逻辑清晰。看了人类回答后完全理解，不涉及任何色情或不当内容。"
 }

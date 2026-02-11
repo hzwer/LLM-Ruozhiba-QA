@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于历史事实的疑问，虽然表面上看起来有些奇怪（假设杜甫可以收门票），但看了人类回答后逻辑清晰：杜甫时代没有现代旅游业和门票制度，且杜甫草堂是杜甫去世后才修建的。题目不涉及任何色情或不当内容。"
 }

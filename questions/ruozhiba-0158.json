@@ -12,5 +12,8 @@
   "difficulty_score": 0.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然基于明显错误的假设（诗人来自月球），但可以理解为幽默表达或脑筋急转弯，并非完全无法理解。人类回答已正确解释月亮在中国文化中的思乡象征意义。题目不涉及任何色情或不当内容。"
 }

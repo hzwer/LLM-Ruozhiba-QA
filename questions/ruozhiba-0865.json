@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目只是关于主观感知与客观现实的混淆，属于常见误解或幽默表达，不涉及色情内容，且人类回答已澄清，逻辑可理解。"
 }

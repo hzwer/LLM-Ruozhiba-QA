@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是常见的关于文字表达局限性的幽默自嘲，逻辑清晰易懂。人类回答合理解释了文字表达效果受多种因素影响。题目不涉及任何色情、性暗示或不当内容。"
 }

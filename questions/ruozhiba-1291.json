@@ -12,5 +12,8 @@
   "difficulty_score": 4.06,
   "flash_answer_score": 9,
   "kimi_answer_score": 6,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目基于一个常见的误解（认为螃蟹煮熟后变绿），但看了人类回答后可以理解正确的科学原理（虾青素受热变色）。题目本身逻辑上可以理解，并非脑筋急转弯或幽默，但也不至于\"过于奇怪\"。题目完全涉及正常的生物知识，不涉及任何色情或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯式的幽默表达，将古诗《夜雨寄北》中的\"夜雨寄北\"字面意思与\"南水北调\"工程进行类比，虽然看似奇怪但逻辑可理解。人类回答已清楚解释两者本质区别。题目不涉及任何色情或不当内容。"
 }

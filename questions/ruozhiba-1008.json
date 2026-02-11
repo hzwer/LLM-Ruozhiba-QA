@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目虽然表面看起来奇怪，将赚钱与获得诺贝尔奖进行不恰当比较，但可以理解为一种幽默或讽刺表达，反映了某些人对快速成功的幻想或对诺贝尔奖的误解。人类回答清晰地解释了诺贝尔奖的性质，使逻辑变得清晰。根据指导原则，这类幽默表达不应标记为\"过于奇怪\"。题目完全不涉及任何色情或性相关内容。"
 }

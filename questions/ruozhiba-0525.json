@@ -12,5 +12,8 @@
   "difficulty_score": 2.1,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然以幽默或脑筋急转弯的方式提出，但涉及的是正常的生育和避孕知识，逻辑上清晰可理解。人类回答已经解释了避孕套的使用时间与出生无关，因此不构成过于奇怪或难以理解。同时，题目讨论的是生育和避孕的常识，没有色情、性暗示或不当性内容，属于正常的生理健康话题。"
 }

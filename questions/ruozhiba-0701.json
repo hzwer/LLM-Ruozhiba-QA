@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于日常穿着习惯的疑问，虽然表达方式稍显特别（\"袜子眼里\"），但看了人类回答后逻辑清晰合理，有明确的实用解释（保暖、整洁）。不涉及任何色情或不当内容，属于正常生活话题。"
 }

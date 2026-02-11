@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗脑筋急转弯，人类回答清晰地解释了\"变\"在中文中有\"掉头发\"的谐音含义，逻辑通顺且有趣，不属于过于奇怪的题目。同时，题目仅涉及正常的生理现象（掉头发），完全不涉及色情或不当性内容。"
 }

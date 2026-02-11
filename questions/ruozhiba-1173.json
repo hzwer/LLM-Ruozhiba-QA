@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对电视剧《亮剑》剧名的字面误解，属于幽默表达，不涉及色情内容；人类回答已澄清其比喻意义，逻辑清晰易懂。"
 }

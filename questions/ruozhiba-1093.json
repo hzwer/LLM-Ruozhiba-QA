@@ -12,5 +12,8 @@
   "difficulty_score": 4.32,
   "flash_answer_score": 10,
   "kimi_answer_score": 4,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了幽默比喻（将批评比作弹指神功，被批评者比作额头），人类回答已清晰解释其含义，逻辑通顺；无任何色情、性暗示或不当性内容。"
 }

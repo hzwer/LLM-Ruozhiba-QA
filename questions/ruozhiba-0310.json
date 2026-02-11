@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于基本生理和视觉原理的合理问题，不奇怪也不涉及色情内容。虽然提问方式可能天真或幽默，但逻辑上可以理解，且人类回答已正确解释了视觉限制原理。"
 }

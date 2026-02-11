@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了\"男酮\"这一俚语/谐音词，可能是一个脑筋急转弯或幽默表达。虽然表述不够严谨，但人类回答已给出合理解释，使题目变得可理解。题目仅涉及澡堂情境下的心理感受比较，无性暗示或不当内容，属于正常讨论范畴。"
 }

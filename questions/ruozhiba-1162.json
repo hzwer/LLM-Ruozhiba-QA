@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯，问天花板被砸时是否疼痛。虽然表达方式有点奇怪，但逻辑上是可理解的，人类回答也正确解释了其含义。题目不涉及任何色情或不当性内容，只是关于疼痛感知的幽默提问。"
 }

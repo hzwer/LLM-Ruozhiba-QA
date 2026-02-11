@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问思想是否有质量，是一个关于物理学和神经科学的合理问题，逻辑清晰，人类回答能够准确解释。题目不涉及任何色情或不当性内容。"
 }

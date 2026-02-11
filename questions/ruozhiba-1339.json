@@ -12,5 +12,8 @@
   "difficulty_score": 5.14,
   "flash_answer_score": 2,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默的脑筋急转弯，利用“大脑瓜子”的双关含义，人类回答已澄清其实际指代瓜子，逻辑通顺且不涉及色情内容。"
 }

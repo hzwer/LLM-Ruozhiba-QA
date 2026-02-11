@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个关于汉语词汇\"马路\"字面意思与实际含义差异的典型脑筋急转弯。题目本身虽然从字面上看似乎奇怪（为什么马路上看不到马），但人类回答已经清楚解释了这是语言理解问题，\"马\"在这里是形象化表达而非实际动物。这种谐音梗/文字游戏类问题不应当标记为\"过于奇怪\"。同时，题目完全不涉及任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 3.6,
   "flash_answer_score": 5,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默或讽刺性的对话，医生在手术情境下说“重要的不是结果，而是努力的过程”虽然不合常理，但可以被理解为一种幽默表达或暗示手术失败。人类回答解释了其潜在含义，因此逻辑上可以理解，不标记为过于奇怪。题目涉及医疗场景，但无任何色情或不当性内容。"
 }

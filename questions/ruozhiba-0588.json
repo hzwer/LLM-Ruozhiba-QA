@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个假设性的科学脑筋急转弯，探讨物理原理，虽前提不切实际但逻辑可理解，不属过于奇怪；内容无任何色情或性暗示，不涉及不当内容。"
 }

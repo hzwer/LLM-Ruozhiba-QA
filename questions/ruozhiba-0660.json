@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用拟人化手法表达对手机语音功能的疑问，属于常见的幽默或比喻表达，人类回答提供了合理的技术解释，逻辑清晰可理解。题目不涉及任何色情、性暗示或不当性内容。"
 }

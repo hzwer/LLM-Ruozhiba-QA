@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于历史人物刘备给儿子起名的疑问，基于对\"扶不起的阿斗\"这一成语的误解。人类回答清晰解释了\"阿斗\"是乳名而非正式名字，以及古代起不吉利乳名避邪的习俗。看了回答后，题目的疑问得到合理解释，逻辑通顺，并非真正奇怪的题目。题目完全不涉及任何色情、性暗示或不当性内容。"
 }

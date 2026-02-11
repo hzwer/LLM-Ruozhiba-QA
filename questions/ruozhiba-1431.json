@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问衣柜是否只能装衣服及裤子的存放问题，属于日常收纳疑问，逻辑清晰易懂；人类回答后更无歧义。内容仅涉及普通衣物，无任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 6.3,
   "flash_answer_score": 0,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是谐音梗/幽默表达，\"草\"指饲料而非性暗示，人类回答已澄清含义，逻辑通顺不涉及色情"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于吸管工作原理的物理问题，虽然表述有些模糊，但结合人类回答可以理解其逻辑，属于脑筋急转弯或生活现象疑问，不构成过于奇怪。题目内容仅涉及喝奶茶和吸管，无任何色情或不当性内容。"
 }

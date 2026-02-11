@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目讨论的是网络暴力现象，逻辑清晰可理解。人类回答提供了合理的心理学和社会学解释，说明攻击他人家人与是否自己有家人无关，而是与网络匿名性和缺乏尊重有关。题目不涉及任何色情或不当性内容，属于正常的社会现象讨论。"
 }

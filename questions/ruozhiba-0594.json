@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，通过荒谬的设定（油箱里找邮件）制造笑点，人类回答后完全可理解，不涉及色情内容。"
 }

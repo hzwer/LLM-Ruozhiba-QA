@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯/幽默表达，故意将节日与食物错误搭配（清明节吃粽子、端午节吃月饼），然后询问中秋节应吃什么。人类回答正确指出了传统习俗（中秋节吃月饼），使题目意图清晰易懂。题目没有涉及任何色情或不当内容。"
 }

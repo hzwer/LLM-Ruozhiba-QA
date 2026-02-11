@@ -12,5 +12,8 @@
   "difficulty_score": 3.64,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然基于一个有偏见的预设（日漫好、国漫烂），但逻辑上是连贯且可以理解的。人类回答能够有效回应并解释。题目不涉及任何色情、性暗示或不当内容，是关于动漫产业的文化和商业决策问题。"
 }

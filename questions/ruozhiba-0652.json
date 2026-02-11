@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个日常观察场景，逻辑清晰且可理解。人类回答提供了合理的解释，说明问题本身并不奇怪。内容仅涉及正常的生理活动或日常行为，没有色情或不当性暗示。"
 }

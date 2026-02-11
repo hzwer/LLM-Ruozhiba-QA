@@ -12,5 +12,8 @@
   "difficulty_score": 0.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于刷牙时产生泡沫的正常现象询问，虽然表述有些口语化，但逻辑清晰，看了人类回答后完全能理解，不属于过于奇怪的题目。同时，题目仅涉及日常卫生行为，不包含任何色情、性暗示或不当性内容。"
 }

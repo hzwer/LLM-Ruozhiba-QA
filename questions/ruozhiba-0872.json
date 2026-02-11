@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯类型的幽默问题，将\"喝牛奶时不能吃柠檬\"的常识延伸到\"用柠檬饲养奶牛\"的逻辑联想。看了人类回答后完全理解其意图，不属于无法理解或不合逻辑的题目。题目仅涉及饮食健康常识，不包含任何色情或不当内容。"
 }

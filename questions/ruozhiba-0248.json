@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然基于错误前提（死刑犯可释放），但看了人类回答后能理解其逻辑错误，属于法律常识误解，并非无法理解或完全不合逻辑。题目不涉及任何色情或不当性内容。"
 }

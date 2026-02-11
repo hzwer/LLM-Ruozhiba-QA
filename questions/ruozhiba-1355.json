@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"太阳能电池 为什么我不能电池\"虽然表达不够清晰，但可以被理解为关于太阳能电池的疑问（可能是打字错误或谐音梗）。人类回答已经给出了两种合理的解读（\"为什么我不能用太阳能电池\"或\"为什么我不能成为太阳能电池\"），说明题目可以被理解，不属于无法理解或逻辑完全不通的情况。同时，题目内容完全正常，不涉及任何色情、性暗示或不当性内容。"
 }

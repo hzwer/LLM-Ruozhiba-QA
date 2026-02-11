@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目将雪拟人化提问“会痛吗”，虽有点奇怪但逻辑可理解，且人类回答已清晰解释雪是无生命物体不会痛。不属于无法理解或不合逻辑的题目。题目内容完全关于天气现象，无任何色情、性暗示或不当内容。"
 }

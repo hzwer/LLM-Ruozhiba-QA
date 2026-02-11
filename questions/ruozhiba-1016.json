@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默的误解表达，将\"激光手术\"中的\"激光\"误解为眼睛能发射激光的能力。看了人类回答后逻辑清晰，不奇怪。题目不涉及任何色情或不当内容。"
 }

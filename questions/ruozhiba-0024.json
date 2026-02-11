@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于\"00后\"概念的疑问，提问者可能对\"00后\"的定义有误解，但逻辑清晰，人类回答已明确解释\"00后\"指2000-2009年出生的人，1900年出生的人不属于此范畴。这属于合理的问题，不属于过于奇怪的题目。题目完全不涉及色情或不当内容。"
 }

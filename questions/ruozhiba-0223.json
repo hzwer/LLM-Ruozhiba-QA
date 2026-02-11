@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个基于《三体》科幻设定的幽默式提问，带有脑筋急转弯性质。虽然\"出租太阳\"的想法听起来荒诞，但看了人类回答后逻辑就清楚了：太阳是不可控的巨型天体，不是可以出租的物品。题目本身逻辑通顺，只是表达方式有趣，不属于\"即使看了人类回答仍然过于奇怪\"的情况。同时，题目内容完全与科幻相关，不涉及任何色情或不当性内容。"
 }

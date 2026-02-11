@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"鬼吹灯是什么姿势？\"是基于对\"鬼吹灯\"这个词的字面误解而产生的幽默或脑筋急转弯式提问。人类回答清晰地解释了\"鬼吹灯\"实际上是一部小说名称和民间传说，并非某种姿势。看了人类回答后，题目的逻辑完全通顺，不存在难以理解或不合逻辑的情况。同时，题目中\"姿势\"一词在此语境下仅指普通动作或姿态，不涉及任何色情、性暗示或不当性内容。"
 }

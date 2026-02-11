@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然用词直接，但实质是询问一个基本的生理学/生物学问题（为什么人摄入食物而非排泄物），逻辑合理且有明确科学解释。人类回答已给出清晰答案，不属于无法理解或不合逻辑的情况。题目仅涉及正常生理知识和健康话题，不包含任何色情、性暗示或不当性内容。"
 }

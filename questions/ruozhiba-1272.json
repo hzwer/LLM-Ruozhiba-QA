@@ -12,5 +12,8 @@
   "difficulty_score": 3.34,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个关于电子产品充电的常见实际问题，逻辑清晰，人类回答也很好地解释了反向充电功能的可行性和局限性。题目不涉及任何色情或不当内容，属于正常的科技产品使用咨询。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然表面看似奇怪（暗示雷电可为手机充电），但实际是一个基于误解的科普类问题或脑筋急转弯。人类回答已清晰解释了雷电不能为手机充电的物理原理，逻辑通顺，不存在无法理解或完全不合逻辑的情况。题目不涉及任何色情、性暗示或不当性内容。"
 }

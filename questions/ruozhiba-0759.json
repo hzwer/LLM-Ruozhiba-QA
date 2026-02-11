@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个典型的脑筋急转弯，人类回答给出了合理的解释：用食指数手指时会忽略正在使用的食指本身，导致只数出九根。题目逻辑清晰，不涉及任何色情或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 3.2,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个脑筋急转弯，虽然表面上看起来不合常理（一分钟出国回国50多次），但人类回答已经提供了合理的解释（玩游戏或在国界线跑步），使逻辑变得清晰。题目不涉及任何色情、性暗示或不当性内容，因此不应被标记。"
 }

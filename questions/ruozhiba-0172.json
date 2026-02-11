@@ -12,5 +12,8 @@
   "difficulty_score": 2.02,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于理发过程的合理疑问，基于对理发方式的误解。看了人类回答后逻辑已经清晰，并不奇怪或难以理解。题目只涉及正常的头发和理发话题，不包含任何色情或不当内容。"
 }

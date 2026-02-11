@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于农历新年日期的常识问题，逻辑清晰：大年初三的明天是大年初四。人类回答正确指出了题目的错误表述“大年高一”，看了回答后容易理解，不涉及任何色情或不当内容。"
 }

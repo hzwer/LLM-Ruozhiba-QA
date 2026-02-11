@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于中国神话人物哪吒的出生方式，结合神话情节（肉球出生）与生物学概念（胎生/卵生）的提问，虽带有幽默或脑筋急转弯性质，但逻辑清晰、可理解。人类回答能正常解释神话与现实的差异，因此不认为过于奇怪。问题涉及生殖方式但属于正常生物学讨论，无任何色情或性暗示内容。"
 }

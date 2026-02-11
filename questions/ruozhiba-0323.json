@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对\"破冰船\"这一术语的误解提问，看了人类回答后可以清楚理解其含义，不属于过于奇怪或不合逻辑的问题。题目内容仅涉及北极航行和船只类型，不涉及任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 4.72,
   "flash_answer_score": 6,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是基于对春晚吉祥物命名模式的误解而提出的好奇问题，属于正常的文化讨论范畴。虽然提问者假设吉祥物按生肖命名（如\"羊羊\"对应羊年），但这只是常见的误解或幽默表达，并非逻辑混乱或无法理解。题目不涉及任何色情、性暗示或不当内容，\"鸡鸡\"在此语境下仅指动物名称的叠词形式，无不当含义。"
 }

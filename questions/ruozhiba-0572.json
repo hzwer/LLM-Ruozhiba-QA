@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述的是闪电和雷声的时间差现象，这是常见的物理现象。人类回答正确解释了光速和声速的差异。看了回答后完全理解，不觉得奇怪或不合逻辑。题目也不涉及任何色情或不当性内容。"
 }

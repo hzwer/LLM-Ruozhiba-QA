@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽涉及性犯罪，但无性暗示或色情描述，且逻辑可理解（基于错误前提提问），人类回答已纠正其错误前提。不属于脑筋急转弯或完全不合逻辑，也不符合色情或不当性内容的严格定义。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.74,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了\"打劫\"的谐音梗（既指对抗英雄劫，又指抢劫），但结合人类回答可以看出这是一个正常的游戏问题，人类回答正确理解了题意并给出了合理的游戏策略建议，因此并不难以理解或不合逻辑。题目完全不涉及任何色情、性暗示或不当性内容。"
 }

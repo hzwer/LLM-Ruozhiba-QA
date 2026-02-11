@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个基于谐音的幽默脑筋急转弯（将\"蕾丝\"谐音为\"雷的丝\"），虽然看似无厘头但逻辑清晰易懂。人类回答已经明确解释了蕾丝的真实含义，消除了任何困惑。题目不涉及任何色情、性暗示或不当内容，纯属文字游戏。"
 }

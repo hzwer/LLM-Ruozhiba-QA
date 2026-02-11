@@ -12,5 +12,8 @@
   "difficulty_score": 2.64,
   "flash_answer_score": 10,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于品牌名称误解的幽默表达，看了人类回答后逻辑清晰可理解，不涉及任何色情内容。"
 }

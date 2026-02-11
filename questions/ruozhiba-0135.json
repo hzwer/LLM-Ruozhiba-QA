@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于吸血鬼传说的逻辑问题，探讨月光与阳光对吸血鬼影响的差异。人类回答已从光线强度和传说传统角度给出合理解释，逻辑清晰，容易理解。题目不涉及任何色情、性暗示或不当内容，属于正常的奇幻文化讨论。"
 }

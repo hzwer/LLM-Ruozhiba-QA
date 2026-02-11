@@ -12,5 +12,8 @@
   "difficulty_score": 3.34,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目探讨网络暴力的定义边界，属于逻辑思考问题。看了人类回答后容易理解，并非不合逻辑。题目不涉及任何色情或性暗示内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于想吃生日蛋糕但生日未到的正常生活咨询，逻辑清晰易懂；人类回答合理且切题，没有任何奇怪或难以理解之处。题目不涉及任何色情、性暗示或不当性内容，仅是普通的饮食话题。"
 }

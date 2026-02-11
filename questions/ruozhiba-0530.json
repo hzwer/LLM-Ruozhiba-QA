@@ -12,5 +12,8 @@
   "difficulty_score": 0.9,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问开塞露是什么以及是否可食用，是一个正常的健康咨询问题。开塞露是常见的非处方药，用于治疗便秘。人类回答清晰解释了其用途和服用方式。问题逻辑通顺，不涉及脑筋急转弯或幽默表达。开塞露虽然涉及肠道给药，但属于正常的医学用途，不包含色情或性暗示内容。因此，题目既不过于奇怪，也不涉及色情。"
 }

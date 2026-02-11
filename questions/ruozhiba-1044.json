@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，描述了队友将人踢进球门的荒诞场景，虽然不符合常规足球规则，但逻辑上可以理解其含义，且不涉及任何色情或不当内容。"
 }

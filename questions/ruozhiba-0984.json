@@ -12,5 +12,8 @@
   "difficulty_score": 3.96,
   "flash_answer_score": 10,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 9
+  "original_difficulty_score": 9,
+  "is_too_weird": true,
+  "is_sexual": false,
+  "mark_reason": "题目将自杀这一严重心理危机行为轻描淡写，关注点放在\"挣回面子\"上，逻辑非常不合常理。即使看了人类回答的幽默化解方式，这种奇怪的关注点（将生死危机视为面子问题）仍然存在，不符合正常人的思维逻辑，因此标记为过于奇怪。题目不涉及任何色情内容。"
 }

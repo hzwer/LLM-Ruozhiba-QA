@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是典型的脑筋急转弯，利用常见认知反转制造幽默。人类回答已清晰解释逻辑（打伞是防雨而非引雨），因此不奇怪。内容完全无关色情，仅涉及日常物品与天气的玩笑。"
 }

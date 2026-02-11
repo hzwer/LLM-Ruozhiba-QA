@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目逻辑清晰：电动车没电导致无法运行是常识，人类回答后更易懂，无奇怪或不合逻辑之处。内容仅涉及日常出行工具，无任何色情、性暗示或不当性内容。"
 }

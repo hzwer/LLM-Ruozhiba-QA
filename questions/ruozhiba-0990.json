@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然将豪华车与经济型车进行对比，但属于正常的消费选择讨论，人类回答提供了合理建议，使问题逻辑清晰，不属过于奇怪。题目无任何色情、性暗示或不当内容。"
 }

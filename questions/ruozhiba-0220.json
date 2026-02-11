@@ -12,5 +12,8 @@
   "difficulty_score": 2.9,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目关于饮食与便秘的健康问题，逻辑清晰合理，人类回答提供了正确的健康建议，不涉及任何奇怪或难以理解的内容。便秘是正常的生理现象，题目不包含任何色情、性暗示或不当性内容。"
 }

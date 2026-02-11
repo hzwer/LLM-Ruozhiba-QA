@@ -12,5 +12,8 @@
   "difficulty_score": 3.1,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个自杀危机场景，虽然极端但逻辑清晰、可以理解。人类回答也严肃对待，提供了心理危机干预建议。题目不涉及任何色情或性相关内容，属于心理健康和安全议题。"
 }

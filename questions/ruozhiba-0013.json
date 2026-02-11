@@ -12,5 +12,8 @@
   "difficulty_score": 1.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问鸡柳的部位，属于日常饮食常识问题，人类回答已清晰解释其烹饪方式来源，逻辑通顺，无理解障碍；内容完全涉及食物，无任何色情或不当性暗示。"
 }

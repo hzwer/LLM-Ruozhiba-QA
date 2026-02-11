@@ -12,5 +12,8 @@
   "difficulty_score": 3.12,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 9
+  "original_difficulty_score": 9,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及自残行为和自杀念头，但逻辑清晰（基于错误前提提问），不属于过于奇怪或不合逻辑的类型；内容不涉及任何色情、性暗示或不当性内容，属于需要心理援助的健康话题。"
 }

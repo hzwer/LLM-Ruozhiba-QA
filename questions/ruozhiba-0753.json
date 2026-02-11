@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于物理运动的逻辑问题，探讨\"坠落\"与\"飞\"的区别，并非无法理解或不合逻辑。人类回答明确了物理事实，因此不标记为\"过于奇怪\"。题目不涉及任何色情、性暗示或不当性内容。"
 }

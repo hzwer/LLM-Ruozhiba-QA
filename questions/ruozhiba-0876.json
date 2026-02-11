@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及光学原理和眼睛保护常识，人类回答提供了科学解释，逻辑清晰合理；无任何色情、性暗示或不当性内容。"
 }

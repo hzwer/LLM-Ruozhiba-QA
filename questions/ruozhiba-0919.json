@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，将\"小苹果\"（食物）与\"美人鱼\"（神话生物）荒谬关联，人类回答已清晰解释其逻辑。这属于幽默表达而非真正无法理解或不合逻辑的问题。题目不涉及任何色情、性暗示或不当性内容。"
 }

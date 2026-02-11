@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于生物适应性的合理问题，探讨不同动物的生存环境。蜗牛、螃蟹、蝎子确实有陆地种类，而河蚌是严格水生的，问题有生物学意义且逻辑清晰。人类回答也给出了合理的解释。题目不涉及任何色情或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯或黑色幽默，通过抢劫乞丐导致其被迫工作从而“治好”残疾的荒谬逻辑进行反讽，虽然不合常理但可以理解，不标记为过于奇怪；内容不涉及任何色情或性暗示。"
 }

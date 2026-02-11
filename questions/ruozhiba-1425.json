@@ -12,5 +12,8 @@
   "difficulty_score": 2.94,
   "flash_answer_score": 10,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于从厕所出来后感到饥饿是否该吃健胃消食片的健康咨询，虽然表达较为随意，但逻辑清晰且属于正常生理话题。人类回答能够理解并给出合理解释，因此不标记为过于奇怪。题目不涉及任何色情或性暗示内容，属于健康知识范畴。"
 }

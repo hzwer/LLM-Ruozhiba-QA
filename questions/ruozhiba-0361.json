@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个幽默/脑筋急转弯式的提问，表面逻辑看似矛盾（如果吃鱼能变聪明，为什么鱼被吃），但人类回答提供了合理的科学解释，整体逻辑通顺，属于正常幽默表达，不应标记为过于奇怪。题目内容完全关于食物营养和健康话题，不涉及任何色情或不当内容。"
 }

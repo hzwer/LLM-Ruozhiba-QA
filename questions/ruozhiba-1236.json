@@ -12,5 +12,8 @@
   "difficulty_score": 2.46,
   "flash_answer_score": 10,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个逻辑推理题，涉及对真实时间与人为修改时间的区分，逻辑清晰易理解，不涉及任何色情内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个比喻性的问题，用\"用书堆成梯子\"来比喻学习知识的过程。人类回答清楚地解释了其含义：学习知识需要结合实践才能实现真正的进步。这个题目逻辑清晰，容易理解，是一个富有哲理的教育类问题，不涉及任何色情或不当内容。"
 }

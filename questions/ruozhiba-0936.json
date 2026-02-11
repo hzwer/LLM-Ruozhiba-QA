@@ -12,5 +12,8 @@
   "difficulty_score": 5.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 3,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对歌词\"黑夜给了我黑色的眼睛，我却用它来寻找光明\"的幽默改编，属于常见的文字游戏或谐音梗。看了人类回答后，可以清楚理解其来源和意图，并不奇怪或难以理解。内容不涉及任何色情、性暗示或不当性内容，属于健康的创意表达。"
 }

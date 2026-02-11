@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个关于\"吃饭\"一词多义性的语言游戏（脑筋急转弯），不涉及色情内容。人类回答清晰地解释了问题的逻辑，使问题变得容易理解。"
 }

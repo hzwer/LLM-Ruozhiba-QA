@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了类比推理（将学习《资本论》与考驾照进行类比），虽然类比可能不完全恰当，但逻辑上是可理解的。人类回答已经清楚地解释了其合理性，因此不算是过于奇怪或不合逻辑。题目内容不涉及任何色情、性暗示或不当性内容。"
 }

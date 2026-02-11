@@ -12,5 +12,8 @@
   "difficulty_score": 3.34,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于词语在不同学科中的多义性，是一个合理的语言学问题。人类回答清晰解释了\"升华\"在语文（抽象提升）和物理（物态变化）中的不同含义。问题本身逻辑清晰，易于理解，不奇怪。题目完全不涉及任何色情或不当内容。"
 }

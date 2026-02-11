@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默表达或脑筋急转弯，将农药与土地养分荒谬关联，虽奇怪但属于玩笑性质，不应标记为过于奇怪。题目不涉及任何色情或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 0.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目反映了对性别决定机制的常见误解，看了人类回答后逻辑清晰、可理解，不属于过于奇怪的题目。同时，题目仅涉及正常的生理知识，不包含任何色情或不当性内容。"
 }

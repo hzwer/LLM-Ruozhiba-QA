@@ -12,5 +12,8 @@
   "difficulty_score": 3.04,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对\"移动硬盘\"名称的字面误解，属于幽默或脑筋急转弯类型，人类回答已清晰解释其便携性含义，逻辑通顺，不涉及任何色情内容。"
 }

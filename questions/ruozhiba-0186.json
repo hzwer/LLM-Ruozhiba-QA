@@ -12,5 +12,8 @@
   "difficulty_score": 3.34,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于监狱服刑人员被记大过是否会被开除，属于对监狱惩罚制度的疑问。人类回答已清楚解释\"开除\"概念不适用于监狱环境，逻辑清晰易懂。题目不涉及色情或不当性内容。"
 }

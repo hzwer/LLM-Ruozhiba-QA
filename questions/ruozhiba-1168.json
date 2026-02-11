@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于古埃及木乃伊制作的历史文化问题，虽然包含商业假设，但整体逻辑清晰，人类回答能有效解释。不涉及任何色情或不当内容，属于正常的生理/历史知识范畴。"
 }

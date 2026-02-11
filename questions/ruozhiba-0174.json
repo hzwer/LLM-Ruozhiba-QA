@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于\"方向盘\"命名的合理疑问，基于字面意思产生的语言逻辑思考。看了人类回答后完全理解命名的由来（功能导向而非形状描述），逻辑清晰。不涉及任何色情或不当内容，属于正常的语言探讨。"
 }

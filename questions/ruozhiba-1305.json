@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个孩子对妈妈指令的误解，以为关窗可以阻止雷电，但人类回答合理解释了关窗的真正目的是防止风雨进入，而非消除雷电。这属于常见的儿童天真理解或字面误解，逻辑上可理解，不构成过于奇怪或不合逻辑。同时，题目内容完全无关色情、性暗示或不当性内容，仅涉及日常天气和家庭建议。"
 }

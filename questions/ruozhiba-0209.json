@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于\"辟谣\"与\"造谣\"概念辨析的逻辑问题，人类回答已清晰解释两者本质相反，因此不奇怪、不难以理解；题目不涉及任何色情、性暗示或不当性内容。"
 }

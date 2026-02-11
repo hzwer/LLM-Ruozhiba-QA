@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"丁丁抽筋怎么办\"存在双关含义（人名或身体部位），但人类回答已给出合理解释，逻辑清晰可理解，不属于过于奇怪的题目。同时，题目仅涉及健康问题，无任何色情、性暗示或不当性内容，属于正常的生理知识询问。"
 }

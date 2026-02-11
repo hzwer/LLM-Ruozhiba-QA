@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个合理的科学疑问，涉及对氧气和二氧化碳分子结构的理解，虽然显示出概念混淆，但逻辑上可理解。人类回答清晰解释了细胞呼吸原理，问题完全得到合理解释，没有任何难以理解或不合逻辑之处。题目内容完全关于化学和生物学知识，不涉及任何色情或不当性内容。"
 }

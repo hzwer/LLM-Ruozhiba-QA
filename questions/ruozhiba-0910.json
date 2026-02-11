@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于安全常识的逻辑问题，虽然表述有点奇怪，但人类回答给出了合理的解释（跳下来会受伤），逻辑清晰易懂，不属于过于奇怪或不合逻辑。题目内容不涉及任何色情、性暗示或不当性内容，仅是日常安全话题。"
 }

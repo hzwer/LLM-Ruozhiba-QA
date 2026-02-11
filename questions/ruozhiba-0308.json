@@ -12,5 +12,8 @@
   "difficulty_score": 0.0,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 0
+  "original_difficulty_score": 0,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个简单的时间单位换算逻辑问题，如果一分钟等于60秒，那么60秒当然等于一分钟，这是基本的等价关系。题目完全合情合理，没有任何奇怪或难以理解之处。同时，题目不涉及任何色情内容，纯粹是数学/逻辑问题。"
 }

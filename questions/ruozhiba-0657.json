@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目由两个文学典故拼接而成（\"病中垂死惊坐起\"可能源自杜甫诗作改编，\"吾与徐公孰美\"出自《战国策》），看了人类回答后可理解为脑筋急转弯或幽默表达，逻辑上可理解；内容涉及诗歌和品德比较，无任何色情、性暗示或不当性内容。"
 }

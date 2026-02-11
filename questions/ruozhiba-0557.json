@@ -12,5 +12,8 @@
   "difficulty_score": 4.18,
   "flash_answer_score": 5,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问\"地球ol\"的技术实现，虽然术语模糊，但人类回答已合理澄清其可能的含义（指某个软件/游戏或地球本身），并非无法理解或逻辑不通。题目不涉及任何色情或不当内容。"
 }

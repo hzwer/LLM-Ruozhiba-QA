@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了拟人化的幽默表达方式，虽然狗不会说话是常识，但问题逻辑可理解，且人类回答已给出合理解释。题目不涉及任何色情或不当性内容。"
 }

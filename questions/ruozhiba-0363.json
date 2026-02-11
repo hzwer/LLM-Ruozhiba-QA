@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个基于生物学分类误解的脑筋急转弯，虽然表面看似奇怪，但属于幽默或逻辑陷阱类表达，人类回答已清晰解释其原理。题目不涉及任何色情或不当内容。"
 }

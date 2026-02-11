@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个幽默的脑筋急转弯式提问，虽然表述夸张，但逻辑上可以理解，人类回答已给出合理医学解释。题目涉及正常的医疗注射知识，讨论生理结构，没有色情或不当性内容。"
 }

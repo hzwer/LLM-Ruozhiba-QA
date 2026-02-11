@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个基于动漫设定的创意性问题，探讨虚构情境下技术应用的可能性。看了人类回答后，问题逻辑清晰、易于理解，属于合理的脑洞提问。不涉及任何色情或不当内容。"
 }

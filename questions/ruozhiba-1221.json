@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个典型的语言误解幽默/脑筋急转弯，说话者可能将\"无糖\"误解为一种糖的名称或认为\"无糖\"意味着完全没有东西。人类回答已经清晰解释了\"无糖\"的正确含义（不含糖而非包含\"无糖\"物品），因此题目逻辑是通顺的，属于常见语言游戏。题目不涉及任何色情或性暗示内容。"
 }

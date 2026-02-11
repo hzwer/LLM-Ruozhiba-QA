@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个常见的文化比喻，询问“外国的月亮比中国圆”或“中国的月亮比外国圆”的说法，人类回答已清楚解释这是表达心理现象的比喻，没有科学依据。看了人类回答后，题目逻辑清晰、容易理解，不奇怪。题目内容完全正常，不涉及任何色情或不当内容。"
 }

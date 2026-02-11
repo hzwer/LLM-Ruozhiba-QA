@@ -12,5 +12,8 @@
   "difficulty_score": 3.2,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于鱼类生理结构的正常疑问，逻辑清晰，人类回答给出了合理的生物学解释，不涉及任何色情或不当内容。"
 }

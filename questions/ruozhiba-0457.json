@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于科学常识的提问，虽然表述可能不够精确，但并非无法理解或不合逻辑；且完全不涉及色情内容。"
 }

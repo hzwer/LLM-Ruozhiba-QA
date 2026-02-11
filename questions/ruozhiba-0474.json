@@ -12,5 +12,8 @@
   "difficulty_score": 1.56,
   "flash_answer_score": 7,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是正常的逻辑推理问题，不涉及色情内容，且人类回答已清晰解释，不奇怪。"
 }

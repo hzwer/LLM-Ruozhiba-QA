@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目虽然表达方式暴力且粗俗，但逻辑上是自相矛盾的（砍掉双手后无法挖鼻孔），人类回答已清晰解释这一逻辑矛盾。这属于可以理解的逻辑悖论式表达，并非完全无法理解的奇怪内容。同时，题目只涉及鼻屎、挖鼻孔等正常生理现象，没有性暗示或不当性内容，属于正常的生理话题。"
 }

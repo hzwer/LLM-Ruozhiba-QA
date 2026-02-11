@@ -12,5 +12,8 @@
   "difficulty_score": 5.74,
   "flash_answer_score": 2,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及B站鬼畜视频和\"鬼畜攻\"两个网络文化概念，提问者可能混淆了\"鬼畜\"一词在不同语境下的含义。看了人类回答后可以清楚理解其逻辑：这是对网络梗的误解，并非真正无法理解或不合逻辑。题目不涉及任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是利用\"二次元\"和\"二\"的文字游戏，属于常见的网络幽默表达和双关语。虽然看起来有点奇怪，但逻辑可理解，且人类回答已清晰解释。根据指引，此类脑筋急转弯、谐音梗或幽默表达不应标记为\"过于奇怪\"。题目完全不涉及色情、性暗示或不当性内容。"
 }

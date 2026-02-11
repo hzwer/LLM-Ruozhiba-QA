@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯，通过强调“同样是四个角”来调侃凳子和桌子的共同点，但实际区分基于功能、高度等。看了人类回答后，逻辑清晰易懂，不奇怪；话题涉及日常家具区分，无任何色情或不当内容。"
 }

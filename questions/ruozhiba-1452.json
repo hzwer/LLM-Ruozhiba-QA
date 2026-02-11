@@ -12,5 +12,8 @@
   "difficulty_score": 1.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目将精神分裂症（精神疾病）与细胞分裂方式（有丝分裂/无丝分裂）进行混淆，源于对“分裂”一词在不同领域含义的误解。虽然前提错误，但逻辑上可以理解提问者的混淆原因，且不涉及任何色情或不当内容。"
 }

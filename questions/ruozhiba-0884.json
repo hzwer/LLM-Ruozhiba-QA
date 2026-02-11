@@ -12,5 +12,8 @@
   "difficulty_score": 0.72,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问一分钟是否等于六十秒，是基本的时间单位问题，逻辑清晰，内容正常，不涉及任何色情或奇怪内容。"
 }

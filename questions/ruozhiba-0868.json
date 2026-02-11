@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问排便后身体感觉变轻的原因，属于正常的生理现象讨论。人类回答给出了合理的科学解释，逻辑清晰易懂。虽然表达直白，但并未超出正常理解范围，也不属于脑筋急转弯或逻辑不通的情况。同时，题目仅涉及排便这一正常生理活动，不包含任何性暗示或不当性内容，属于健康话题范畴。"
 }

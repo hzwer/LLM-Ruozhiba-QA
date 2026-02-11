@@ -12,5 +12,8 @@
   "difficulty_score": 2.7,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 9
+  "original_difficulty_score": 9,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述\"在房梁上吊\"可能指吊环运动或类似锻炼，人类回答已给出合理替代解释，不属于无法理解或不合逻辑。内容无性暗示或不当性内容，仅涉及身体锻炼和健康话题。"
 }

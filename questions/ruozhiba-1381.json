@@ -12,5 +12,8 @@
   "difficulty_score": 4.32,
   "flash_answer_score": 6,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽有歧义，但人类回答已清晰解释两种可能的理解（饮食习惯或口味偏好），因此不算是过于奇怪或无法理解。题目未涉及色情、性暗示或与性相关的不当内容，主要涉及暴力或黑色幽默的潜在解读，但不在本工具的标记范围内。"
 }

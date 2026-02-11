@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个合理的科学问题，逻辑清晰，人类回答正确解释了化学反应需要特定条件（高温、高压、催化剂），不存在理解障碍；不涉及任何色情内容。"
 }

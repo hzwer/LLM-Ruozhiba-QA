@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目将冬奥吉祥物冰墩墩与食物肉夹膜进行对比，虽然看似无厘头，但属于可以理解的简单比较问题。看了人类回答后，问题逻辑完全清晰，不属于无法理解或不合逻辑的类型。题目不涉及任何色情、性暗示或不当性内容。"
 }

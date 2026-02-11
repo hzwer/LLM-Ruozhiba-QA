@@ -12,5 +12,8 @@
   "difficulty_score": 4.5,
   "flash_answer_score": 5,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了\"草船借箭\"的历史典故来类比现代军事情况，属于幽默或创意表达，逻辑可理解。不涉及任何色情或不当内容。"
 }

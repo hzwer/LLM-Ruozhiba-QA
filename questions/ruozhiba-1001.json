@@ -12,5 +12,8 @@
   "difficulty_score": 3.34,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个利用\"五步蛇\"名称误解的黑色幽默或脑筋急转弯，虽然情节荒诞（被咬后又抓蛇咬人），但属于幽默表达范畴。看了人类回答后可以理解其意图，并非无法理解或逻辑完全不通。内容不涉及任何色情、性暗示或不当性内容，只是关于健康话题的夸张表达。"
 }

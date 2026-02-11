@@ -12,5 +12,8 @@
   "difficulty_score": 1.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目可能是一个谐音梗或幽默表达，故意将“大雪”误写为“由乃”，但看了人类回答后可以理解其意图（小雪之后是大雪），逻辑上可通，并非无法理解或不合逻辑；同时，题目不涉及任何色情、性暗示或不当性内容。"
 }

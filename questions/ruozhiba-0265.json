@@ -12,5 +12,8 @@
   "difficulty_score": 1.74,
   "flash_answer_score": 10,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个夸张但逻辑基本通顺的场景（手机膜滑导致撞墙骨折），并询问拔罐治疗骨折。看了人类回答后，理解更清晰，没有变得难以理解或不合逻辑。内容不涉及任何色情、性暗示或不当性内容，仅涉及健康话题。"
 }

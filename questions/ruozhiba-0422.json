@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于拖鞋设计的正常疑问，逻辑清晰，容易理解，不涉及任何奇怪或难以理解的内容。同时，题目不包含任何色情、性暗示或不当性内容，仅涉及日常用品的使用问题。"
 }

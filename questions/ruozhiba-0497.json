@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个班主任口误和小明的幽默回应，基于谐音误解（将“上过我的课”误说为“上过我的客人”，小明联想至服务行业并问价格）。人类回答清晰解释了这是一个玩笑，逻辑通顺，不涉及色情或不当内容。即使看了人类回答，题目仍然容易理解，属于正常的幽默表达。"
 }

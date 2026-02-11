@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个关于海水饮用的科学常识问题，虽然表面看似合理，但实际涉及人体生理学知识。看了人类回答后，问题变得清晰易懂，逻辑上是合理的疑问，不属于过于奇怪或难以理解。题目不涉及任何色情、性暗示或不当性内容，属于正常的健康知识讨论。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对\"新娘\"一词含义的误解或脑筋急转弯，涉及正常的家庭关系称谓问题。看了人类回答后逻辑清晰，不属于无法理解或不合逻辑的题目。内容不涉及任何色情、性暗示或不当性内容。"
 }

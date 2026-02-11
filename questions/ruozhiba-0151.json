@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然基于错误前提（姚明是篮球运动员而非足球运动员），但问题本身容易理解，逻辑清晰。人类回答已明确解释原因，看了回答后完全能理解问题的含义和错误所在。题目属于常识性错误或可能为幽默提问，不属于无法理解或逻辑完全不通的情况。同时，题目不涉及任何色情、性暗示或不当性内容，仅是体育相关话题。"
 }

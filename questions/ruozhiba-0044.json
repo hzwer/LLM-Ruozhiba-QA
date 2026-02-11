@@ -12,5 +12,8 @@
   "difficulty_score": 1.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默讽刺表达，将日常卫生习惯与资本主义荒谬关联，但人类回答后逻辑清晰，属于可理解的玩笑；内容涉及正常生理卫生，无性暗示或不当内容。"
 }

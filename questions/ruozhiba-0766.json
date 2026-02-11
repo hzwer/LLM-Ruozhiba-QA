@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个关于中文俗语\"人是铁，饭是钢\"的字面理解问题，属于常见的语言逻辑疑问。看了人类回答后完全可理解，不奇怪。题目不涉及任何色情内容。"
 }

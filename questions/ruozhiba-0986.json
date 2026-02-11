@@ -12,5 +12,8 @@
   "difficulty_score": 2.7,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 9
+  "original_difficulty_score": 9,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个严重的交通事故后询问洗车地点，虽然不合常理但可能是有意设计的道德困境或黑色幽默，不属于逻辑混乱；内容涉及暴力和死亡，但不包含任何色情、性暗示或不当性内容。"
 }

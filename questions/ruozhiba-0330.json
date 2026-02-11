@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个合理的脑筋急转弯，基于呼吸现象与空调工作原理的表面相似性进行类比提问，人类回答已经清晰解释了本质区别。不涉及任何色情或不当性内容，属于正常的生理知识和幽默表达。"
 }

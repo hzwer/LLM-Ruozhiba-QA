@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于乌鸦行为的幽默表达或疑问，逻辑清晰，人类回答能合理解释乌鸦为何不使用吸管；不涉及任何色情或不当内容。"
 }

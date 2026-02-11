@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然基于一个错误的科学假设（认为吃低热量食物可以降低体温从而躲过热成像），但逻辑上是可理解的，涉及热成像技术原理的疑问，并非完全不合逻辑或无法理解。题目内容完全不涉及色情、性暗示或不当性内容，属于正常的科学知识探讨范畴。"
 }

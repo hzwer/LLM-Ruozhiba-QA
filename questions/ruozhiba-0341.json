@@ -12,5 +12,8 @@
   "difficulty_score": 1.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗或脑筋急转弯，提问者可能因为两者名称中都含有“麦”字而产生联想。人类回答清楚地解释了两者无实质联系，问题本身逻辑清晰、易于理解，不涉及任何色情或不当内容。"
 }

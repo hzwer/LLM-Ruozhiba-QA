@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默的脑筋急转弯，利用\"种草\"和\"吃草\"的字面意思制造矛盾，人类回答已经清晰解释了素食主义者和环保主义者的目标一致性，逻辑通顺。内容不涉及色情、性暗示或不当性内容，属于正常社会议题讨论。"
 }

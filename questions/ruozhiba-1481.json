@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述的场景虽然不常见且不合理（在饮水机中养小蝌蚪），但逻辑清晰、可以理解，人类回答也给出了合理建议。不涉及任何色情或不当性内容。"
 }

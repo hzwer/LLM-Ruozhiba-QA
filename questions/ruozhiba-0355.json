@@ -12,5 +12,8 @@
   "difficulty_score": 1.02,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于汉字结构的谜题，\"雨字头\"加\"雷下面的田\"确实构成\"电\"字，逻辑清晰，人类回答正确解释了谜底，不奇怪。题目内容完全与色情无关，属于正常的文字游戏。"
 }

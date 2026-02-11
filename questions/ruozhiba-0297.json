@@ -12,5 +12,8 @@
   "difficulty_score": 3.34,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了\"文化造纸\"这一谐音梗（正常应为\"文化程度\"或\"文化水平\"），属于幽默表达或脑筋急转弯类型。人类回答正确识别了这种可能性，并给出了合理解释。根据规则，这类谐音梗即使看起来奇怪也不应标记为\"过于奇怪\"。题目内容完全不涉及色情或性暗示。"
 }

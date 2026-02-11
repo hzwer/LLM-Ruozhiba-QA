@@ -12,5 +12,8 @@
   "difficulty_score": 1.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"口口相传到底是什么相传?\"是一个关于成语含义的文字游戏或脑筋急转弯。虽然表述上有些重复和奇怪，但人类回答给出了清晰、合理的解释，表明这是一个可理解的问题。题目不涉及任何色情、性暗示或不当内容，属于正常的语言知识提问。"
 }

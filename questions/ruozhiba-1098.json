@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于命名和认知的逻辑问题，人类回答清楚地解释了\"恐龙\"这个词是人类创造的，因此问题本身并不矛盾或难以理解。不涉及任何色情或不当内容。"
 }

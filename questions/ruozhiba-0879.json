@@ -12,5 +12,8 @@
   "difficulty_score": 1.72,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问自行车和冰箱的基本功能问题，虽然简单但逻辑清晰、易于理解，不属于脑筋急转弯或幽默表达，但看了人类回答后完全可以理解其含义。题目内容完全与日常物品相关，不涉及任何色情或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个哲学性的思辨问题，探讨梦境与现实体验的关系，虽然抽象但逻辑清晰可理解。人类回答也从不同角度进行了合理解释。题目不涉及任何色情或不当内容。"
 }

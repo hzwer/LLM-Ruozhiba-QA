@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默表达，将\"回忆\"比喻为\"迷宫\"，使用了\"走不出去\"的双关语。虽然表述方式有些特别，但看了人类回答后可以清楚理解其含义，属于脑筋急转弯类型的表达，逻辑上是通顺的。题目不涉及任何色情、性暗示或不当性内容，所有用词均为中性词汇。"
 }

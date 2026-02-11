@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问女孩膝盖有伤疤仍穿短裤的原因，人类回答提供了合理的个人选择、自信和舒适度解释，逻辑清晰易懂；内容涉及正常身体形象话题，无性暗示或不当性内容。"
 }

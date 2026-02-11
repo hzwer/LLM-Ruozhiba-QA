@@ -12,5 +12,8 @@
   "difficulty_score": 3.32,
   "flash_answer_score": 8,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于虚构角色使用现代清洁用品的幽默提问，逻辑清晰，并非无法理解；内容仅涉及正常洗澡话题，无任何色情或不当性内容。"
 }

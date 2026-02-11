@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"人身上有毛为什么还要穿衣服\"是一个关于人类穿衣行为与体毛关系的合理提问，属于正常的科学/社会学疑问。人类回答清晰地解释了体毛功能不足、衣服的多重作用以及社会规范等原因，逻辑通顺，易于理解。题目不涉及任何色情、性暗示或不当内容，不应被标记。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对牛顿第三定律的误解性提问，虽然包含夸张想象（双倍、四倍、无穷伤害），但核心逻辑清晰，看了人类回答后完全可理解，属于合理的物理疑问或幽默表达。不涉及任何色情、性暗示或不当内容，仅涉及正常的物理和生理话题。"
 }

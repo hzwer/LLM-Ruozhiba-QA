@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于建筑原理的合理疑问，人类回答提供了实用且逻辑清晰的解释，看了回答后容易理解，不奇怪。内容完全健康，不涉及任何色情或性暗示。"
 }

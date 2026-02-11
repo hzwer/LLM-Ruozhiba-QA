@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个历史对比的脑筋急转弯，虽然表述有些奇怪，但人类回答已经清楚解释了拿破仑作为法国皇帝不需要横扫自己国家的逻辑。题目不涉及任何色情或不当内容。"
 }

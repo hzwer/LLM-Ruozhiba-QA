@@ -12,5 +12,8 @@
   "difficulty_score": 0.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然表述有些混乱（在家中吃饭通常不需要带钱），但基本意思可以理解，是关于吃饭没带钱是否会被父母扣留的担忧。人类回答能给出合理回应，不算无法理解或逻辑完全不通。题目不涉及任何色情或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 3.24,
   "flash_answer_score": 10,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于动物行为的科学问题，逻辑清晰，人类回答有效解释了问题。不涉及任何色情或不当内容。"
 }

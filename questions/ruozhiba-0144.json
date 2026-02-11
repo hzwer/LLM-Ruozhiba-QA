@@ -12,5 +12,8 @@
   "difficulty_score": 3.2,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目探讨职业选择原因，逻辑清晰，人类回答能合理解释；殡仪馆属于正常行业，不涉及色情内容。"
 }

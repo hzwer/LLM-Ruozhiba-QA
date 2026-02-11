@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目基于对雨林功能的错误理解（认为雨林在晚上呼吸抢夺空气），但逻辑上可以理解，并非完全无法理解或不合逻辑。人类回答已科学解释雨林的实际作用，因此不标记为过于奇怪。题目内容完全不涉及色情、性暗示或不当性内容，属于环境科学话题。"
 }

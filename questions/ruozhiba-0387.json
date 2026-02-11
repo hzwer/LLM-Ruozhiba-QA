@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗/文字游戏，利用了\"理解\"的多义性（\"明白\"和\"打理\"）。人类回答给出了合理的解释，虽然表达方式有些奇怪，但逻辑上是可理解的，不属于\"即使看了人类回答仍然无法理解或不合逻辑\"的情况。题目不涉及任何色情或不当内容。"
 }

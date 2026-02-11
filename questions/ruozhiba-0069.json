@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽存在时间逻辑错误（忽略历史朝代先后顺序），但人类回答已明确解释秦朝与后世朝代的时间关系，逻辑清晰可理解。该提问属于常见历史误解或幽默表达，并非真正奇怪或无法理解。题目内容纯属历史讨论，不涉及任何色情、性暗示或不当性内容。"
 }

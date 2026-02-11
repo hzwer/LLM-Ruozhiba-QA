@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于分娩姿势的正常医学/健康问题，逻辑清晰，人类回答已经充分解释了相关医学背景。问题不涉及色情、性暗示或不当性内容，属于合理的生理知识探讨。"
 }

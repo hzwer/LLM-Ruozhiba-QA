@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是比较烟盒健康警示语与视频网站技术提示是否性质相同，属于逻辑思考题，虽有点奇怪但可以理解，不涉及色情内容"
 }

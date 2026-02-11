@@ -12,5 +12,8 @@
   "difficulty_score": 3.76,
   "flash_answer_score": 6,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于物理现象的合理疑问，用户观察到矿泉水瓶装热水后内陷的现象，与\"热胀冷缩\"的常识产生困惑。人类回答给出了科学解释（负压导致内陷），说明题目逻辑清晰、有教育意义，即使看了回答也不觉得奇怪。题目完全不涉及任何色情或不当性内容。"
 }

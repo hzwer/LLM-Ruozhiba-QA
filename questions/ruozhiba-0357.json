@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于水稀释的逻辑问题，不涉及色情内容，且人类回答使其易于理解，因此不标记。"
 }

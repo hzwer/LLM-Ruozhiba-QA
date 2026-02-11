@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默表达，用\"尾巴\"比喻简笔画中的鼻子，看了人类回答后逻辑清晰易懂；内容不涉及任何色情或不当性内容。"
 }

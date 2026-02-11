@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是脑筋急转弯，基于常识（人只有一个心脏）进行幽默提问，看了人类回答后逻辑清晰，不奇怪；涉及正常生理知识，无任何色情或不当内容。"
 }

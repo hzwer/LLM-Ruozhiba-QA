@@ -12,5 +12,8 @@
   "difficulty_score": 1.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于成语逻辑关系的语言分析题，人类回答已清晰解释其含义，并非无法理解；且不涉及任何色情或不当内容。"
 }

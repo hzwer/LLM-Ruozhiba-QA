@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个关于品牌名称双关的幽默表达，逻辑清晰，不涉及任何色情内容。人类回答清楚地解释了\"玛莎拉蒂\"实际指的是南孚聚能环电池的山寨品牌，这是一个常见的谐音梗，不奇怪也不色情。"
 }

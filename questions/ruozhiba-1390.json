@@ -12,5 +12,8 @@
   "difficulty_score": 2.1,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目反映的是对老鼠药用途的误解，人类回答已澄清并提供正确建议，逻辑清晰；不涉及任何色情内容。"
 }

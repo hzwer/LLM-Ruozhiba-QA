@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是典型的谐音梗/脑筋急转弯，利用\"蓝牙\"的字面意思（蓝色的牙齿）与无线通信技术形成双关。人类回答清楚地解释了蓝牙是无线通信技术，没有实体，因此不会得龋齿，逻辑清晰易懂。看了人类回答后，完全理解题目的幽默意图，不应标记为\"过于奇怪\"。题目完全不涉及色情或不当性内容。"
 }

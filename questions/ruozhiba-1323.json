@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于词语反义关系的逻辑题，属于脑筋急转弯类型。虽然可能有点绕，但逻辑清晰，人类回答也给出了合理解释。题目仅涉及正常的亲属称谓，不涉及任何色情或不当内容。"
 }

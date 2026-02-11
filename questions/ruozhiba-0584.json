@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个98岁老人玩手机的情景，询问未来生活方向。这是一个关于老年人健康和精神状态的正常话题，逻辑清晰，人类回答也给出了合理建议。题目不涉及任何色情或不当性内容。"
 }

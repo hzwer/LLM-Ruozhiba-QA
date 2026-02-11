@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个合理的假设性历史问题，探讨政治术语的定义与历史事件的关系；人类回答清晰解释了\"法西斯\"作为政治术语的特性，不涉及色情内容。"
 }

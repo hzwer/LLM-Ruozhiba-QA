@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个常见的知识误解/脑筋急转弯，询问\"六小龄童\"是否指六个人。看了人类回答后，问题变得清晰合理，属于正常文化常识类问题，不涉及任何色情或不当内容。"
 }

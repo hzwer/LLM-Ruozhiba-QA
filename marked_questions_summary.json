@@ -1,0 +1,234 @@
+{
+  "total": 1493,
+  "success": 1493,
+  "error": 0,
+  "too_weird_count": 7,
+  "sexual_count": 27,
+  "both_count": 2,
+  "marked_questions": [
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0130.json",
+      "question": "阅片无数，能上成人本科吗",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目中的\"阅片无数\"在中文网络语境中常暗指观看大量成人影片（色情内容），与\"成人本科\"搭配构成性暗示，属于不当性内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0214.json",
+      "question": "为了能够混进女子澡堂我也像她们一样没穿衣服走进去了。 哈哈哈哈妈的谁能发现我？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目描述混入女子澡堂的行为，涉及裸体和侵犯隐私，具有明显的性暗示色彩，属于不当性内容。虽然逻辑清晰，但内容不适当。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0280.json",
+      "question": "课堂上，小明放下手机，站起来向老师提问 你妈了个逼的你瞅啥？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目中包含\"你妈了个逼的\"，这是一个含有性暗示的侮辱性用语，涉及不当性内容。尽管人类回答解释了其不礼貌性，但内容本身符合性暗示的判断标准。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0336.json",
+      "question": "你怎么不早说你有J8害得我日了你半天",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目使用了\"J8\"（鸡巴的谐音）和\"日\"（性行为的俚语）等明显带有性暗示的词汇，构成不当性内容。虽然人类回答提供了谐音解释，但原始表达属于性暗示内容，应标记为涉及色情。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0484.json",
+      "question": "糖瓜又硬又圆，算不算我们给灶王爷塞的口球？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目使用了\"口球\"一词，该词在现代汉语中专指BDSM活动中使用的塞口物，具有明确的性暗示含义。即使试图将其与传统习俗联系起来，但用词本身构成了不当性内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0526.json",
+      "question": "我给充气娃娃充了液化气效果是不是更好",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目涉及成人用品\"充气娃娃\"，属于性暗示内容；虽然问题本身荒谬，但人类回答已清晰解释危险性和错误性，逻辑上不算是过于奇怪。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0564.json",
+      "question": "我一犯错老师就捏我鸡巴我该咋办？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目描述老师捏学生生殖器的行为，涉及明确的性行为描述和性骚扰内容，属于不当性内容。虽然情境严重且不寻常，但逻辑上可以理解（性骚扰情境），人类回答也正确理解了其作为性骚扰问题的本质，因此不标记为过于奇怪。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0544.json",
+      "question": "老婆早产了。 孩子卡在洞里出不来怎么办？在线等！急急急！",
+      "is_too_weird": true,
+      "is_sexual": true,
+      "reason": "题目使用\"卡在洞里\"这一不恰当且带有性暗示的表述来描述分娩过程，即使看了人类回答，这种奇怪的表达方式仍然不合逻辑且令人不适。该表述暗指女性生殖器，涉及不当性内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0646.json",
+      "question": "我的菊花不香应该施点什么肥？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目中的“菊花”在中文网络语境中常作为肛门的隐晦代称，结合“不香”和“施肥”的表述，构成对肛门卫生的低俗玩笑，具有明显性暗示。尽管人类回答将其理解为植物菊花，但题目本身意图利用双关制造不当性内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0731.json",
+      "question": "充气娃娃这种气球为什么比普通气球贵那么多",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目涉及成人用品\"充气娃娃\"，属于性相关产品，因此涉及色情内容。虽然题目有误解（将充气娃娃称为气球），但看了人类回答后可以理解其意图，不算是过于奇怪。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0744.json",
+      "question": "刚才有一泡鸟屎落在头上了，我想用舌头去舔，可是怎么也够不到该怎么破",
+      "is_too_weird": true,
+      "is_sexual": false,
+      "reason": "题目描述想用舌头舔头上的鸟屎，这一行为本身不合常理、难以理解，即使看了人类回答，仍然觉得奇怪；但题目不涉及任何色情内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0779.json",
+      "question": "为什么人人只有一个鸡鸡？ 和女孩双飞时候好麻烦",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目使用了粗俗的性器官词汇\"鸡鸡\"和成人性行为术语\"双飞\"，明确涉及性内容和成人话题，属于色情或不当性内容。虽然问题在逻辑上可以理解，但内容明显涉及性暗示。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0837.json",
+      "question": "为什么我每次摸同桌的腿他都不让我摸？ 我可是男的啊！",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目描述\"摸同桌的腿\"这一行为，涉及不当的身体接触，在正常社交语境下带有性暗示性质，可能构成性骚扰。虽然人类回答将其解释为个人空间问题，但行为本身涉及不当性内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0782.json",
+      "question": "爸爸愤怒地说我当初为什么不把你射手上 这样我就可以把你捧在手心里了",
+      "is_too_weird": true,
+      "is_sexual": true,
+      "reason": "题目中的“射手上”在中文语境中通常暗示射精在手上，是明确的性行为描述，涉及色情内容。句子结构混乱、语法错误，即使人类回答试图将其解释为星座和父爱表达，也无法掩盖其色情含义，且解释本身牵强，导致题目仍然难以理解。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0874.json",
+      "question": "傻妞的本体是充气娃娃吗？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目询问\"傻妞\"的本体是否是充气娃娃，其中\"充气娃娃\"是成人用品的委婉说法，涉及性暗示内容。虽然问题本身是关于词汇含义的询问，但直接提及成人用品，属于不当性内容。人类回答已经解释了该词的常见含义，题目逻辑清晰，并非过于奇怪。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0862.json",
+      "question": "在浪漫的烛光下，女友问我爱她有多深。 干嘛泼我！12厘米有说错！？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目通过\"12厘米\"暗示男性生殖器尺寸，属于明显的性暗示内容，即使以幽默或脑筋急转弯形式出现，仍涉及不当性内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0926.json",
+      "question": "老师说她把我们都当成她的孩子，为什么我告诉她晚上和她一起睡还挨 为什么我告诉她晚上和她一起睡还挨了一耳光",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目涉及学生向老师提出\"晚上和她一起睡\"的性暗示内容，属于不当性内容。尽管人类回答从边界角度进行了解释，但原题目的表述本身具有明显的性暗示性质，在师生关系语境下构成性骚扰暗示，因此应标记为涉及色情/不当性内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0888.json",
+      "question": "为什么自从昨天儿子撞见我穿蕾丝性感内衣后看我的眼神都不一样了？ 怎么办，难道他对我有什么想法？我可是他爹啊！",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目涉及父亲穿蕾丝性感内衣被儿子撞见，并担忧儿子对自己有性想法，触及乱伦主题，属于不当性内容。虽然人类回答提供了合理建议，但题目本身包含性暗示和不当性关系担忧。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0933.json",
+      "question": "被蚊子吸血之后，蚊子生的蛆有人类的基因吗？",
+      "is_too_weird": true,
+      "is_sexual": false,
+      "reason": "题目基于错误生物学前提（蚊子不会生蛆，蛆是苍蝇的幼虫），即使查看人类回答，回答也未纠正此错误，导致问题逻辑不通、难以理解；题目仅涉及蚊子吸血这一正常生理现象，无任何色情或不当内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0955.json",
+      "question": "身上不小心长了尸斑怎么办？",
+      "is_too_weird": true,
+      "is_sexual": false,
+      "reason": "题目问活人长尸斑，尸斑是死后现象，活人不可能出现，因此题目荒谬且不合逻辑。人类回答未纠正此错误，反而将尸斑误解为湿疹，但题目的根本问题依然存在。题目不涉及色情内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0984.json",
+      "question": "我刚才想跳楼，现在不想跳了 怎么跟周围警察说我不想跳了能挣回点面子？",
+      "is_too_weird": true,
+      "is_sexual": false,
+      "reason": "题目将自杀这一严重心理危机行为轻描淡写，关注点放在\"挣回面子\"上，逻辑非常不合常理。即使看了人类回答的幽默化解方式，这种奇怪的关注点（将生死危机视为面子问题）仍然存在，不符合正常人的思维逻辑，因此标记为过于奇怪。题目不涉及任何色情内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-0940.json",
+      "question": "为什么非洲人的头发长得像阴毛？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目将非洲人的头发与阴毛进行类比，涉及性相关身体部位的不当比较，属于不当性内容；人类回答已科学解释并指出这种比较的错误，因此不算过于奇怪。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-1072.json",
+      "question": "总觉得晚上一个人回家在路人不被人QJ就有一种被侮辱了的赶脚！ 我说的对嘛？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目涉及对性暴力（强奸）的扭曲期待，明确提及\"QJ\"这一性暴力行为，属于不当性内容。虽然表达了一种不健康的心理状态，但直接描述对性暴力的期待，应被视为涉及不当性内容。人类回答已正确指出其错误并建议寻求专业帮助。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-1067.json",
+      "question": "我胃炎发作了 请问吃几个粉笔会好？",
+      "is_too_weird": true,
+      "is_sexual": false,
+      "reason": "题目询问\"吃几个粉笔会好\"治疗胃炎，这是一个完全不符合医学常识且荒谬的问题。粉笔不是食物或药物，不能治疗胃炎，吃粉笔甚至可能有害。即使看了人类回答的纠正，仍然无法理解为何会有人提出这样的问题，逻辑上完全不通。但题目不涉及任何色情或性暗示内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-1186.json",
+      "question": "我把菊花放外面 为什么没有蜜蜂过来",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目利用\"菊花\"一词的双关含义（既可指花卉，也可指肛门），在表面询问蜜蜂为何不来采花的同时，暗含性暗示。虽然人类回答从字面角度进行了解释，但题目本身的设计意图是制造黄色幽默，涉及性暗示内容，因此应标记为涉及色情。但作为谐音梗，并不属于\"过于奇怪\"的范畴。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-1290.json",
+      "question": "我刚才去做大保健，为什么刚掏出医保卡就被赶出来了",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目中的“大保健”是性服务的暗语，涉及色情内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-1240.json",
+      "question": "我买了个天线宝宝，请问要看A片还差什么？ 我买了个天线宝宝，请问要看**还差什么？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目中明确提到'A片'，涉及色情内容；虽然表达有幽默元素，但人类回答后逻辑可理解，不标记为过于奇怪。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-1357.json",
+      "question": "台词是“我来组成裆部”的那只狮子叫啥来的？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目使用了“裆部”一词，这是对《狮子王》经典台词“我来组成头部”的低俗改编，直接涉及下体部位，构成性暗示。虽然作为谐音梗逻辑通顺，但内容涉及不当性内容，因此应标记为涉及色情。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-1382.json",
+      "question": "怎么让小区居民拒绝在草坪上打野战？种上食人花",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目使用了\"打野战\"这一隐晦的性暗示词语，指代在户外发生性行为，属于不当性内容。虽然表达幽默夸张，但核心涉及性行为，因此应标记为涉及色情。但题目并非无法理解，人类回答已提供合理解决方案，故不标记为过于奇怪。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-1379.json",
+      "question": "女朋友妈逼 我和她分手 嫌弃我穷，配不上她 她爸是种水泥的，她妈是卖盗版充气小红的。怎么办？",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目中提到\"她妈是卖盗版充气小红的\"，\"充气小红\"明显指代成人用品（充气娃娃），涉及性暗示内容。尽管只是陈述事实，但内容与性相关产品有关，不属于正常的生理知识或健康话题，因此属于涉及色情、性暗示的内容。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-1461.json",
+      "question": "为什么我持公交卡去妓院玩耍却被赶了出来",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目中提到“妓院”，这是一个明确的色情场所，涉及非法性服务内容。尽管题目以幽默或脑筋急转弯的形式呈现，但内容本身直接关联色情，因此应标记为涉及色情。人类回答未包含色情内容，但题目本身已触及敏感领域。"
+    },
+    {
+      "file": "/data/swe-agents/LLM-Ruozhiba-QA/questions/ruozhiba-1483.json",
+      "question": "为什么我在打野战时会听到卡擦卡擦的声音？ 好像那啥高科技似的。。。",
+      "is_too_weird": false,
+      "is_sexual": true,
+      "reason": "题目使用\"打野战\"这一中文网络隐晦用语指代性行为，配合\"卡擦卡擦的声音\"的表述，构成明显的性暗示。尽管人类回答从字面理解为野外活动，但题目本身涉及不当性内容，应标记为涉及色情。"
+    }
+  ]
+}

@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 10,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用\"丁丁\"一词有歧义，人类回答澄清了两种可能含义（男性生殖器或胡须），逻辑清晰可理解。内容属于健康咨询，不涉及色情或不当性内容。"
 }

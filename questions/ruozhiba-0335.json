@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用拟人化和幽默表达方式询问小行星防御问题，核心是合理的科学问题。看了人类回答后逻辑清晰，不属过于奇怪。题目中\"硬气\"为常见口语表达，无任何性暗示或不当内容。"
 }

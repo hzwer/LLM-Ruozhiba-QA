@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的比喻或脑筋急转弯，将洒水车比作救火车的\"便衣\"，虽然比喻不太准确但可以理解其含义。人类回答已清楚解释两者功能不同。题目不涉及任何色情、性暗示或不当性内容。"
 }

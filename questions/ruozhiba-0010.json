@@ -12,5 +12,8 @@
   "difficulty_score": 0.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是脑筋急转弯，利用\"新车\"的双关含义（真正的汽车 vs 玩具车），人类回答以幽默方式指出两千元只能买玩具车或模型车，不涉及色情内容。"
 }

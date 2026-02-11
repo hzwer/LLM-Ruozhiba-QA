@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于网络流行语的理解，\"七楼\"是网络论坛文化中的常见说法。看了人类回答后，题目变得清晰易懂，逻辑通顺。这属于文化梗/谐音梗范畴，不应标记为\"过于奇怪\"。题目完全不涉及色情或性暗示内容。"
 }

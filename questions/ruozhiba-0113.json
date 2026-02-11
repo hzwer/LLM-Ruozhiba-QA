@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是谐音梗脑筋急转弯，利用\"阳过\"（杨过/感染过病毒）的双关含义制造幽默。看了人类回答后逻辑清晰：指小龙女修炼杨过的阳刚内功而非感染病毒，因此不需要隔离。不涉及任何色情、性暗示或不当性内容。"
 }

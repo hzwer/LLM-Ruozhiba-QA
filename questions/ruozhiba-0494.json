@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个比喻性的脑筋急转弯，通过\"蜗牛\"和\"癞蛤蟆\"的比喻来询问写情书时应采取的态度（慢慢来还是过于自信），看了人类回答后可以理解其逻辑，属于幽默表达；不涉及任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.74,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于相对运动的脑筋急转弯，虽然场景不常见但逻辑可理解，人类回答已给出合理解释；题目不涉及任何色情或不当内容。"
 }

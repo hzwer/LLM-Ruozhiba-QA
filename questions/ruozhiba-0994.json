@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个典型的脑筋急转弯，故意混淆\"日光浴\"的字面意思和实际含义。人类回答清晰地解释了日光浴是在阳光下晒太阳而非真正洗澡，因此肥皂不会起沫。看了回答后逻辑完全通顺，属于幽默表达而非真正奇怪。题目内容不涉及任何色情或不当性内容。"
 }

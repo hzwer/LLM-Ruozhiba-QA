@@ -12,5 +12,8 @@
   "difficulty_score": 3.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个荒谬的\"助眠方法\"及其后果，虽然听起来奇怪但逻辑上可以理解（有人尝试危险方法导致昏迷），人类回答也给出了合理的医疗建议。题目不涉及任何色情或性暗示内容，属于健康/医疗话题。"
 }

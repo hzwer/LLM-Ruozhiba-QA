@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默的脑筋急转弯，以夸张语气表达对同龄同学的惊讶，人类回答后逻辑清晰合理；内容仅涉及教育阶段和年龄，无任何色情或不当性内容。"
 }

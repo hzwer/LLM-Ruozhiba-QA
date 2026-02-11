@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个哲学性的隐喻思考，人类回答清晰地解释了字面与哲学角度的区别，逻辑合理且易于理解；题目不涉及任何色情或不当内容，属于正常的哲学讨论。"
 }

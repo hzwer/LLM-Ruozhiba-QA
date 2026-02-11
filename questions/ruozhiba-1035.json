@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个日常生理动作（咳嗽时捏住鼻子闭紧嘴巴）并询问结果，逻辑清晰可理解。人类回答给出了合理的医学解释。题目不涉及任何色情或不当性内容，属于正常的健康知识询问。"
 }

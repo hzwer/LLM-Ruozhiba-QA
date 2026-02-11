@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表达方式有些害羞和口语化，但内容是关于睡觉习惯的正常问题，逻辑清晰易懂。问题本身涉及的是闭眼睡觉这一正常生理现象，没有性暗示或不当内容。"
 }

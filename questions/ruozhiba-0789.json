@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对\"金刚\"一词的误解，属于常见的词汇理解问题，看了人类回答后逻辑清晰，不涉及任何不当内容。"
 }

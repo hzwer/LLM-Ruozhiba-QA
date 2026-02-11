@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于智商测试结果的疑问，逻辑清晰，没有涉及任何不当内容。用户表达了对花费500元但得到低智商测试结果的困惑，这是正常的疑问表达。人类回答也清晰地解释了智商分数与花费无关的道理。因此，题目既不奇怪也不涉及色情内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 5.16,
   "flash_answer_score": 2,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默/脑筋急转弯式的提问，利用杜蕾斯品牌制造意外感。看了人类回答后逻辑清晰，不算是无法理解或不合逻辑。杜蕾斯作为避孕套品牌属于成人用品，但题目仅涉及商业场景，没有色情描述或不当性暗示，属于正常的生理健康产品讨论。"
 }

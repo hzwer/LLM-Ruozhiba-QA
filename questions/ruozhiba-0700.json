@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于鱼类生理结构的合理疑问，人类回答清晰解释了鱼的鼻子功能用于嗅觉而非呼吸。问题本身逻辑通顺，不涉及任何色情或不当内容，属于正常的生物学知识探讨。"
 }

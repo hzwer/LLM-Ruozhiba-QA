@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目将医学术语\"脑积水\"与化学概念\"结合水/自由水\"进行混淆，虽然概念错误但逻辑上可以理解。看了人类回答后能明确认识到这是对病理状态与水的物理状态的概念混淆，并非完全无法理解或不合逻辑。题目涉及正常的医学健康知识，不涉及任何色情内容。"
 }

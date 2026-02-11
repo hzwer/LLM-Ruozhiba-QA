@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，用身高体重数据来自嘲是否为\"正方体\"。虽然前提有误（正方体需要三个维度），但逻辑形式自洽，且人类回答已清晰解释。不属于过于奇怪或难以理解的题目。题目仅涉及正常生理特征描述，无任何色情或性暗示内容。"
 }

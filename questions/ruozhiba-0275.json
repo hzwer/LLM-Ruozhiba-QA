@@ -12,5 +12,8 @@
   "difficulty_score": 3.9,
   "flash_answer_score": 10,
   "kimi_answer_score": 5,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯类型的题目，使用对比和双关的幽默表达。哑巴、盲人、聋子分别对应默写哑剧、瞎走盲棋、听写聋鸣，逻辑清晰，理解后并不奇怪。题目不涉及任何色情、性暗示或不当性内容，仅涉及正常的生理特征和幽默表达。"
 }

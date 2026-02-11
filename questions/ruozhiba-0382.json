@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然表达了对趣多多饼干能否活动的疑问，但看了人类回答后逻辑清晰：这是混淆了电视广告中的动画角色与现实中的饼干产品。题目属于幽默表达或认知混淆，并非无法理解或不合逻辑。同时，题目完全不涉及任何色情、性暗示或不当性内容。"
 }

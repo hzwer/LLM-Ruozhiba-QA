@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯式的提问，利用了\"长寿\"的定义进行文字游戏。虽然表面看似奇怪，但逻辑上是通的，且人类回答已经清晰解释了其定义关系。根据规则，此类幽默或脑筋急转弯表达不应标记为过于奇怪。题目内容完全健康，不涉及任何色情或不当内容。"
 }

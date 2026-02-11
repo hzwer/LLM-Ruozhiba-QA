@@ -12,5 +12,8 @@
   "difficulty_score": 3.76,
   "flash_answer_score": 6,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目逻辑清晰，人类回答后完全可以理解：洗手间通常包含厕所功能。题目只是使用了比较直接的语言表达，但不属于无法理解或逻辑不通的情况。同时，题目仅涉及正常的生理功能讨论，没有色情、性暗示或不当性内容。"
 }

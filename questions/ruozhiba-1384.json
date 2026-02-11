@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于飞机安全的合理疑问，人类回答从飞机结构、安全考虑、应急设备等方面给出了合理解释，逻辑清晰，不涉及色情或不当内容。"
 }

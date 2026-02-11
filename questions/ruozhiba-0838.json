@@ -12,5 +12,8 @@
   "difficulty_score": 2.1,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对避雷针名称的误解产生的疑问，基于对避雷针原理的不了解。虽然把避雷针戴在头上听起来奇怪，但这是源于科学误解，并非逻辑不通或难以理解。看了人类回答后，原理得到清晰解释，逻辑完全通顺。题目不涉及任何色情或不当内容。"
 }

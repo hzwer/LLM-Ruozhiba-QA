@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是脑筋急转弯，人类回答后逻辑清晰，不涉及色情内容。"
 }

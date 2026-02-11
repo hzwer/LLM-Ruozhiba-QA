@@ -12,5 +12,8 @@
   "difficulty_score": 1.0,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于\"图书馆\"字面误解的谐音梗，提问者将\"图\"误解为\"涂\"，虽然表述有点奇怪，但看了人类回答后逻辑清晰，属于可以理解的幽默表达，不涉及任何色情或不当内容。"
 }

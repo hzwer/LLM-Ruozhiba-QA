@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于影子物理性质的合理问题，虽然表述略显奇怪，但看了人类回答后可以理解其逻辑（影子是二维投影，没有正背面之分），不属于无法理解或不合逻辑的情况。题目不涉及任何色情、性暗示或不当性内容。"
 }

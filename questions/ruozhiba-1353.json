@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了拟人化的幽默表达方式，将雪碧饮料开瓶冒气泡的现象比喻为\"生气\"，属于脑筋急转弯或谐音梗范畴。看了人类回答后很容易理解其真实含义，逻辑清晰，不违反理解。内容完全不涉及色情或不当性内容，只是关于日常饮料的趣味提问。"
 }

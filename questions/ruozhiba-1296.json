@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个常见的误解或幽默表达，涉及品牌商标知识。看了人类回答后可以理解，逻辑清晰。不涉及色情内容。"
 }

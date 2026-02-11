@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是基于历史事实的逻辑推理题，看了人类回答后逻辑清晰，属于脑筋急转弯类型，不涉及任何色情内容。"
 }

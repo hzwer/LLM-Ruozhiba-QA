@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个日常生活中的疑问：用扇子试图扇飞雨点来防雨，但效果不佳。虽然这个做法本身有点奇怪（因为扇子不是防雨工具），但这是可以理解的常识性困惑，并非完全不合逻辑。人类回答已经清晰解释了扇子的主要用途和局限性，逻辑通顺。题目没有涉及任何色情、性暗示或不当性内容，属于正常的日常工具使用问题。"
 }

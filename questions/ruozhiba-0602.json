@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于商业逻辑的正常疑问，询问商家为何创立减价日而非加价日。人类回答已经清晰解释了减价日的商业目的（吸引消费者、提高销量、清理库存等）。问题本身合理易懂，不涉及任何色情或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于农业种植的合理提问，虽然可能来自缺乏农业知识或幽默表达，但逻辑上可以理解。人类回答已清晰解释了煮熟稻种无法发芽的原因。题目不涉及任何色情或不当性内容。"
 }

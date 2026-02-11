@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 10,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了\"鬼压床\"这一民间说法并夸张化（把床压塌），属于幽默或脑筋急转弯的表达方式，并非真正逻辑不通或难以理解。看了人类回答后能清楚理解题意。题目内容涉及睡眠健康话题，无任何色情或性暗示内容。"
 }

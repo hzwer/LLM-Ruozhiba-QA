@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目提出了一个关于\"吸毒\"一词歧义的合理疑问，看了人类回答后逻辑完全清晰，不奇怪。内容不涉及任何色情或不当性内容，只是关于急救场景和法律概念的混淆。"
 }

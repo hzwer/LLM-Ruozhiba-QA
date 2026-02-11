@@ -12,5 +12,8 @@
   "difficulty_score": 2.1,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用比喻手法，\"怀孕\"指吸收知识，\"塞进去\"指阅读，是一种幽默或夸张的表达，不涉及实际的色情内容。人类回答后，逻辑清晰，易于理解，因此不标记为过于奇怪或涉及色情。"
 }

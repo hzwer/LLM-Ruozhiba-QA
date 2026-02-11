@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是脑筋急转弯或幽默表达，故意设置违反常识的场景来引发思考；涉及的是正常的生理健康话题，没有色情或不当内容。人类回答已明确解释左耳右耳不相通，说明这是玩笑或谜语，不应标记为过于奇怪。"
 }

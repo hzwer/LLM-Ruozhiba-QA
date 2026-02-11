@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于避孕套正确使用方法的疑问，虽然可能源于误解，但逻辑上可以理解，且人类回答已澄清。不涉及色情或不当内容，属于正常健康知识范畴。"
 }

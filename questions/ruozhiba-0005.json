@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于中文成语结构的语言现象疑问，可能带有幽默或思考性质。虽然\"ABCD型\"的表述有些特别，但人类回答给出了合理的解释（四字成语是最常见的形式），逻辑基本通顺，不属于无法理解或完全不合逻辑的类型。题目不涉及任何色情、性暗示或不当内容。"
 }

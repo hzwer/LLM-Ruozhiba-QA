@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默的脑筋急转弯，使用夸张和俚语制造笑点（如\"骑着空调时空穿梭\"、\"jj冻掉了\"），虽然逻辑荒谬但属于玩笑表达，不涉及真正难以理解的内容。同时，虽然使用了\"jj\"这一俚语，但语境是夸张的身体不适描述，并非色情或不当性内容，因此不应标记。"
 }

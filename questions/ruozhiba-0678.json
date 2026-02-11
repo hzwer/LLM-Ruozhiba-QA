@@ -12,5 +12,8 @@
   "difficulty_score": 5.02,
   "flash_answer_score": 3,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个看似不合逻辑的场景（在自己家门口敲门等待允许），但人类回答从实用角度解释了可能原因并提供了解决方案，使其变得合理。这可能是一个幽默或脑筋急转弯，涉及日常礼仪的荒谬应用，但并非无法理解或逻辑完全不通。题目中无任何色情、性暗示或不当性内容，仅涉及正常生活情境。"
 }

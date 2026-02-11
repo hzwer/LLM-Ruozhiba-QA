@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了夸张的表述（\"捅我一刀\"），但人类回答清楚地解释了这是合法的医疗行为，逻辑上可以理解。题目不涉及任何色情或不当性内容，仅涉及正常的医疗手术话题。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个典型的脑筋急转弯，故意提供与问题无关的干扰信息（距离、速度、时间），然后突然问\"小明跟小红是什么关系\"。这种设计虽然不合常规逻辑，但属于常见的幽默或陷阱题型，不应标记为\"过于奇怪\"。题目中未涉及任何色情、性暗示或不当性内容。"
 }

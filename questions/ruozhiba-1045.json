@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述的是朋友吃饭噎住的紧急情况，逻辑清晰、易于理解。人类回答提供了标准的海姆立克急救法，内容合理且专业。题目不涉及任何色情、性暗示或不适当内容，属于正常的健康急救知识求助。"
 }

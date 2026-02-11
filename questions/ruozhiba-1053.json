@@ -12,5 +12,8 @@
   "difficulty_score": 4.18,
   "flash_answer_score": 5,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表达了用户对网络用语\"女子\"被用作感叹词的困惑。人类回答给出了合理解释，说明这是网络语言中的常见用法，因此题目在理解后并不奇怪。题目不涉及任何色情、性暗示或不当性内容，仅涉及网络用语的理解问题。"
 }

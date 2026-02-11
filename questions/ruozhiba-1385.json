@@ -12,5 +12,8 @@
   "difficulty_score": 6.16,
   "flash_answer_score": 6,
   "kimi_answer_score": 3,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个对联游戏题目，要求对出下联。人类回答提供了一个对仗工整的下联，虽然用词有些重复但整体逻辑清晰，属于正常的文字游戏。题目不涉及任何色情或不当内容。"
 }

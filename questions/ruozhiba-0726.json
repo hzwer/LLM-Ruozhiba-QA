@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个典型的谐音梗/脑筋急转弯题目，通过误解\"小心地滑\"这个警告标志的含义制造幽默效果。看了人类回答后逻辑完全清晰，不涉及任何奇怪或难以理解的内容。题目内容仅涉及学校安全和走路行为，没有任何色情或性暗示元素。"
 }

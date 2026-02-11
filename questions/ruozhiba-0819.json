@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然表述有误（问吃牙膏），但可能是幽默或误解；看了人类回答后能理解其意图，且不涉及任何色情内容。"
 }

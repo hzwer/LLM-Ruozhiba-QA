@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然表达有些跳跃（将误服清凉油与童话比喻结合），但核心是关于药物误用的健康疑问，人类回答能清晰解释其科学原理，逻辑可理解。不涉及任何色情或不当性内容。"
 }

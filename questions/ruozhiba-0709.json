@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于表情符号为何没有鼻孔的疑问，属于对设计特点的合理好奇或幽默表达。人类回答已清楚解释，逻辑通顺，不涉及色情或不当内容。"
 }

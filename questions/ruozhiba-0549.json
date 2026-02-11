@@ -12,5 +12,8 @@
   "difficulty_score": 2.02,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于法律逻辑的讨论，虽然将警犬与人类警务人员关联有些 unusual，但逻辑清晰可理解。人类回答明确解释了警犬不具有人的身份，因此不构成猥亵。不涉及任何色情、性暗示或不当性内容，属于正常的法律概念探讨。"
 }

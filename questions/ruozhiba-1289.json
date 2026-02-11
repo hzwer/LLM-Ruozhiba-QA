@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗，将\"相互扶持\"故意曲解为\"体位\"制造幽默。人类回答已明确解释这是比喻而非真实体位。这类脑筋急转弯或幽默表达不应标记为过于奇怪。同时，题目没有真正的性暗示或不当内容，只是词语的幽默误用，不涉及色情。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，表面上看起来不合逻辑（陨石为何总是落在坑里），但人类回答清晰地解释了因果关系：陨石撞击地面形成坑，而非先有坑。看了回答后逻辑完全清晰，不构成\"过于奇怪\"。题目中的\"傻B\"是粗话但属于骂人用语，不涉及色情、性暗示或不当性内容，核心问题是关于陨石坑形成的科学现象。"
 }

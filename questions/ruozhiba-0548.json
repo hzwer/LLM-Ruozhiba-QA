@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"一个人能玩俄罗斯转盘吗？\"涉及一个已知的危险游戏概念，逻辑清晰，易于理解。人类回答明确解释了其危险性和不合理性。题目本身不涉及色情或性内容，只是关于危险行为的提问。因此，既不\"过于奇怪\"也不\"涉及色情\"。"
 }

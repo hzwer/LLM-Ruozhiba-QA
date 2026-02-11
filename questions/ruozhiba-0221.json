@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目探讨的是生理学概念（消化道内部算体外）与药物使用（外用药）之间的矛盾，属于正常的科普或脑筋急转弯类问题。人类回答清晰地解释了外用药不能口服的原因，涉及药理作用、剂型、吸收代谢等医学知识。该问题逻辑上可以理解，并非无法理解或不合逻辑，因此不应标记为\"过于奇怪\"。同时，题目内容完全属于生理健康和药物使用知识，没有色情、性暗示或不当性内容，因此也不应标记为\"涉及色情\"。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及金鱼饲养和化学用品使用，属于常见的常识误区。人类回答清晰解释了双氧水的危害并提供了正确建议，逻辑通顺，不存在无法理解或不合逻辑的情况。题目内容与色情、性暗示无关，仅涉及宠物护理和健康知识。"
 }

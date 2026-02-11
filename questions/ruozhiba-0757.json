@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个基于常见误解（鱼的记忆只有7秒）的合理科学疑问，逻辑通顺，不奇怪。人类回答已澄清误解并解释了本能行为。题目不涉及任何色情、性暗示或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 3.78,
   "flash_answer_score": 10,
   "kimi_answer_score": 6,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个常见的地理知识/脑筋急转弯问题，基于对地图着色原理的误解而提问。人类回答清晰解释了四色定理和地图颜色使用原则，逻辑通顺，易于理解。题目本身不涉及任何色情或不当内容。"
 }

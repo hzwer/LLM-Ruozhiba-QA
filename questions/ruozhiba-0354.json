@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个基于南孚电池广告语的合理疑问，涉及电池电压与电动车供电需求的常识性问题。人类回答清晰解释了电压和功率要求，逻辑通顺，容易理解。题目不涉及任何色情或不当内容。"
 }

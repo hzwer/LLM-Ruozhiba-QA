@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目将\"后妈\"与\"伪娘\"进行不恰当类比，属于概念混淆。但看了人类回答后，逻辑变得清晰，不属于无法理解或不合逻辑的情况。题目完全不涉及色情、性暗示或不当性内容。"
 }

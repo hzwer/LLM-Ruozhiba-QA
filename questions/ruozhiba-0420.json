@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯类型的题目，虽然表面上看起来不合常理（给仓鼠喂老鼠药），但看了人类回答后逻辑清晰：老鼠药是毒药而非药物，因此仓鼠会死亡。题目不涉及任何色情或不当性内容，属于常识性逻辑陷阱题。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": true,
+  "is_sexual": false,
+  "mark_reason": "题目基于错误生物学前提（蚊子不会生蛆，蛆是苍蝇的幼虫），即使查看人类回答，回答也未纠正此错误，导致问题逻辑不通、难以理解；题目仅涉及蚊子吸血这一正常生理现象，无任何色情或不当内容。"
 }

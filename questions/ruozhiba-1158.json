@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于进化论的常见误解，虽然前提有误但逻辑上可以理解。人类回答清晰地解释了人类和猴子有共同祖先、物种分化后不会合并的科学原理。这不是脑筋急转弯或幽默表达，而是一个严肃的科学问题。题目完全不涉及任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 10,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问八岁孩子能否生育，虽然涉及性相关知识，但属于正常的生理知识问题，没有色情或不当内容。问题本身逻辑清晰，人类回答也给出了合理的科学解释，因此不标记。"
 }

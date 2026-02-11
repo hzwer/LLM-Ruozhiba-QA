@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是典型的脑筋急转弯，利用\"孤\"字的多义性（皇帝谦称 vs 孤儿）制造逻辑疑问。看了人类回答后完全理解其意图，逻辑清晰，不奇怪。题目纯属语言逻辑探讨，无任何色情或不当内容。"
 }

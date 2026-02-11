@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对手机电量百分比的误解或幽默建议，人类回答已清晰解释其含义，不属于过于奇怪或逻辑不通。题目内容仅涉及手机电池，无任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯，通过类比野猪驯化为家猪来幽默地询问野人驯化后变成什么，人类回答“文明人”符合逻辑且合理。题目不涉及任何色情、性暗示或不当内容，因此不应标记。"
 }

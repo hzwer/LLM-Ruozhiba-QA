@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问电影中方向表示为何使用1-12点而非13-23点，人类回答清晰地解释了这是基于12小时制时钟面的方向比喻。该问题逻辑合理，属于常见的方位表示法疑问，看了回答后完全可理解，不奇怪。题目内容完全正常，不涉及任何色情或不当内容。"
 }

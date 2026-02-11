@@ -12,5 +12,8 @@
   "difficulty_score": 0.9,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是经典脑筋急转弯的变体，通过“更重”和“更轻”的提问方式制造混淆，但逻辑清晰且人类回答正确指出了两者重量相同。看了人类回答后完全可理解，不属于过于奇怪的题目。题目内容仅涉及重量比较，无任何色情或性暗示元素。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对手游抽卡术语的谐音误解（将SR误听为“够罕见”），看了人类回答后已澄清为Super Rare，逻辑清晰，属于幽默或脑筋急转弯表达，不涉及色情内容。"
 }

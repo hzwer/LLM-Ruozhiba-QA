@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个幽默的脑筋急转弯，利用\"透明\"来指代光头，看了人类回答后能够理解其玩笑逻辑，不涉及任何难以理解或不合逻辑的内容。同时，题目仅涉及和尚的头发和宗教习俗，没有任何色情、性暗示或不当性内容。"
 }

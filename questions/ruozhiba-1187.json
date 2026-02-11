@@ -12,5 +12,8 @@
   "difficulty_score": 4.48,
   "flash_answer_score": 5,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对俗语\"站着说话不腰疼\"的文字游戏提问，人类回答\"坐着说话可能会腰疼\"是一个合理且符合逻辑的回答。题目属于脑筋急转弯或幽默表达，不涉及任何色情或不当内容，也不过于奇怪或难以理解。"
 }

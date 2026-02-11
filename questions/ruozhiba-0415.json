@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个常见的科学疑问，关于太阳能量来源的误解。人类回答准确解释了太阳通过核聚变而非燃烧产生能量，不需要氧气，因此能在真空中发生。看了回答后问题清晰合理，不奇怪。题目完全不涉及色情或不当内容。"
 }

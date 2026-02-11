@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默或好奇性质的问题，涉及正常生理知识，不奇怪也不涉及色情内容。人类回答已经科学解释了为什么不可能，问题本身逻辑清晰，属于常见误解类脑筋急转弯。"
 }

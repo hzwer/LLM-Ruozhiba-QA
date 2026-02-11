@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问出生证明丢失后如何证明出生，是合理的实际生活问题。人类回答提供了多种可行的替代证明方式和解决途径，逻辑清晰，完全可理解。题目不涉及任何色情、性暗示或不当性内容，属于正常的行政事务咨询。"
 }

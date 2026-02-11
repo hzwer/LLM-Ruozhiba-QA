@@ -12,5 +12,8 @@
   "difficulty_score": 1.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是询问平板电脑如何连接鼠标和键盘的正常技术问题，逻辑清晰，无任何奇怪或不合逻辑之处，也不涉及色情或不当内容。"
 }

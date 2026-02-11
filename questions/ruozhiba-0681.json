@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，质疑抛硬币做决定这一现代习惯的历史前提。人类回答已经清晰解释了人们通过知识、经验和判断做选择，逻辑完全通顺，不奇怪。题目不涉及任何色情或不当内容。"
 }

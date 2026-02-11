@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于女性在炎热天气穿着黑色裤子的日常疑问，人类回答给出了合理的解释（显瘦、遮挡、面料技术、美观等），逻辑清晰，不涉及任何色情或不当内容。"
 }

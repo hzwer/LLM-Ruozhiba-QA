@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于太阳光传播时间的科学问题，逻辑清晰，不涉及色情或不当内容。即使看了人类回答，也能理解提问者的困惑点，不属于过于奇怪的题目。"
 }

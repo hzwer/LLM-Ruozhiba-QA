@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然基于一个不现实的假设（奥巴马想嫁女儿），但逻辑上可以理解，可能是一个夸张的假设性问题或幽默表达。人类回答能够正常回应，说明并非无法理解。题目讨论婚姻选择与政治影响，不涉及任何色情、性暗示或不当性内容。"
 }

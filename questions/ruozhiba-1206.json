@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目提出了一个将左右脑与二进制类比的联想，虽然不准确但可以理解。人类回答已经清楚解释了这种类比的错误。这属于基于表面相似性的有趣提问，类似脑筋急转弯或幽默表达，不是逻辑完全不通的问题。题目只涉及正常的生理知识和认知科学，不涉及任何色情或不当内容。"
 }

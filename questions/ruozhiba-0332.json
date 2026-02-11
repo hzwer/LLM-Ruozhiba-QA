@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问女生宿舍阿姨性别构成的原因，是一个关于社会现象和隐私保护的正常疑问，人类回答也给出了合理解释，不涉及色情内容，也不过于奇怪。"
 }

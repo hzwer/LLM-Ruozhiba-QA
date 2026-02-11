@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默的脑筋急转弯，用现代手机对比古代烽火，人类回答澄清了历史背景和时代差异，逻辑清晰可理解。无任何色情或不当内容。"
 }

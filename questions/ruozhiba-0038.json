@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的比喻性问题，用夸张的方式描述肠道长度。人类回答清楚地解释了这是比喻，并说明了肠道实际结构和功能。看了回答后完全能理解问题逻辑，不属过于奇怪。题目讨论正常生理器官，无任何色情或不当性内容。"
 }

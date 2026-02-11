@@ -12,5 +12,8 @@
   "difficulty_score": 2.02,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用比喻手法（\"被一根弹簧拽着\"）询问物理现象，属于幽默或通俗表达，并非逻辑不通或难以理解。人类回答已清晰解释地球引力原理。题目完全未涉及色情、性暗示或不当性内容。"
 }

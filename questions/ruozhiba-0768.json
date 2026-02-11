@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个基于神话典故的幽默或脑筋急转弯，虽然表面看起来奇怪，但人类回答已经清楚地解释了逻辑：哪吒是神话人物，不是可种植的植物。看了回答后，问题变得易于理解，不构成逻辑不通。题目中没有涉及任何色情、性暗示或不当性内容。"
 }

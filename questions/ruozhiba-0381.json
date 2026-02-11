@@ -12,5 +12,8 @@
   "difficulty_score": 3.1,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个哲学逻辑思考题，探讨对无生命数据与有生命化学物质的情感投射差异。人类回答清晰解释了逻辑：数据无生命而化学物质（指生物）有生命，因此可以寄托感情。看了回答后题目逻辑清晰，不奇怪。题目内容纯科学哲学讨论，无任何色情或不当性内容。"
 }

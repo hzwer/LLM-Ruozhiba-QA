@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 10,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是合理的物理问题，涉及动量守恒定律在雨滴落地现象中的应用。人类回答正确解释了相关物理原理，包括系统非封闭性、外力作用、能量转化等因素。题目逻辑清晰，没有不合理的假设或难以理解之处。同时，题目完全不涉及色情、性暗示或不当性内容，属于正常的科学讨论。"
 }

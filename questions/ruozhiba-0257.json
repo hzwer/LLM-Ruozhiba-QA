@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于镜子反射原理的物理问题，虽然可能让人困惑但逻辑清晰，人类回答给出了正确的科学解释。题目不涉及任何色情或不当性内容。"
 }

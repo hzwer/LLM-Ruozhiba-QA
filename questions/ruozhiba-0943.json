@@ -12,5 +12,8 @@
   "difficulty_score": 3.46,
   "flash_answer_score": 9,
   "kimi_answer_score": 6,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表达的是对药品过期安全的担忧，逻辑清晰，人类回答能有效解答，不属于无法理解的奇怪问题；内容仅涉及健康知识，无任何色情或不当性内容。"
 }

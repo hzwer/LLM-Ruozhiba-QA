@@ -12,5 +12,8 @@
   "difficulty_score": 0.9,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个合理的年龄逻辑题，通过当哥哥4岁时弟弟2岁，得出弟弟比哥哥小2岁，进而计算哥哥100岁时弟弟98岁。逻辑清晰，易于理解，不奇怪也不违反逻辑。题目不涉及任何色情、性暗示或不当性内容。"
 }

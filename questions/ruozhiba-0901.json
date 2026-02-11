@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于张海迪的常识性问题，虽然表述有误导性（暗示学习针灸导致瘫痪），但看了人类回答后逻辑清晰：瘫痪是疾病导致而非针灸所致。这属于常见的误解或脑筋急转弯类型，并非无法理解或不合逻辑。同时，题目内容涉及健康话题，无任何色情或性暗示内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.1,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽用逗号分隔造成语序混乱，但核心问题可理解：询问医生如何通过写字诊断人格分裂。人类回答后逻辑清晰，属于正常的医疗健康疑问。不涉及任何色情或不当性内容。"
 }

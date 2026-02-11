@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于养小狗的常见误解，提问者混淆了\"成长\"与\"进化\"的概念。虽然用词不当，但意图清晰可理解，不属于无法理解或逻辑完全不通的情况。题目不涉及任何色情或不当性内容，是正常的宠物饲养问题。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用夸张比喻表达自我怀疑，逻辑清晰且属于常见情绪表达；人类回答合理化解了其中的困惑。内容不涉及任何色情或不当性暗示。"
 }

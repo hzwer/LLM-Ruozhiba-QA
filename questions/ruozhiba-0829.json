@@ -12,5 +12,8 @@
   "difficulty_score": 5.88,
   "flash_answer_score": 1,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是版权相关的脑筋急转弯，利用“搬运”和“孩子”的幽默表达，人类回答已解释清楚其含义（转载作品并注明出处仍侵权），逻辑通顺；不涉及任何色情或性暗示内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个典型的脑筋急转弯/谐音梗题目。\"剪头\"在此处是\"剪头发\"的简称，而非字面意义上的\"剪下头\"。人类回答清晰地解释了双关语的含义，使整个逻辑变得合理。题目不涉及任何色情或不当性内容，属于正常的幽默表达。"
 }

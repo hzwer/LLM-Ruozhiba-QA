@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个典型的脑筋急转弯/谐音梗，利用了\"哑铃\"和\"铃铛\"的字面联想。人类回答已经清楚地解释了哑铃是健身器材而非发声装置，逻辑清晰易懂。题目不涉及任何色情或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了拟人化修辞（\"马桶噎死\"）幽默表达马桶堵塞问题，意思明确易懂。人类回答准确理解了问题并提供实用的疏通方法。这属于正常的幽默表达，并非逻辑混乱或难以理解。同时，题目讨论的是家居管道疏通问题，不涉及任何色情或不当性内容。"
 }

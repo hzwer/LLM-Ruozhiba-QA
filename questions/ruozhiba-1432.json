@@ -12,5 +12,8 @@
   "difficulty_score": 0.0,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 0
+  "original_difficulty_score": 0,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个常见的化学名称误解，属于幽默表达。看了人类回答后逻辑完全清晰（氯化钠就是食盐），不涉及任何色情或不当内容。"
 }

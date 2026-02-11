@@ -12,5 +12,8 @@
   "difficulty_score": 4.18,
   "flash_answer_score": 5,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默的谐音梗（“脚”指鞋的尺寸），人类回答已解释清楚，逻辑通顺；不涉及任何色情或不当性内容。"
 }

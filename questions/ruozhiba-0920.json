@@ -12,5 +12,8 @@
   "difficulty_score": 2.74,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于麦克风正确使用的常识性问题，用户可能误解了使用方法。看了人类回答后问题变得清晰，不涉及任何不当内容。"
 }

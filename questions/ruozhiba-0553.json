@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然使用了夸张和口语化的表达方式（如\"几十天的车\"、\"老司机不需要后视镜\"），但核心含义是表达对驾驶技术的过度自信，属于常见的幽默或调侃表达。人类回答能够正常理解并给出安全驾驶的回应，因此不构成\"过于奇怪\"。题目内容明确围绕驾驶安全，无任何色情、性暗示或不当性内容。"
 }

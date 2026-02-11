@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个对影子的误解，虽然表达有些口语化但逻辑清晰，不涉及色情内容，人类回答已给出合理解释。"
 }

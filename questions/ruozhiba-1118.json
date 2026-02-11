@@ -12,5 +12,8 @@
   "difficulty_score": 5.74,
   "flash_answer_score": 2,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述的是宿舍防盗场景，逻辑清晰，只是提问者理解有误。人类回答已经解释了开门会增加被盗风险，因此不奇怪。内容完全正常，不涉及任何色情或不当内容。"
 }

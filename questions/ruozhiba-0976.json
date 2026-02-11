@@ -12,5 +12,8 @@
   "difficulty_score": 0.0,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 0
+  "original_difficulty_score": 0,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个简单的数学应用题，计算跳绳次数。题目逻辑清晰，人类回答正确合理。即使看了人类回答，题目仍然容易理解，不奇怪。题目内容只涉及跳绳运动，没有任何色情或性暗示内容。"
 }

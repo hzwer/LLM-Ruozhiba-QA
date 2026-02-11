@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默或脑筋急转弯式的问题，利用“钓鱼佬”与军事单位的错位制造笑点，虽然看起来奇怪但属于正常幽默表达，并非无法理解或逻辑不通。且不涉及任何色情或不当内容。"
 }

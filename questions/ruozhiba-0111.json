@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于电梯建设合理性的疑问，虽然包含\"一楼住户不需要使用电梯\"这一可能的误解，但看了人类回答后逻辑清晰、易于理解，不奇怪；且完全不涉及色情、性暗示或不当性内容。"
 }

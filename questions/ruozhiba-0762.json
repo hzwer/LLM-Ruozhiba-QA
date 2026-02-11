@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表达了对健康码政策的合理疑问，虽然存在逻辑困惑，但看了人类回答后可以清楚理解健康码的用途是轨迹追踪而非健康证明。问题本身不涉及色情内容，属于正常的公共卫生政策讨论。"
 }

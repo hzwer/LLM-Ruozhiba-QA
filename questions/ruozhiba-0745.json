@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述的是一个常见的日常生活中的实际问题（排便时水溅起），虽然话题私密但属于正常的生理健康范畴，逻辑清晰且人类回答提供了合理实用的解决方案。不涉及色情或性暗示内容，也不属于过于奇怪、难以理解或不合逻辑的范畴。"
 }

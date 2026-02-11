@@ -12,5 +12,8 @@
   "difficulty_score": 1.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，通过质疑“学校不教呼吸”来引发思考，人类回答已表明呼吸是本能无需学习，因此逻辑清晰，不奇怪。题目仅涉及正常生理知识，无任何色情或性暗示内容。"
 }

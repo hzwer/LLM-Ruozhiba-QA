@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的夸张表达，将风油精的强烈清凉感比喻为\"滴眼液\"和\"眼睛要飘出来了\"。看了人类回答后完全理解其含义，逻辑清晰，不是真正的疑问或奇怪问题。内容不涉及任何色情、性暗示或不当性内容，只是日常用品的幽默表达。"
 }

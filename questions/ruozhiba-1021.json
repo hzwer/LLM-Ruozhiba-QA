@@ -12,5 +12,8 @@
   "difficulty_score": 3.64,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个常见的天文问题，询问太阳不掉下去的原因，并附上个人推测和幽默自嘲。逻辑通顺，易于理解，即使看了人类回答也不奇怪。内容完全不涉及色情、性暗示或不当性内容。"
 }

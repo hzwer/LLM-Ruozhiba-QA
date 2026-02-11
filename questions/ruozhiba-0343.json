@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及婚姻中配偶不忠的现实问题，虽然敏感但逻辑清晰、可理解。人类回答提供了合理的处理建议，表明该问题具有实际讨论价值。\"偷人\"一词指婚外情，属于社会关系范畴，并非色情内容或性暗示。"
 }

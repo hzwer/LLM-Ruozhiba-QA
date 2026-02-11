@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然存在概念混淆（将雷达检测与网络审查混为一谈），但并非完全无法理解。这更像是一种基于误解的提问或幽默表达，反映了对\"和谐\"概念的过度延伸理解。看了人类回答后，可以清楚理解提问者的错误逻辑链条。根据指导原则，这种脑筋急转弯或幽默表达不应标记为\"过于奇怪\"。题目中\"违规图片\"未具体说明类型，无明确色情暗示或性内容描述，不应标记为\"涉及色情\"。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 4.84,
   "flash_answer_score": 2,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于汉字结构的脑筋急转弯，询问\"色\"字的下半部分是什么。人类回答正确指出是\"巴\"字。题目逻辑清晰，属于常见的汉字拆字游戏，不涉及任何色情或不当内容。虽然使用了\"色\"字，但语境明确指向字形结构，而非性暗示或色情内容。"
 }

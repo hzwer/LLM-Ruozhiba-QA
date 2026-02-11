@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗，利用\"充电口\"和\"口腔科\"中\"口\"字的双关，看了人类回答后逻辑清晰易懂；不涉及任何色情、性暗示或不当性内容。"
 }

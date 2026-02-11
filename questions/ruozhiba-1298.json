@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个利用\"阳\"字双关的谐音梗，属于幽默表达，逻辑上可以理解；\"阳痿\"作为医学术语，属于正常生理健康话题，不涉及色情内容。"
 }

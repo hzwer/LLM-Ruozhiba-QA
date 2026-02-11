@@ -12,5 +12,8 @@
   "difficulty_score": 1.0,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表述虽有歧义（\"用衣服洗洗衣皂\"不合常规），但人类回答能理解并给出合理解释，不构成\"即使看了人类回答仍然无法理解或逻辑完全不通\"。题目仅涉及日常洗衣用品，无任何色情内容。"
 }

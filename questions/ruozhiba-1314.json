@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽基于一个常见误解（将厕所分隔误解为排泄物分隔），但看了人类回答后逻辑清晰，属于对性别分隔厕所的幽默或质疑表达，并非无法理解。内容仅涉及正常的公共卫生和社会规范话题，无任何色情或不当性内容。"
 }

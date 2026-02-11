@@ -12,5 +12,8 @@
   "difficulty_score": 2.64,
   "flash_answer_score": 8,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了比喻手法，将中大奖形容为“致命一击”，是一种幽默或脑筋急转弯表达。看了人类回答后可以理解其含义，不涉及任何不当内容。"
 }

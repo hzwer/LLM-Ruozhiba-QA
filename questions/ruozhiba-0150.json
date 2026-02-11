@@ -12,5 +12,8 @@
   "difficulty_score": 2.94,
   "flash_answer_score": 8,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个荒谬的假设性问题，属于脑筋急转弯或幽默表达，虽然奇怪但逻辑可理解；人类回答已明确其违反规则。题目不涉及任何色情、性暗示或不当性内容。"
 }

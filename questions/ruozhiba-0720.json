@@ -12,5 +12,8 @@
   "difficulty_score": 1.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个关于婴儿发育的常见育儿问题，逻辑清晰，不涉及任何不当内容。人类回答已经提供了专业、合理的解释。"
 }

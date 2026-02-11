@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用幽默比喻（将门关闭过快比作“自闭症”）来描述日常问题，人类回答已清晰解释其含义并提供合理解决方案，符合脑筋急转弯或幽默表达范畴，不标记为过于奇怪。内容仅涉及门的安全问题，无任何色情、性暗示或不当性内容。"
 }

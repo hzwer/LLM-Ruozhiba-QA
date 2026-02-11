@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于防毒面具功能的疑问，属于科学常识范畴。人类回答已清晰解释防毒面具仅防护吸入毒气，不防护口服毒药。看了回答后问题完全可理解，不奇怪。内容不涉及任何色情元素。"
 }

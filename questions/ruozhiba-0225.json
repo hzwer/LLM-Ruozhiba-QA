@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于猫的习性的合理问题，虽然表面上有矛盾但人类回答已清晰解释其逻辑，不奇怪；不涉及任何色情或不当内容。"
 }

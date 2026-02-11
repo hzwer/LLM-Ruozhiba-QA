@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于无线网密码的常见理解偏差问题，逻辑清晰，即使看了人类回答也能完全理解。不涉及任何色情或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 10,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是脑筋急转弯，探讨公交车出行逻辑，人类回答已澄清其合理性，不奇怪；内容完全正常，无任何色情或不当暗示。"
 }

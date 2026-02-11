@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗（\"吓猩\"谐音\"吓人\"），虽然表达幽默，但核心问题关于恐怖谷效应在猩猩身上的表现是合理的科学探讨。看了人类回答后完全理解题意，逻辑清晰。不涉及任何色情或不当内容。"
 }

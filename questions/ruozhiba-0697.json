@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是谐音梗，\"咯吱窝\"谐音\"锅子我\"，实际询问锅子着火的应对措施，属于幽默表达。看了人类回答后逻辑清晰，不奇怪；无性暗示或不当内容。"
 }

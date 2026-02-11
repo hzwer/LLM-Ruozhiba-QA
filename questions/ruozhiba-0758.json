@@ -12,5 +12,8 @@
   "difficulty_score": 3.88,
   "flash_answer_score": 5,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然表面看似奇怪，但看了人类回答后逻辑清晰，可能是一个脑筋急转弯或简单的物理问题，不涉及色情内容。"
 }

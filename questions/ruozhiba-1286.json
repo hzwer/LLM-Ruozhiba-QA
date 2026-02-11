@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及卫生巾广告使用蓝色液体的常见现象，人类回答给出了合理的商业和视觉策略解释，逻辑清晰，不奇怪。同时，该话题属于正常的女性生理健康知识范畴，不涉及色情或不当性内容。"
 }

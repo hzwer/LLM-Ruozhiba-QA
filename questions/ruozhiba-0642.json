@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表述混乱，将司马光砸缸救人的典故误解为\"吃孩子\"，逻辑错误明显。但人类回答已清晰解释了历史背景和逻辑问题，表明这是一个表述错误或误解，并非无法理解。题目不涉及色情、性暗示或不当性内容。"
 }

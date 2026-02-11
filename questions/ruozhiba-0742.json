@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及常见的健康知识误解（噎住后不应再喝水），虽然表述有些奇怪（\"吃水噎住\"），但属于正常的生理知识讨论范畴。人类回答已纠正错误并提供正确急救方法，因此不构成\"过于奇怪\"。题目完全不涉及色情或性暗示内容。"
 }

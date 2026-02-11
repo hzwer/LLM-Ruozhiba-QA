@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于体育比赛观众行为的疑问，人类回答已清楚解释原因，逻辑合理，不存在无法理解或不合逻辑的情况。题目内容不涉及任何色情、性暗示或不当性内容。"
 }

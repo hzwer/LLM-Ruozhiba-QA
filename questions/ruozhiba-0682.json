@@ -12,5 +12,8 @@
   "difficulty_score": 0.0,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 0
+  "original_difficulty_score": 0,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目将中国战国改革家商鞅与日本忍术分身术进行荒谬关联，虽然逻辑上完全不成立，但属于无厘头式幽默或恶搞提问，问题本身清晰可理解，且不涉及任何色情或不当内容。因此不应标记。"
 }

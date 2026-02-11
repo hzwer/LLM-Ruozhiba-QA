@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于光速和眨眼速度的常见物理误解，属于脑筋急转弯类型，逻辑上虽有错误但可以理解。看了人类回答后，逻辑变得清晰。题目不涉及任何色情或不当内容。"
 }

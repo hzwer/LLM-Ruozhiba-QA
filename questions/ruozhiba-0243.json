@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个常见的消费场景和优惠规则误解，逻辑清晰可理解，不属于脑筋急转弯或幽默表达。内容完全关于肯德基甜品站的购买纠纷，不涉及任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 5.46,
   "flash_answer_score": 2,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "看了人类回答后，可以理解这是一个关于玩视频游戏的幽默表达。\"扔掉遥控器\"这一关键线索表明是在描述游戏场景，逻辑清晰，不算过于奇怪。题目不涉及任何色情或性暗示内容。"
 }

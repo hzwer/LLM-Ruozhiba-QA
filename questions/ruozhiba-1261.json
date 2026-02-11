@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，基于对交通工具使用环境的误解。人类回答清晰地解释了火车和飞机的运行原理，使逻辑变得合理。不涉及任何色情或不当内容。"
 }

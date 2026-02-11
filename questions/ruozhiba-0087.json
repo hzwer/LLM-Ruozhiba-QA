@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目利用了\"植物人\"这一医学术语的双关含义，可能是一种幽默或脑筋急转弯的表达方式。在阅读人类回答后，题目的逻辑和意图完全清晰，不构成难以理解或不合逻辑。同时，题目内容涉及医疗护理常识，属于正常的健康话题，不包含任何色情或性暗示内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 3.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 5,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯，利用“八抬大轿”的字面意思与孕妇怀孕进行双关。人类回答清晰地解释了为什么不算是八抬大轿，逻辑上可以理解。题目涉及孕妇是正常的生理话题，不涉及色情或性暗示。"
 }

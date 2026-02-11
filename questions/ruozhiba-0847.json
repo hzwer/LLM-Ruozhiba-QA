@@ -12,5 +12,8 @@
   "difficulty_score": 2.64,
   "flash_answer_score": 8,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个谐音梗或文字游戏，\"五成\"谐音\"吴成\"（一个人名），人类回答已经给出了合理解释，逻辑清晰，不涉及任何奇怪或难以理解的内容。同时，题目完全不涉及色情、性暗示或不当性内容。"
 }

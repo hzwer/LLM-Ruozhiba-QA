@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然基于错误的化学假设，但逻辑上可理解，属于科学误解或脑筋急转弯类型的问题。看了人类回答后，能清楚明白其错误所在，不构成无法理解或完全不合逻辑。题目仅涉及正常的化学和生理知识话题，不涉及任何色情或不当性内容。"
 }

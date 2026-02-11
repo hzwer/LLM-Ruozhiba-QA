@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于地球形状和重力的常见科学疑问，人类回答已清晰解释引力的作用，因此不奇怪；题目不涉及任何色情、性暗示或不当内容。"
 }

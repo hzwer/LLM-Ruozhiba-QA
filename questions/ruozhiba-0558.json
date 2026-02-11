@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于日常卫生习惯的合理询问，涉及鼻腔清洁工具的选择。虽然话题与身体部位相关，但属于正常的生理卫生讨论，没有任何色情或不当性内容。人类回答也从卫生和健康角度给出了专业解释，问题逻辑清晰、易于理解，不属于过于奇怪的范畴。"
 }

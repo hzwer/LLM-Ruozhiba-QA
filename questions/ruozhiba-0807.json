@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及\"电子烟\"和\"电子云\"两个概念的区别，虽然存在概念混淆，但属于常见的知识性疑问或可能的幽默表达。看了人类回答后能清晰理解两者的区别，逻辑上可以理解，不构成过于奇怪。题目完全不涉及色情、性暗示或不当性内容。"
 }

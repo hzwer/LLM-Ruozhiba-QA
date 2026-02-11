@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了谐音梗（\"蛰\"代替\"堑\"），属于幽默或脑筋急转弯的表达，人类回答已清晰解释其比喻含义，逻辑可理解。题目不涉及任何色情或不当性内容。"
 }

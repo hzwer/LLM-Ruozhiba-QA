@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个关于月饼和防腐剂的健康误解，人类回答已清晰解释了错误使用防腐剂可能导致肠胃不适的逻辑。虽然行为本身不常见，但并非无法理解或不合逻辑，不属于脑筋急转弯或幽默表达。题目内容完全属于日常健康话题，不涉及任何色情、性暗示或不当性内容。"
 }

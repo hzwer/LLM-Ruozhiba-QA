@@ -12,5 +12,8 @@
   "difficulty_score": 3.2,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"为什么动物园里没有狗？\"是一个常见的常识性问题或脑筋急转弯，人类回答给出了合理解释（动物园展示野生动物，狗是家养宠物），逻辑清晰易懂。题目不涉及任何色情、性暗示或不当性内容，不应被标记。"
 }

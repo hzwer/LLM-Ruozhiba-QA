@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表述虽有歧义，但核心是提问者误认樟脑丸为食品，人类回答澄清后逻辑通顺；内容为日常用品，不涉及色情。"
 }

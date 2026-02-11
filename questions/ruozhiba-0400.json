@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗脑筋急转弯，将饮料\"脉动\"与比萨斜塔的\"斜\"字做文字游戏，虽然逻辑荒谬但属于幽默表达，不涉及色情内容。"
 }

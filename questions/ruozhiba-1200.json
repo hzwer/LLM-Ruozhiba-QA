@@ -12,5 +12,8 @@
   "difficulty_score": 1.72,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯，故意混淆\"左手/右手\"与\"左脚/右脚\"，人类回答已澄清爬楼梯时应迈脚而非手。这属于幽默表达，看了回答后完全可理解。题目不涉及任何色情或不当性内容。"
 }

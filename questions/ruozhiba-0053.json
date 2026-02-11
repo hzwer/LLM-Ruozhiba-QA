@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目逻辑清晰，人类回答正确解释了原因（国产内容本身已是中文，无需汉化），不存在无法理解或不合逻辑的情况。题目内容仅涉及汉化、游戏和动漫，无任何色情或不当性内容。"
 }

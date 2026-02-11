@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然以幽默方式提问打架时为什么不脱裤子，但人类回答给出了合理的解释（不符合公序良俗、暴露防守部位、增加受伤风险），逻辑清晰易懂。这属于幽默表达或脑筋急转弯性质，并非无法理解或不合逻辑。同时，题目讨论的是打架行为策略，不涉及任何色情、性暗示或不当性内容。"
 }

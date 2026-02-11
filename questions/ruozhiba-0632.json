@@ -12,5 +12,8 @@
   "difficulty_score": 4.66,
   "flash_answer_score": 9,
   "kimi_answer_score": 6,
-  "original_difficulty_score": 9
+  "original_difficulty_score": 9,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目内容涉及精神健康、经济压力和情感关系，逻辑清晰可理解，不涉及任何色情或不当性内容。虽然\"买什么都要两份\"可能与精神分裂症的典型症状不完全吻合，但整体问题是可以理解的，人类回答也给出了合理建议，因此不应标记。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了去加油站买花生油被拒绝的情况，虽然加油站不卖食用油是常识，但可能提问者存在误解或这是幽默表达。看了人类回答后逻辑清晰，加油站主要销售燃料和汽车用品，不卖食品杂货，因此不卖花生油是合理的。题目不涉及色情或性暗示，\"他妈\"仅是情绪化粗口，无不当性内容。"
 }

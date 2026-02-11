@@ -12,5 +12,8 @@
   "difficulty_score": 5.32,
   "flash_answer_score": 3,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个日常观察场景，人类回答给出了合理的解释（可能是视觉错觉或两只狗靠得很近），逻辑清晰易懂。题目内容不涉及任何色情、性暗示或不当性内容，只是关于动物的有趣观察。"
 }

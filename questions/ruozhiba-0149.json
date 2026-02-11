@@ -12,5 +12,8 @@
   "difficulty_score": 0.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于性取向术语的脑筋急转弯，逻辑清晰易懂，人类回答\"异性\"也合理。不涉及色情或不当性内容，属于正常的性知识话题。"
 }

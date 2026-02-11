@@ -12,5 +12,8 @@
   "difficulty_score": 3.2,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对电视节目《非诚勿扰》规则的幽默吐槽，涉及\"心动女生不能选孟非\"这一看似矛盾的说法（孟非是男性主持人）。人类回答已解释清楚这是对节目规则的调侃，逻辑上可以理解，不属于过于奇怪的题目。内容无任何色情、性暗示或不当性内容，仅涉及正常娱乐节目的玩笑表达。"
 }

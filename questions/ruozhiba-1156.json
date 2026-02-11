@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用体育比赛比喻（裁判、读秒判负）来描述鬼压床现象，属于幽默表达，逻辑可理解；内容涉及睡眠瘫痪这一生理现象，无任何色情或不当性暗示。"
 }

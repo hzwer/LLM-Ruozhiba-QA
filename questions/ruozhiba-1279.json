@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目探讨平行宇宙中是否存在\"狗屎咖啡\"，虽然涉及粪便，但属于食品话题（类似猫屎咖啡），不涉及色情内容。问题本身是假设性的，逻辑上可理解，人类回答已给出合理解释，因此不标记。"
 }

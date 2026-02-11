@@ -12,5 +12,8 @@
   "difficulty_score": 0.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个数学应用题，虽然使用历史人物和虚构场景，但数学逻辑清晰（净减少速率=20-17=3个/小时，总时间=233.3/3=77.77小时），看了人类回答后完全可理解，没有逻辑不通之处。题目不涉及任何色情、性暗示或不当性内容。"
 }

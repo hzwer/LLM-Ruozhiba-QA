@@ -12,5 +12,8 @@
   "difficulty_score": 1.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是谐音梗脑筋急转弯，利用\"烫\"字双关（发烧的\"烫\"和烫发的\"烫\"），逻辑合理，不属于过于奇怪；内容涉及健康话题，无任何色情或性暗示。"
 }

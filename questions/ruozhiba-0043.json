@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于父母如何为孩子取名字的普通问题，人类回答合理解释了父母精心选择名字的过程，逻辑清晰易懂；不涉及任何色情、性暗示或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 0.9,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个简单的数学逻辑题，逻辑清晰合理，不涉及任何色情或不当内容。"
 }

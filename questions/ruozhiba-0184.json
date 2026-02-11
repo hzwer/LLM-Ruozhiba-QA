@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目将古语\"寸金难买寸光阴\"与低时薪的现实进行对比，虽然存在概念层面的跳跃，但人类回答已清晰解释两者属于不同范畴，逻辑上可理解，不属于过于奇怪的题目。同时，题目完全不涉及任何色情、性暗示或不当性内容。"
 }

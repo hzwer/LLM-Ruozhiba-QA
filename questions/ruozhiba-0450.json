@@ -12,5 +12,8 @@
   "difficulty_score": 2.02,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个典型的脑筋急转弯，利用\"按人头数算\"的字面意思制造幽默。看了人类回答后很容易理解其意图，不涉及色情或不当内容。"
 }

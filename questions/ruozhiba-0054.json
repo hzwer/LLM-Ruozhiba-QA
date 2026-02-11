@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了\"黑人\"作为影子的幽默表达，是一个脑筋急转弯或谐音梗。看了人类回答后，逻辑清晰：影子是光的物理现象。不涉及任何色情、性暗示或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表达了一种个人脱毛方法，虽然该方法危险且不科学，但逻辑清晰、易于理解，不属于过于奇怪的范畴。同时，题目仅涉及正常的身体护理话题，不包含任何色情或性暗示内容。"
 }

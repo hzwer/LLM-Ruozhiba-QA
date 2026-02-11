@@ -12,5 +12,8 @@
   "difficulty_score": 4.06,
   "flash_answer_score": 9,
   "kimi_answer_score": 6,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了夸张的比喻表达（“煮熟”），人类回答已解释其含义，因此可以理解，不属于过于奇怪。题目不涉及色情、性暗示或不当性内容。"
 }

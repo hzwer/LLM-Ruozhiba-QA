@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及生理健康咨询，虽然提问者对梦遗和怀孕的概念存在混淆，但这是常见的知识误区，并非完全无法理解或不合逻辑。人类回答已清晰解释，因此不标记为过于奇怪。题目内容属于正常生理健康话题，没有色情或不当性暗示，因此不标记为涉及色情。"
 }

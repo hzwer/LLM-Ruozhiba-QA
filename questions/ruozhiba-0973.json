@@ -12,5 +12,8 @@
   "difficulty_score": 3.2,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了口语中的夸张表达\"要打死我\"，看了人类回答后可以理解这是修辞手法，并非真的暴力行为。这属于常见的语言幽默或脑筋急转弯，逻辑上可以理解。题目不涉及任何色情、性暗示或不当性内容，只是关于师生对话的正常话题。"
 }

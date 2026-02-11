@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于医院社交礼仪的合理疑问，人类回答已清晰解释了为何\"欢迎下次光临\"在医疗环境中不恰当。看了回答后问题完全可理解，逻辑通顺，不涉及任何色情或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"丁丁还不长毛怎么办？\"可以被合理解释为关于漫画《丁丁历险记》角色或宠物的问题，不涉及色情或不当内容。人类回答已提供清晰解释，表明这是一个有歧义但可理解的表达，并非过于奇怪或不合逻辑。"
 }

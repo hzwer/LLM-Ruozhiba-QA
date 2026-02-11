@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及历史和文化身份的误解或谐音梗（“古巴”与“古蜀”的混淆），人类回答通过澄清四川的古蜀历史和重庆与古巴（现代国家）无关，提供了合理解释，逻辑清晰。无任何色情、性暗示或不当性内容。"
 }

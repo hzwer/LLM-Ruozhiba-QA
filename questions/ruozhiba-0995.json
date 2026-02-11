@@ -12,5 +12,8 @@
   "difficulty_score": 4.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 4,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个日常生活中的小意外（打翻醋并踩到），询问脚酸的缓解方法。虽然提问者可能错误地将脚酸归因于踩到醋（因为醋是酸性的），但这是一个可以理解的常见误解。人类回答已科学地解释了原因并给出合理建议，整体逻辑清晰，不涉及任何色情或不当内容。"
 }

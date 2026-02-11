@@ -12,5 +12,8 @@
   "difficulty_score": 1.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了\"裸考\"和\"透题\"的双关语，是一个谐音梗/脑筋急转弯。人类回答清晰解释了两种可能的解读（理解题意 vs 提前知道考题），逻辑完整，易于理解。根据规则，谐音梗即使看起来奇怪也不应标记为\"过于奇怪\"。题目讨论考试场景，不涉及任何色情、性暗示或不当内容。"
 }

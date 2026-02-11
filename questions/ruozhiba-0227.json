@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于\"北京时间\"命名原因的合理疑问，涉及地理和时间常识。人类回答清晰地解释了历史背景和命名逻辑，问题本身易于理解且逻辑通顺，没有任何奇怪或难以理解之处。题目内容完全正常，不涉及任何色情或不当性内容。"
 }

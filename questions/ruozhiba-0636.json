@@ -12,5 +12,8 @@
   "difficulty_score": 4.72,
   "flash_answer_score": 9,
   "kimi_answer_score": 3,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于手机内存和存储空间的常见技术误解，逻辑清晰可理解，不涉及任何色情内容。人类回答正确解释了RAM和ROM的区别，使问题更加明确。"
 }

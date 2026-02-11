@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是脑筋急转弯，利用成语\"一山不容二虎\"的字面意思制造幽默效果，看了人类回答后完全可理解，逻辑清晰。问题仅涉及老虎繁殖的正常生物学知识，无任何色情、性暗示或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.94,
   "flash_answer_score": 10,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个基于化学知识的幽默表达，用户想用NaOH和HCl反应制造食盐，虽然不切实际但逻辑上合理。人类回答已清楚解释其危害和不适用性，因此不奇怪。题目不涉及任何色情或不当内容。"
 }

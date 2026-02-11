@@ -12,5 +12,8 @@
   "difficulty_score": 1.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是常见的脑筋急转弯，利用\"面包车\"字面意思制造幽默效果。人类回答已清晰解释\"面包车\"是车型名称，形状像面包，因此车里不一定有面包。问题本身逻辑通顺，不涉及任何色情或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于食物的正常提问，描述红色方形糕点的特征并询问是什么，人类回答给出了合理的猜测（红糖糕），问题逻辑清晰、容易理解，不涉及任何色情或不当内容。"
 }

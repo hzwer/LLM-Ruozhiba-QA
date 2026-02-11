@@ -12,5 +12,8 @@
   "difficulty_score": 2.9,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"约架好还是约酒好？\"是一个比较性的问题，虽然\"约架\"涉及暴力，但作为对比性问题并不算过于奇怪或不合逻辑。人类回答已经给出了合理的解释，从和谐友好角度分析了两者的利弊。题目不涉及任何色情、性暗示或不当性内容，仅是正常的社交活动比较。"
 }

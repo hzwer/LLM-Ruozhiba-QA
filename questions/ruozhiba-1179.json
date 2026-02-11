@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目基于对“金星”名称的常见误解，虽然科学上不准确，但逻辑可理解，属于可解释的认知错误，并非过于奇怪或不合逻辑。内容完全不涉及色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于身高增长的生理常识问题，表达方式虽有些绕但逻辑清晰，人类回答已明确解释。不涉及任何色情或不当内容。"
 }

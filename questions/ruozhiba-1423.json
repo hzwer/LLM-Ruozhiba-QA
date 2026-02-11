@@ -12,5 +12,8 @@
   "difficulty_score": 3.04,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个看似矛盾但实际可理解的体重变化现象，人类回答提供了合理的解释（如水分摄入、测量条件等），逻辑通顺。题目仅涉及正常的生理活动（上厕所）和健康话题，不包含任何色情、性暗示或不当性内容。"
 }

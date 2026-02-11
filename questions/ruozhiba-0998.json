@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个基于历史知识的逻辑推理问题，询问武则天作为女皇帝是否也有\"后宫三千\"。人类回答后逻辑清晰：皇帝通常指男性，有后宫；武则天是女性皇帝，没有后宫。因此不奇怪。题目涉及的是中性历史概念\"后宫\"，无性暗示或不当内容，不属于色情范畴。"
 }

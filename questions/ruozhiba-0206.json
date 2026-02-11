@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个简单的脑筋急转弯，描述复习化学却参加英语考试导致考砸，逻辑清晰易懂，无任何色情或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.1,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个幽默或脑筋急转弯的表达，故意曲解化学概念\"还原性\"的含义，将其与\"年轻\"联系起来。虽然逻辑跳跃较大，但看了人类回答后完全可以理解其意图，不属于无法理解或逻辑完全不通的情况。题目不涉及任何色情、性暗示或不当性内容，仅涉及化学知识和健康话题。"
 }

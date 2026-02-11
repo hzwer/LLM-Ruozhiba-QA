@@ -12,5 +12,8 @@
   "difficulty_score": 2.02,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于正常的生理健康问题（无法区分憋屎和憋尿的感觉），表达的是真实的健康担忧，不是脑筋急转弯或幽默表达。看了人类回答后可以理解其逻辑，不属于过于奇怪的题目。同时，题目只涉及排泄功能，是正常的生理话题，不涉及任何色情、性暗示或不当性内容。"
 }

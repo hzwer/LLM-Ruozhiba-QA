@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个幽默的脑筋急转弯，提出了一个荒谬但可理解的假设（把碗穿在身上），没有涉及色情内容。人类回答已经清晰解释了其不合理之处，因此不标记。"
 }

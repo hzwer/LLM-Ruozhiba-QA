@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑洞问题，将现代计算机病毒概念与神话中的生死簿结合进行假设性提问。虽然假设奇特，但逻辑上可以理解（探讨虚构事物能否被现代技术攻击），看了人类回答后逻辑清晰，不属于无法理解或完全不合逻辑。题目完全不涉及色情、性暗示或不当性内容。"
 }

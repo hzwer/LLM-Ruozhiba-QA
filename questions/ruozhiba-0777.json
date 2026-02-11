@@ -12,5 +12,8 @@
   "difficulty_score": 0.9,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目提出了一个关于地下钻洞偷渡的假设性问题，虽然不切实际且违法，但逻辑上可以理解，并非过于奇怪或无法理解。题目完全不涉及任何色情、性暗示或不当性内容。"
 }

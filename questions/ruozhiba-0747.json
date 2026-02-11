@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个可能发生的社会情境（发现和尚偷看女子戏水），逻辑清晰可理解。人类回答合理理解了场景并给出了关于隐私尊重的建议。虽然涉及“偷看”行为，但属于道德伦理讨论范畴，不构成色情或性暗示内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于亲子鉴定的科学问题，逻辑清晰，人类回答提供了准确解释，不奇怪。内容仅涉及正常的血缘关系鉴定，无任何色情或不当性暗示。"
 }

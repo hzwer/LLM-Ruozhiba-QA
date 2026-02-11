@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯，将抽象概念“梦”和“爱情”与重量单位结合。看了人类回答后完全理解其逻辑（“一吨”作为单位不随修饰词改变），不满足“即使看了人类回答仍过于奇怪”的条件。题目不涉及任何色情、性暗示或不当内容。"
 }

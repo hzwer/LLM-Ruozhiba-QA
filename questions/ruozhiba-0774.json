@@ -12,5 +12,8 @@
   "difficulty_score": 1.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于青铜器鉴定的合理疑问，人类回答清晰解释了历史背景（英文字母和拼音都是近现代才出现的），逻辑通顺，不涉及任何色情内容。"
 }

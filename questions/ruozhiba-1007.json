@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是脑筋急转弯，利用\"一腿\"的双关含义，指语文老师了解司马迁被阉割的历史事实。这是幽默表达，逻辑可理解，且涉及的是正常历史知识，不属于色情内容。"
 }

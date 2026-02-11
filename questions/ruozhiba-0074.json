@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是基于《龙珠》动漫设定的幽默提问，使用了拟人化的表达（\"出远门探亲\"），但逻辑清晰易懂。人类回答后完全能理解其含义，不属于过于奇怪的题目。同时，题目内容与色情、性暗示无关，不涉及任何不当性内容。"
 }

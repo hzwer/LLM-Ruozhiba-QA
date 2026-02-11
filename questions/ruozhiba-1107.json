@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于风扇反转与温度关系的物理问题，虽然可能基于常见误解，但逻辑清晰、可理解，不奇怪；内容完全涉及家用电器和热力学常识，无任何色情或不当性暗示。"
 }

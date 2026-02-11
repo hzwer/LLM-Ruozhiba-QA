@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问色盲人士能否玩围棋，是一个合理的健康/生理知识问题。人类回答正确解释了色盲不影晌黑白对比识别，因此围棋可以使用黑白棋子。问题逻辑清晰，不涉及任何色情内容。"
 }

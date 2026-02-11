@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对\"半身裙\"词义的误解或脑筋急转弯，看了人类回答后完全理解，逻辑清晰，不涉及任何色情或不当内容。"
 }

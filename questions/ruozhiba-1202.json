@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是将神话故事与科学事实结合的创意性问题，属于脑筋急转弯/幽默表达，看了人类回答后逻辑清晰，不奇怪。内容不涉及任何色情或不当内容。"
 }

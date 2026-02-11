@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽涉及敏感部位，但本质是询问人体可能性的生理/解剖学问题，逻辑可理解，且无非分性暗示或性刺激目的。人类回答已从身体结构角度给出合理解释。"
 }

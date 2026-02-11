@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问在灵堂洗澡是否被禁止，属于对场所行为规范的疑问，人类回答已解释其合理性（灵堂是悼念场所，洗澡行为不当），逻辑通顺且不涉及任何色情或不当性内容。"
 }

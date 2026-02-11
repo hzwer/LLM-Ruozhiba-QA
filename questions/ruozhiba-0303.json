@@ -12,5 +12,8 @@
   "difficulty_score": 6.0,
   "flash_answer_score": 0,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然对\"红包\"概念有误解（以为需要手工叠纸红包），但这是可以理解的常见误解或幽默表达。人类回答已经澄清了红包的正常含义。题目并非完全无法理解或逻辑不通，而是属于脑筋急转弯式的表达。同时，题目内容完全与性、色情无关，讨论的是正常的社会习俗问题。"
 }

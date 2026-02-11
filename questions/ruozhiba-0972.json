@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于出行方式选择的合理问题，询问为什么选择走路而不是跑步，属于生活常识或运动健康话题。人类回答给出了恰当的解释，逻辑清晰易懂。不涉及任何色情、性暗示或不当性内容。"
 }

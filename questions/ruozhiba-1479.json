@@ -12,5 +12,8 @@
   "difficulty_score": 2.9,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于高铁列车停靠站点的合理疑问，逻辑清晰，不涉及任何色情或不当内容。人类回答也提供了合理的解释，说明这是正常的运营规划问题。"
 }

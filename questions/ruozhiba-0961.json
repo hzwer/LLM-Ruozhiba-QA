@@ -12,5 +12,8 @@
   "difficulty_score": 3.34,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了眨眼现象并担心失明，看了人类回答后明确这是正常生理反应，逻辑清晰易懂；内容纯属健康话题，无任何色情或性暗示。"
 }

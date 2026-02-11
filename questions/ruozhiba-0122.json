@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于手术成功率的问题，虽然提出了一个看似天真的想法（失败后可以重试），但逻辑上是可理解的，人类回答也能很好地解释。这不属于无法理解或完全不合逻辑的题目。同时，题目涉及正常的医学健康话题，与色情、性暗示等内容无关。"
 }

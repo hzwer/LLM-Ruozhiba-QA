@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个利用\"开放\"一词双关含义的幽默/脑筋急转弯问题。提问者故意曲解\"开放世界\"中的\"开放\"为\"不穿衣服\"，制造荒谬对比来制造幽默效果。看了人类回答后完全理解其逻辑，属于正常的幽默表达，不涉及任何色情内容。"
 }

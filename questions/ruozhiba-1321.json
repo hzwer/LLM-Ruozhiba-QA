@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯或幽默表达，用几何原理\"两点之间线段最短\"来对比下楼场景，虽然看似奇怪但逻辑可理解。人类回答给出了合理的解释。题目不涉及任何色情或不当内容，只是关于日常行为与物理原理的讨论。"
 }

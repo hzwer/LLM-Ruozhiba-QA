@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯，幽默地将\"健康\"视为一种\"病\"，逻辑清晰且不涉及任何不当内容。看了人类回答后完全能理解其幽默意图，不违反任何标记标准。"
 }

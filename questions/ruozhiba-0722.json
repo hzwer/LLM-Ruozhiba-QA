@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗，将\"暖男\"（性格温暖）故意曲解为字面意义上的\"保暖的男性\"，从而与\"穿秋裤\"产生幽默联系。人类回答已清晰解释其含义，逻辑通顺，不属于过于奇怪的题目。内容无任何性暗示或不当性内容，属于正常的幽默表达。"
 }

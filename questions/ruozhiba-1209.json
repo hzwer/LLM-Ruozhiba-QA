@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个诗意的拟人化表达，将雨水比喻为\"天空的泪水\"。人类回答给出了合理的解释（雨滴从云中形成），说明这是一个有逻辑的比喻性问题，并非真正奇怪或无法理解。题目不涉及任何色情、性暗示或不当内容。"
 }

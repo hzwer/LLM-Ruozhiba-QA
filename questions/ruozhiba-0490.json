@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于家庭关系和社交称呼的合理问题，虽然可能有些令人困惑，但逻辑清晰且人类回答能够清楚解释。不涉及任何色情或不当内容。"
 }

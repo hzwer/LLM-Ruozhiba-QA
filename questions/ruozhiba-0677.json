@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表述虽然直接使用了\"尸体\"一词，但逻辑清晰，是在询问吃猪肉与恋尸癖的区别。人类回答能有效解释，因此不标记为过于奇怪。题目仅涉及心理学术语和饮食习惯，没有色情、性暗示或不当性内容。"
 }

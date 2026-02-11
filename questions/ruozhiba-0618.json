@@ -12,5 +12,8 @@
   "difficulty_score": 2.76,
   "flash_answer_score": 10,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是谐音梗或对同音词\"昆凌\"的误解（人名vs相声术语），人类回答已清晰解释两者区别，逻辑通顺，不属于过于奇怪；内容仅涉及名人婚姻和艺术术语，无任何色情或不当性内容。"
 }

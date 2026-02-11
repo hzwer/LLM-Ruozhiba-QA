@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目基于一个常见的科学误解（认为氮气能让气球飞起来），但逻辑清晰，看了人类回答后完全可理解，属于幽默或教育性提问，不标记为过于奇怪；内容仅涉及物理和生理知识，无任何色情或不当性暗示，不标记为涉及色情。"
 }

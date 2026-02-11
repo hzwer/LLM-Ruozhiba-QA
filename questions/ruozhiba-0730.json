@@ -12,5 +12,8 @@
   "difficulty_score": 3.64,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个哲学性的思考题，将睡眠与死亡进行类比，探讨时间与存在的意义。虽然表达方式诗意化，但逻辑上是可理解的，不涉及任何不当内容。"
 }

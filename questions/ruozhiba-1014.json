@@ -12,5 +12,8 @@
   "difficulty_score": 0.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于中文词语断句的脑筋急转弯/语言游戏，通过不同的断句（\"精神病 院\" vs \"精神 病院\"）来探讨词语的不同含义。人类回答已经清晰地解释了题目的意图和正确用法。题目不涉及任何色情、性暗示或不当内容，只是对日常用语的有趣分析。根据规则，此类脑筋急转弯即使看起来巧妙，也不应标记为\"过于奇怪\"。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个网络用语的双关表达，利用了\"辣\"字的不同含义（味觉上的辣 vs 难以接受的程度）。虽然表面上看起来奇怪，但人类回答已经清晰解释了其网络用语含义和逻辑，完全可理解。不涉及任何色情或不当内容。"
 }

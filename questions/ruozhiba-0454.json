@@ -12,5 +12,8 @@
   "difficulty_score": 3.64,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于时钟和时间关系的合理疑问，源于对时钟作为时间计量工具而非时间控制器的误解。人类回答清楚地解释了时钟只是计量工具，时间本身不会因时钟停止而暂停，逻辑完全通顺。题目不涉及任何色情或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个逻辑思维题，探讨完美圆形与半圆形的关系。虽然问题本身有点绕，但逻辑清晰，人类回答已经明确解释了其中矛盾之处。问题不涉及任何色情或不当内容，属于正常的科学/数学思维讨论。"
 }

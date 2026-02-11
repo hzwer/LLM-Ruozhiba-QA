@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目逻辑清晰可理解，人类回答提供了合理的关系建议。虽然提到了成人影星波多野结衣的名字，但仅作为公众人物提及，没有涉及任何色情描述、性暗示或性行为内容，焦点在于关系中的认知差异而非色情话题。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及对药物作用的常见误解，逻辑清晰且可以理解。人类回答准确解释了抗生素与怀孕的关系，问题本身是合理的健康咨询，不涉及色情或不当内容。"
 }

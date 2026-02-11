@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于游泳课前泳裤没干的日常问题，人类回答指出泳裤本来就会湿，逻辑清晰且实用，不涉及色情或奇怪内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": true,
+  "is_sexual": false,
+  "mark_reason": "题目询问\"吃几个粉笔会好\"治疗胃炎，这是一个完全不符合医学常识且荒谬的问题。粉笔不是食物或药物，不能治疗胃炎，吃粉笔甚至可能有害。即使看了人类回答的纠正，仍然无法理解为何会有人提出这样的问题，逻辑上完全不通。但题目不涉及任何色情或性暗示内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及对佛教人物如来佛与现代文学家鲁迅本名周树人的混淆，属于文化知识误解。人类回答已清晰解释两者区别，逻辑通顺，并非无法理解。题目不包含任何色情、性暗示或不当内容。"
 }

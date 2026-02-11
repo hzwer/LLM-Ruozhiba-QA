@@ -12,5 +12,8 @@
   "difficulty_score": 1.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目内容是关于学校运动会的正常疑问，人类回答已清晰解释跑道距离的计算方法，逻辑完整；不涉及任何色情内容。"
 }

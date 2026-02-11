@@ -12,5 +12,8 @@
   "difficulty_score": 3.5,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽带有主观假设但逻辑可理解，人类回答能合理解释；服装描述无明确色情或性暗示，属于正常社会行为讨论。"
 }

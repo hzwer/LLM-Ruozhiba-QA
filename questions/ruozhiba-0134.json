@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及历史知识，提问者可能存在时间认知错误，但人类回答正确解释了司马迁与李世民的时间差异，逻辑清晰易懂。题目不包含任何色情、性暗示或不当内容。"
 }

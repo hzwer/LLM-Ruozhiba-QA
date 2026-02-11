@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对神话故事\"夸父追日\"的合理质疑，提出了一个基于现代物理逻辑的疑问。人类回答已经清楚解释了神话的寓意和精神内涵，说明夸父追日并非字面意义上的追逐，而是象征人类探索自然、挑战困难的精神。因此，即使看了人类回答，题目也并非过于奇怪或难以理解，它只是一个引发思考的提问。同时，题目完全不涉及色情、性暗示或任何不当性内容。"
 }

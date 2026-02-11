@@ -12,5 +12,8 @@
   "difficulty_score": 3.04,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯或幽默表达，人类回答将\"魔法\"解释为\"时间管理的技巧\"，给出了合理的双关理解，并不奇怪或难以理解。题目完全不涉及色情、性暗示或不当性内容。"
 }

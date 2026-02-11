@@ -12,5 +12,8 @@
   "difficulty_score": 2.6,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于投票系统取消功能的技术问题，表述清晰，逻辑合理，人类回答也提供了合理解释，因此不奇怪；题目不涉及任何色情或性暗示内容。"
 }

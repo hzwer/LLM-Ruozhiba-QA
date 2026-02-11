@@ -12,5 +12,8 @@
   "difficulty_score": 3.04,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个假设性的脑筋急转弯场景，虽然现实中不太可能发生，但逻辑可理解。人类回答给出了合理的解释（狗不是注册参赛者，不影响比赛结果）。根据规则，脑筋急转弯即使看起来奇怪也不应标记为\"过于奇怪\"。题目内容完全不涉及色情或性相关内容。"
 }

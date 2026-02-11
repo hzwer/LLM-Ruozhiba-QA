@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于时间逻辑的脑筋急转弯，虽然表述有些绕，但逻辑上是成立的。人类回答已经清晰解释了\"分手1年\"意味着\"1年前还在交往\"这一时间关系。这不属于过于奇怪或难以理解的题目。题目内容仅涉及正常的恋爱关系，没有任何色情、性暗示或不当性内容。"
 }

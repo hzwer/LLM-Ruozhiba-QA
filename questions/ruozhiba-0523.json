@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个基于中文谐音的幽默表达（柴油的\"柴\"与木材的\"柴\"谐音），虽然表面看似奇怪，但属于脑筋急转弯类型。看了人类回答后完全能理解其逻辑和幽默所在，不构成\"过于奇怪\"。题目内容完全正常，不涉及任何色情、性暗示或不当性内容。"
 }

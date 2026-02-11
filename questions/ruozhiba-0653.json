@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目探讨的是\"高冷\"与\"性冷淡\"两个中文词汇的概念区分，属于正常的语言理解问题。看了人类回答后完全能理解其逻辑，不奇怪。题目中出现的\"性冷淡\"是医学术语，仅涉及正常的生理健康知识，没有色情或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗或幽默玩笑，模仿《龙珠》的设定但故意使用\"聋猪\"替代\"龙珠\"。人类回答清楚地解释了其意图，逻辑容易理解，不属于过于奇怪的题目。同时，题目不涉及任何色情、性暗示或不当性内容。"
 }

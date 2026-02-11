@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目探讨抄袭与时间方向性的逻辑关系，人类回答清晰解释了时间单向流逝的原理，逻辑通顺易于理解。题目不涉及任何色情、性暗示或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然提出了一个荒谬的场景（吃蚊香、喝灭蚊液），但属于脑筋急转弯或幽默表达类型。人类回答清楚地解释了蚊香和灭蚊液的正确使用方法，并指出吃这些东西不仅无效而且有害。看了人类回答后，题目的意图和逻辑完全清晰，因此不应标记为\"过于奇怪\"。题目内容涉及日常健康用品和防蚊常识，不包含任何色情、性暗示或不当性内容。"
 }

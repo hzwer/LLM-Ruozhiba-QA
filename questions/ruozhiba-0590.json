@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗/脑筋急转弯，人类回答已解释其双关含义（“眼镜”指冰块，“冻眼睛”指冰块冻到眼睛），逻辑清晰。不涉及色情、性暗示或不当性内容，仅包含粗俗用语但不构成色情。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 10,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是脑筋急转弯或幽默表达，故意曲解成语\"一波三折\"的字面意思来提问。看了人类回答后完全可理解其意图，不涉及色情内容。"
 }

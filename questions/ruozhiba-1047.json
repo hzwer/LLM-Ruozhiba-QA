@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目本身可能因现代语义产生歧义，但人类回答已明确解释\"玩\"在古代有欣赏、研究之意，看了回答后题目逻辑清晰、可理解，不属于过于奇怪。题目中无任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.64,
   "flash_answer_score": 10,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，虽然行为荒谬但逻辑可理解；内容不涉及任何色情或不当性内容，属于正常的健康话题。"
 }

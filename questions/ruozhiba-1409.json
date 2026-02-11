@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于985高校毕业生就业的正常问题，逻辑清晰，含义明确，不涉及任何色情或不当内容。人类回答也很好地解释了该问题的含义，看完后更容易理解。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目探讨的是社会经济问题，虽然表述简单，但逻辑清晰，不是脑筋急转弯或无法理解的内容。题目完全不涉及色情或性相关内容。"
 }

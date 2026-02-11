@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于出生过程的疑问，使用了\"掏出来\"这一口语化表达，但属于对生理过程的正常询问。看了人类回答后完全可理解，不涉及色情内容，不应标记。"
 }

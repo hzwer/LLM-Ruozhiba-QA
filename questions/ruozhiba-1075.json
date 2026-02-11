@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯或幽默表达，基于饺子和醋的常见饮食习惯提出反直觉问题。人类回答合理解释了醋不适合作为馅料的原因（味道掩盖和挥发性），逻辑清晰易懂。题目不涉及任何色情、性暗示或不当内容。"
 }

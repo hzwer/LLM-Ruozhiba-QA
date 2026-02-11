@@ -12,5 +12,8 @@
   "difficulty_score": 3.88,
   "flash_answer_score": 9,
   "kimi_answer_score": 5,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于电路基础原理的正常问题，带有一定幽默语气但逻辑清晰，人类回答后完全可理解。无任何色情、性暗示或不当内容。"
 }

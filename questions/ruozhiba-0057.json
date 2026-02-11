@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目提出了一个关于聋哑人是否适合间谍工作的观点，虽然前提有误但逻辑清晰、可以理解。看了人类回答后更容易识别其缺陷，但并不奇怪或难以理解。题目完全不涉及色情、性暗示或不当性内容，只涉及间谍工作、刑讯逼供等正常社会话题。"
 }

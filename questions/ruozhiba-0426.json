@@ -12,5 +12,8 @@
   "difficulty_score": 0.0,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 0
+  "original_difficulty_score": 0,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"公鸡是鸭子吗\"是一个简单的生物学分类问题，虽然答案非常基础，但逻辑清晰、易于理解，不涉及任何难以理解或不合逻辑的内容。人类回答准确说明了公鸡和鸭子是两种不同的鸟类。题目完全不涉及色情、性暗示或不当性内容，属于正常的常识性问题。"
 }

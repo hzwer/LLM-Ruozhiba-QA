@@ -12,5 +12,8 @@
   "difficulty_score": 1.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于两部动画片名称的疑问，逻辑清晰，人类回答已明确区分，不涉及任何奇怪或难以理解的内容。同时，题目完全不涉及色情、性暗示或不当性内容。"
 }

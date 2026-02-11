@@ -12,5 +12,8 @@
   "difficulty_score": 5.62,
   "flash_answer_score": 3,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"日本人是怎么做到让自己身体的一部分像素化的？\"虽然初看有些奇怪，但人类回答明确指出这是一种艺术表现手法，可以通过化妆、服装设计或数字编辑实现，逻辑清晰合理。题目没有涉及任何色情、性暗示或不当性内容，应视为一种关于视觉艺术或技术的提问，不应标记。"
 }

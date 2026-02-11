@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，故意曲解\"铁杵磨成针\"的含义，将\"磨\"替换为\"压\"，并提出荒谬的问题。看了人类回答后，逻辑变得清晰，这属于幽默表达而非真正奇怪的题目。题目不涉及任何色情或性暗示内容，\"压床\"在此语境下指物理压力。"
 }

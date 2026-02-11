@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默段子，结合了《超级马里奥》游戏梗和郭敬明身高的公众认知，逻辑清晰有趣，不涉及任何色情或不当内容。"
 }

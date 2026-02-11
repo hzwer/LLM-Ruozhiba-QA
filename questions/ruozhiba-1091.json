@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是脑筋急转弯，利用了\"甜\"字的双关含义进行幽默表达。看了人类回答后能理解其意图和逻辑，不属于无法理解或不合逻辑的情况。题目仅涉及刷牙和梦，是正常的生理健康话题，不涉及任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯，基于“吃士力架能改变性别”的荒谬假设制造幽默。人类回答直接指出了其逻辑错误（食品不能改变性别），看了回答后完全理解其意图，不属于无法理解或不合逻辑的奇怪题目。同时，题目仅涉及性别概念，没有色情、性暗示或不当性内容，属于正常的幽默表达。"
 }

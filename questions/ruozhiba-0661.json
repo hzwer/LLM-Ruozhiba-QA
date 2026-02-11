@@ -12,5 +12,8 @@
   "difficulty_score": 2.4,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个哲学性的悖论式提问，探讨永生与出生的逻辑关系。虽然角度独特，但逻辑清晰、可理解，人类回答也给出了合理的解释。题目不涉及任何色情、性暗示或不当性内容，属于正常的生命哲学讨论。"
 }

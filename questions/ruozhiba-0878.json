@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目基于对变电站功能的常见误解，虽然前提错误但逻辑清晰可理解，不涉及任何色情或不当性内容。看了人类回答后疑问已得到合理解释。"
 }

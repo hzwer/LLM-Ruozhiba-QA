@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对\"宽带\"术语的字面误解，属于常见的幽默或谐音梗表达，不涉及色情内容。人类回答后逻辑清晰，不构成过于奇怪或难以理解。"
 }

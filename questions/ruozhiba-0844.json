@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于煤气泄漏和鼻炎的常识性问题，虽然\"免疫\"一词使用不准确，但逻辑上可以理解，人类回答已清楚解释。不涉及任何色情或不当内容。"
 }

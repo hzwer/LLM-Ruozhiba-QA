@@ -12,5 +12,8 @@
   "difficulty_score": 0.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目问的是喝漂白水是否能让皮肤变白，虽然这是一个危险的误解，但逻辑上可以理解（源于对\"漂白\"一词的误解），人类回答已明确解释其危险性和无效性。题目不涉及任何色情或性暗示内容，仅涉及化学品误用的健康安全问题。"
 }

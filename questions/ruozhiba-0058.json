@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯，利用\"黑丝/白丝\"的双关含义制造幽默效果。人类回答已清楚解释劫匪套黑丝是为了遮住面部防止被认出，逻辑通顺，容易理解。题目不涉及色情或性暗示内容，语境为劫匪作案，与性无关。"
 }

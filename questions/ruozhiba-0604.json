@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个寓言式小故事，通过狗与狼的对话探讨自由与依赖的主题，逻辑清晰，人类回答也提供了合理解读，不涉及任何不当内容。"
 }

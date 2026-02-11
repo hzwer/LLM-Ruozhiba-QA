@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个关于语言误解的幽默题目，涉及食物描述与身体状态的歧义。看了人类回答后完全理解了其中的逻辑和笑点，不存在理解障碍。题目中提到的\"蛋\"在上下文中明显指鸡蛋，没有色情或性暗示内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 3.04,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然将避雷常识与充电问题结合，但逻辑上可以理解。人类回答清晰解释了避雷针原理，消除了疑惑。题目内容完全关于雷电安全和供电，不涉及任何色情或不当内容。"
 }

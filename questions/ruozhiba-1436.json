@@ -12,5 +12,8 @@
   "difficulty_score": 3.04,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个幽默的、不切实际的假设，将现实中的\"属性\"与数字图像格式\"PNG\"进行混淆，属于创意性联想或玩笑式提问。虽然逻辑上不成立，但看了人类回答后可以理解其含义，并非无法理解或完全不合逻辑。题目不涉及任何色情、性暗示或不当性内容。"
 }

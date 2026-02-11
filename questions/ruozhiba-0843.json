@@ -12,5 +12,8 @@
   "difficulty_score": 3.06,
   "flash_answer_score": 10,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯题目，利用了\"田忌赛马\"成语的字面理解与实际情况的差异。人类回答清楚地解释了\"赛马\"是指马之间的比赛，田忌作为马的主人不参与跑步。题目虽然看似奇怪，但逻辑清晰，看了回答后完全能理解，不涉及任何不当内容。"
 }

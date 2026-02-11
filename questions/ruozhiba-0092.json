@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个常见的公共安全问题（排队时被尾随如何报警），逻辑清晰，容易理解。人类回答提供了合理、实用的报警建议，包括拨打紧急电话、寻求工作人员帮助、使用一键报警等。该问题不涉及任何色情、性暗示或不当性内容，属于正常的安全知识询问。因此，既不过于奇怪也不涉及色情。"
 }

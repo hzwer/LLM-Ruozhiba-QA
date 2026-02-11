@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用夸张幽默手法将读书与身体伤害联系起来，是一种修辞玩笑，人类回答能轻松理解并解释，不属于无法理解或逻辑不通的情况。题目不涉及任何色情、性暗示或不当性内容。"
 }

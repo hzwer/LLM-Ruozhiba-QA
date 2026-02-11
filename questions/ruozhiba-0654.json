@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于学校食堂剩菜循环的幽默思考，虽然表面看似奇怪，但逻辑清晰、可理解，且人类回答已明确解释。题目不涉及任何色情或不当内容。"
 }

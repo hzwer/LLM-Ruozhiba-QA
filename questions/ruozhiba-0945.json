@@ -12,5 +12,8 @@
   "difficulty_score": 2.1,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于医疗急救的健康咨询，逻辑清晰合理，涉及正常的生理知识和健康管理，不涉及任何色情或不当性内容。人类回答也提供了专业且合理的建议。"
 }

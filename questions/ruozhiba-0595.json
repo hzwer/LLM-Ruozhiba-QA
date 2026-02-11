@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯或幽默表达，使用了《西游记》元素进行比喻，看了人类回答后可以理解其含义（用\"吐三昧真火\"比喻婴儿哭声），没有色情或不当内容。"
 }

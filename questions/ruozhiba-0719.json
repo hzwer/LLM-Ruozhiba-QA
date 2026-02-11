@@ -12,5 +12,8 @@
   "difficulty_score": 1.92,
   "flash_answer_score": 10,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个幽默的脑筋急转弯式提问，逻辑清晰。人类回答直接指出了核心原因（非亲生），完全合情合理。题目虽然不切实际但属于幽默表达，不应标记为\"过于奇怪\"。同时，题目完全不涉及任何色情、性暗示或不当性内容。"
 }

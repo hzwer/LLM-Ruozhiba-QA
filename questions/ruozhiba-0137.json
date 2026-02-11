@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于交通法规对导盲犬的适用性，是一个合理的政策疑问。人类回答清晰解释了导盲犬通常不坐副驾驶且经过专业训练，逻辑通顺，容易理解。不涉及任何色情或不当内容。"
 }

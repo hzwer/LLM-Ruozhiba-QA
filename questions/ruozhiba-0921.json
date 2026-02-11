@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述的是日常生活中的常见问题，逻辑清晰合理。用户因为停电导致风扇不转，在黑暗环境中无法开灯检查，人类回答正确解释了因果关系。虽然使用了口语化表达\"妈的\"，但不涉及色情内容，也不属于过于奇怪或难以理解的题目。"
 }

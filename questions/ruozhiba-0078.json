@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯/哲学思考，用\"像素\"比喻人眼功能，探讨\"看到未来\"的可能性。人类回答合理解释了眼睛只能感知物质实体而无法看到时间概念的逻辑，因此不奇怪、不难理解。题目不涉及任何色情或不当内容。"
 }

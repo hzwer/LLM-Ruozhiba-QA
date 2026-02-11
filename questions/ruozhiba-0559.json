@@ -12,5 +12,8 @@
   "difficulty_score": 0.0,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 0
+  "original_difficulty_score": 0,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默表达或脑筋急转弯，描述大热天打伞遮阳却假装不理解的情景。看了人类回答后逻辑清晰，完全可理解。不涉及任何色情或不当内容。"
 }

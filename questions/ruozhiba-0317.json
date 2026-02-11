@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个历史时间悖论问题，虽然逻辑上有时间矛盾，但这是故意设置的思维游戏，人类回答已清楚解释。题目不涉及任何色情内容。"
 }

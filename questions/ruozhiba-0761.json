@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目虽然表面荒谬，但可理解为脑筋急转弯或幽默表达。人类回答提供了两种合理解读（包括代孕可能性），说明题目有逻辑可循，并非完全无法理解。题目仅涉及正常生育话题，无明显色情或性暗示内容。"
 }

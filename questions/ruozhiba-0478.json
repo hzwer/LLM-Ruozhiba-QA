@@ -12,5 +12,8 @@
   "difficulty_score": 3.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个经典的哲学问题，探讨生命意义与死亡的关系，逻辑清晰，人类回答也有效回应了问题。题目不涉及任何色情或性相关内容。"
 }

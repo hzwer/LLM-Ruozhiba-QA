@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述思维卡顿的感觉，使用\"更新一下脑子\"的比喻表达，虽不完整但可理解。人类回答\"休息一下\"提供了合理建议，对话逻辑连贯，不属于过于奇怪或难以理解的内容。内容仅涉及认知健康，无任何色情或性暗示。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯/幽默类比，将现代职业快递员与古代职业镖师对应，询问程序员的古代对应职业。虽然程序员在古代确实不存在，但这是一个常见的幽默提问形式，逻辑上可以理解，不属于\"过于奇怪\"范畴。题目不涉及任何色情、性暗示或不当内容。"
 }

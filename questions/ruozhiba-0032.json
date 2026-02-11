@@ -12,5 +12,8 @@
   "difficulty_score": 0.0,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 0
+  "original_difficulty_score": 0,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个脑筋急转弯或幽默表达，利用\"耳机\"与\"耳朵\"的关联制造荒谬对比。虽然逻辑上不通，但作为幽默或常识测试是完全可以理解的，看了人类回答后更清楚其意图。题目不涉及任何色情、性暗示或不当性内容，仅涉及正常的生理知识和健康话题。"
 }

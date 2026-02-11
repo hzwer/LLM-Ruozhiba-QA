@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是陕西方言谐音脑筋急转弯，人类回答解释了\"转笔\"在陕西话中意为\"说话\"，使题目逻辑清晰合理，不涉及任何色情或不当内容。"
 }

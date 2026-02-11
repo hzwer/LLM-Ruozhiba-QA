@@ -12,5 +12,8 @@
   "difficulty_score": 2.1,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是谐音梗，利用\"揍\"与\"奏\"的谐音制造幽默效果，人类回答已澄清\"先斩后揍\"实际指古代司法制度\"先斩后奏\"，逻辑清晰易懂，不涉及任何不当内容。"
 }

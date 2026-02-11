@@ -12,5 +12,8 @@
   "difficulty_score": 2.64,
   "flash_answer_score": 8,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个典型的谐音梗/脑筋急转弯，利用\"烟\"字的多义性（吸烟的烟 vs 油烟的烟）制造幽默效果。人类回答正确指出了油烟机的实际功能。根据指导原则，这种幽默表达不应标记为\"过于奇怪\"。题目内容完全正常，不涉及任何色情或不当性内容。"
 }

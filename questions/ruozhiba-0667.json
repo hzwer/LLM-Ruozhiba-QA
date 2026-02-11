@@ -12,5 +12,8 @@
   "difficulty_score": 3.78,
   "flash_answer_score": 10,
   "kimi_answer_score": 6,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目利用\"变硬\"一词的双关含义，在神奇宝贝语境下指游戏技能\"硬化\"，结合\"岩石系\"等关键词，是一个关于游戏知识的合理问题。人类回答也正确解释了这一点。看了人类回答后，问题逻辑清晰、易于理解，不属于过于奇怪的题目。同时，题目没有涉及任何色情、性暗示或不当内容，只是正常的游戏相关讨论。"
 }

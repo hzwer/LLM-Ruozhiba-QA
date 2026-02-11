@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目基于中国神话故事（后羿射日、嫦娥奔月）和中秋节文化，使用“独守空房”制造幽默或脑筋急转弯效果。人类回答清晰解释了神话背景和中秋节团圆的意义，逻辑通顺，易于理解。不涉及任何色情或不当内容。"
 }

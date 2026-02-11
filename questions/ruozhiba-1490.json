@@ -12,5 +12,8 @@
   "difficulty_score": 3.64,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目将生物学概念（显性性状、基因突变）应用到虚构的奥特曼角色上，虽然带有幽默或脑洞性质，但逻辑上可以理解其意图。人类回答已清晰解释为何不能直接应用这些概念。根据指引，此类脑筋急转弯或幽默表达不应标记为\"过于奇怪\"。题目不涉及任何色情、性暗示或不当内容。"
 }

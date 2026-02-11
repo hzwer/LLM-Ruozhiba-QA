@@ -12,5 +12,8 @@
   "difficulty_score": 4.88,
   "flash_answer_score": 4,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，通过提出一个基于错误前提的问题来制造幽默效果（验证码概念在手机发明前不存在），人类回答已正确解释其逻辑；不涉及任何色情或不当内容。"
 }

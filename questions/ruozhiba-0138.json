@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及物理现象（作用力与反作用力），人类回答已清晰解释其科学原理，不属于无法理解或逻辑不通的情况；题目内容与色情、性暗示无关。"
 }

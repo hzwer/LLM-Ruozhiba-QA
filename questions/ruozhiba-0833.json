@@ -12,5 +12,8 @@
   "difficulty_score": 2.1,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于高铁规定与新冠病毒传播的逻辑疑问，人类回答已清楚解释病毒传播机制，不属过于奇怪。内容涉及公共卫生，无任何色情或不当性内容。"
 }

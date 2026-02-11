@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": true,
+  "is_sexual": false,
+  "mark_reason": "题目描述想用舌头舔头上的鸟屎，这一行为本身不合常理、难以理解，即使看了人类回答，仍然觉得奇怪；但题目不涉及任何色情内容。"
 }

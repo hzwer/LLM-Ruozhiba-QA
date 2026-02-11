@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默表达或脑筋急转弯，将正常的吃饭行为描述成\"不小心\"的意外，虽然看起来奇怪但逻辑上可以理解，且人类回答已正确解释。内容不涉及任何色情或不当性内容，属于正常的生理知识话题。"
 }

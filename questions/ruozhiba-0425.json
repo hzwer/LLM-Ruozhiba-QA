@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个简单的时间单位换算问题，虽然问题表述反常规（通常问一分钟有多少秒），但逻辑清晰，人类回答正确（1秒=1/60分钟），不属于过于奇怪的题目；且完全不涉及色情、性暗示或不当性内容。"
 }

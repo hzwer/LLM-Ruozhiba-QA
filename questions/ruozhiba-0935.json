@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于企业归属的正常知识性问题，虽然可能基于误解（修正药业是中国公司而非苏联国企），但逻辑上可以理解。看了人类回答后问题得到澄清，不属于“即使看了人类回答仍然过于奇怪”。题目不涉及任何色情、性暗示或不当性内容。"
 }

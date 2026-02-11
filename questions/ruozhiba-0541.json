@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个合理的科学疑问，探讨氮气含量与人类呼吸机制的关系，人类回答正确解释了氧气在细胞呼吸中的作用和氮气的化学惰性。题目不涉及任何色情或不当内容。"
 }

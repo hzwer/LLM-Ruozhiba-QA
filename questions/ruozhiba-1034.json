@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于漫威角色绿巨人的幽默脑筋急转弯，将绿色皮肤与植物叶绿体联系起来。看了人类回答后很容易理解，逻辑清晰，属于正常的幽默表达。不涉及任何色情或不当内容。"
 }

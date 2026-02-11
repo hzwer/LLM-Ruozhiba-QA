@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于新闻节目命名和行为的合理疑问，使用了\"蹭热度\"这一网络用语，但表达清晰、逻辑通顺。人类回答也恰当地解释了新闻节目报道热点的职责与动机。题目不涉及任何色情、性暗示或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 4.74,
   "flash_answer_score": 10,
   "kimi_answer_score": 3,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯或幽默表达，利用“榨”字可能产生的歧义（榨取水果 vs. 压榨工人）来制造趣味，人类回答直接澄清了榨机厂的正常用途，因此不奇怪。题目中没有色情、性暗示或不当性内容，纯属工业场景的幽默提问。"
 }

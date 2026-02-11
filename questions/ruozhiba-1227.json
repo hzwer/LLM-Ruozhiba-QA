@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目反映了一些家长对孩子性取向的误解，但逻辑可理解。人类回答已澄清这是正常玩具偏好。题目仅涉及性取向这一健康话题，没有色情或不当性内容。"
 }

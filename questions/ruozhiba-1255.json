@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个利用\"装逼\"一词双关含义的幽默表达或脑筋急转弯。人类回答已澄清\"装逼\"实际意为\"炫耀\"而非字面\"装入\"。这种谐音梗或语言游戏虽然看似荒诞，但逻辑上可理解，不属于过于奇怪或无法理解的题目。同时，题目未涉及色情、性暗示或不当性内容，仅是对网络俚语的幽默运用。"
 }

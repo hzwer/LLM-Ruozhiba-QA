@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及基本的生理知识误解（男生不会来月经也不会怀孕），但逻辑可理解，不属于脑筋急转弯或幽默表达。内容仅涉及正常的生理健康话题，无任何色情、性暗示或不当内容。人类回答已清晰解释，因此不标记。"
 }

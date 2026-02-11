@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个恋爱求助问题，虽然\"体力跟不上\"的表述可能有些幽默或双关，但逻辑上是通顺的，可以理解为一个真实的求助。人类回答也从精神追求和身体健康角度给出了合理建议。题目不涉及色情内容，属于正常的恋爱话题和健康建议。"
 }

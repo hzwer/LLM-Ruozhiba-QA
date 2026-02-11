@@ -12,5 +12,8 @@
   "difficulty_score": 4.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 4,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述的是被狗咬后对电线杆产生排尿反应，这属于条件反射或心理关联现象，虽然不常见但逻辑上可以理解。人类回答也提供了合理的解释和建议，因此不标记为\"过于奇怪\"。题目仅涉及正常生理需求（排尿），没有性暗示或不当性内容，属于健康/心理话题，不涉及色情。"
 }

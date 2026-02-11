@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了夸张和幽默的表达方式（\"英语十六级\"），虽然从字面看不符合事实，但结合人类回答可以理解这是一个调侃的玩笑，并不难以理解或不合逻辑。题目中虽有粗话（\"特么\"、\"老子\"），但不涉及任何色情、性暗示或不当性内容，属于正常的口语化表达。"
 }

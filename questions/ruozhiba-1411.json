@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然基于一个常见的误解（认为“空着肚子”与“吃早餐”矛盾），但逻辑上可以理解，且人类回答已澄清这是正常情况。题目不涉及任何色情或不当性内容，属于日常健康话题。"
 }

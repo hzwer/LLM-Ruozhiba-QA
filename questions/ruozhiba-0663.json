@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用幽默夸张的比喻，用\"胶水粘回去\"来比喻修复精神分裂，属于脑筋急转弯式的幽默表达，不涉及色情内容。人类回答已正确解释精神分裂是精神疾病，需专业治疗。"
 }

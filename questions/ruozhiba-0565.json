@@ -12,5 +12,8 @@
   "difficulty_score": 3.04,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个假设性的科幻脑筋急转弯，探讨太阳消失后的观测时间，逻辑可理解且不涉及任何不当内容。"
 }

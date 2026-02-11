@@ -12,5 +12,8 @@
   "difficulty_score": 1.72,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于牛仔裤小口袋的正常功能询问，人类回答清晰合理，不奇怪也不涉及色情内容。"
 }

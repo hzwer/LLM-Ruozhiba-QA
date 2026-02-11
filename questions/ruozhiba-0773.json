@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗，利用\"马拉松\"和\"马拉紧\"的发音相似性进行提问。人类回答清晰地解释了这两个概念：马拉松是长跑运动，而\"马拉紧\"是口语表达。虽然题目看起来有点奇怪，但这属于常见的脑筋急转弯或文字游戏，逻辑完全通顺，不应标记为\"过于奇怪\"。题目完全不涉及任何色情、性暗示或不当内容。"
 }

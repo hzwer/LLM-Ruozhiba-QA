@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于灵魂与物质关系的哲学假设问题，虽然混合了物理和超自然概念，但逻辑上可理解，且完全不涉及色情内容。"
 }

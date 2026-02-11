@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了\"游泳圈\"的双关含义（既指腹部脂肪又指游泳工具），是一个幽默的脑筋急转弯。人类回答已清楚解释其含义，逻辑通顺，不涉及任何色情或不当内容。因此不应标记。"
 }

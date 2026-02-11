@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然存在事实错误（混淆足球和篮球），但人类回答已澄清并使其可理解，并非无法理解或逻辑完全不通；且内容纯属体育运动讨论，无任何色情或不当性暗示。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯或谐音梗，基于“大小姐”的字面结构幽默地猜测“小老妹”作为反义词，看了人类回答后可以理解其逻辑错误，不奇怪；且无任何色情、性暗示或不当性内容。"
 }

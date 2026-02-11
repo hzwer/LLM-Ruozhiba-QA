@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 10,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于煤气泄漏安全处理的常见疑问，提问者基于一氧化碳燃烧的化学原理来思考解决方案，虽然存在安全隐患但逻辑上可以理解。人类回答清晰解释了危险性，问题本身不是脑筋急转弯，而是真实的安全误区。题目完全不涉及色情内容，属于正常的健康安全知识讨论。"
 }

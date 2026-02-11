@@ -12,5 +12,8 @@
   "difficulty_score": 5.44,
   "flash_answer_score": 9,
   "kimi_answer_score": 2,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是威胁性语句但逻辑清晰易懂，不涉及任何色情或性暗示内容。人类回答已经明确解释了其含义，因此不标记为过于奇怪或涉及色情。"
 }

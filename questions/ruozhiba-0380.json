@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及中国神话人物称谓，虽然存在逻辑误导（将\"哪吒三太子\"误解为三人组合），但人类回答给出了合理解释。这属于常见的脑筋急转弯或知识陷阱题，不算过于奇怪或无法理解。题目完全不涉及色情或不当内容。"
 }

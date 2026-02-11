@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默或脑筋急转弯，故意将鼻子分成左右两部分提问。看了人类回答后，问题变得容易理解，并不奇怪或不合逻辑。题目仅涉及正常的生理健康话题，不包含任何色情或不当内容。"
 }

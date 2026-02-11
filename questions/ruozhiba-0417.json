@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯/幽默表达，基于\"脑子进水\"的比喻进行夸张类比。虽然逻辑上不严谨，但作为幽默提问是可以理解的，不属于\"即使看了人类回答仍然无法理解或不合逻辑\"的情况。题目不涉及任何色情、性暗示或不当性内容。"
 }

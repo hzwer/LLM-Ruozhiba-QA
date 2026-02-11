@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问自杀的法律后果，虽然基于错误前提（自杀实际不构成犯罪），但属于可理解的法律疑问。人类回答已清晰解释逻辑，问题本身并非无法理解或不合逻辑。题目涉及心理健康话题，不包含任何色情、性暗示或不当性内容。"
 }

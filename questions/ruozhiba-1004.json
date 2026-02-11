@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个基于历史假设的脑筋急转弯，虽然前提存在逻辑谬误（蜀国姓氏取决于君主而非结拜年龄），但问题本身清晰易懂，且人类回答已正确解释。不涉及任何色情或不当内容。"
 }

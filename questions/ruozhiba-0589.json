@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问打针部位选择的医学原因，使用了\"屁眼\"这一口语化词汇，但属于正常的生理知识讨论。人类回答已给出合理的医学解释，逻辑清晰，不存在无法理解或不合逻辑的情况。同时，题目不涉及任何色情、性暗示或不当性内容，仅是健康话题的疑问。"
 }

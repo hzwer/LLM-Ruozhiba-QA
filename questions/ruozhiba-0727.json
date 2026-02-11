@@ -12,5 +12,8 @@
   "difficulty_score": 3.1,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于宝可梦进化关系的正常知识性问题，逻辑清晰，不涉及任何不当内容。看了人类回答后，问题变得非常明确，没有任何奇怪或难以理解之处。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于酒后吐真言与酒驾者行为矛盾的逻辑思考题，人类回答已清晰解释了其中的道理（酒精影响不意味着失去说谎能力），属于可理解的常见疑问，不是过于奇怪或不合逻辑。题目仅涉及饮酒、法律等正常话题，没有任何色情或不当性内容。"
 }

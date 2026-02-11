@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于钟表设计逻辑的合理疑问，提问者基于直觉认为24小时制能帮助分辨昼夜，虽然不够准确但逻辑通顺。人类回答提供了清晰、合理的解释，说明12小时制的设计原因。题目不涉及任何色情或不当内容，属于正常的科普类问题。"
 }

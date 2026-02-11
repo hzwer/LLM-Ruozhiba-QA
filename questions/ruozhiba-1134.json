@@ -12,5 +12,8 @@
   "difficulty_score": 4.18,
   "flash_answer_score": 5,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个幽默或脑筋急转弯，假设智商可以通过计算器计算并按归零键，虽然不符合现实但逻辑上可以理解。人类回答已澄清智商是固定的，不会因按键改变。题目不涉及任何色情或不当内容。"
 }

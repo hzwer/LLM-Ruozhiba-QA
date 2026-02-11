@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于小说角色穿着细节的合理询问，属于脑筋急转弯性质，人类回答提供了合理解释。虽然涉及内裤，但只是日常穿着问题，无任何性暗示或色情内容。"
 }

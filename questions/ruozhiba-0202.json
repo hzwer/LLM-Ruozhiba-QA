@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯，利用了\"演\"的双关含义（表演 vs 执行死刑）。虽然涉及黑色幽默和暴力主题，但逻辑清晰，人类回答后完全可理解。不涉及任何色情、性暗示或不当性内容，只是关于死刑和表演的幽默表达。"
 }

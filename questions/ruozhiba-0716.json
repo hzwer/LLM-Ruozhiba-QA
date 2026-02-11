@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问古龙和古天乐年轻时的名字，虽然可能带有脑筋急转弯性质，但逻辑清晰且符合常识，人类回答已正确解释名字不会随年龄改变。题目不涉及任何色情或不当内容。"
 }

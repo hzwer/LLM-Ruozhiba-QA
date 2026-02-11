@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于\"已黑化\"的英文翻译，虽然\"blacked\"可能被误用，但看了人类回答后逻辑清晰，属于常见的词汇误解或谐音梗，并非无法理解或不合逻辑。同时，题目没有涉及色情、性暗示或不当性内容，仅是一个普通的语言问题。"
 }

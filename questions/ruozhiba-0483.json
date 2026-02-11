@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于飞机颠簸的常识性问题，虽然表述有误（飞机不可能压到石头），但逻辑可理解，且人类回答已澄清。不涉及任何色情或不当性内容。"
 }

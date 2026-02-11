@@ -12,5 +12,8 @@
   "difficulty_score": 3.04,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个幽默的脑筋急转弯问题，用夸张的方式表达对地球物理状态的理解。虽然\"干翻\"一词可能有多种含义，但在此语境下明显是字面夸张用法，没有性暗示。题目逻辑可以理解，人类回答也清晰地解释了其中的物理原理。因此不标记为过于奇怪或涉及色情。"
 }

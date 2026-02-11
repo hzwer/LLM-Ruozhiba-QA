@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了夸张的幽默手法，将\"截肢\"作为\"减肥\"的极端例子，这是一种讽刺性表达。人类回答正确理解了这种夸张修辞，并给出了合理的健康减肥建议。虽然表面看起来奇怪，但属于可理解的幽默/脑筋急转弯范畴，不应当标记为\"过于奇怪\"。题目内容仅涉及健康话题，不包含任何色情或不当性内容。"
 }

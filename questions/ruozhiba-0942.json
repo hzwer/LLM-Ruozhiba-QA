@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽为夸张的幻想表达，但逻辑上可以理解（幻想通过眼保健操获得超能力），且人类回答已明确指出其不现实性，并非完全无法理解或不合逻辑。同时，题目不涉及任何色情、性暗示或不当性内容，仅涉及健康与武术话题。"
 }

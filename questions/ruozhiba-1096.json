@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于宠物猫不吃草的常见饲养问题，逻辑清晰，容易理解。看了人类回答后，问题得到了合理的解释（猫是肉食动物，不需要吃草），不存在无法理解或不合逻辑的情况。题目不涉及任何色情、性暗示或不当性内容，属于正常的宠物健康话题。"
 }

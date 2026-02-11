@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的沟通误解故事，男主角误解了\"要手机号\"的意思，以为是要他的手机SIM卡。逻辑清晰易懂，人类回答也准确解释了笑话的本质。内容不涉及任何色情、性暗示或不当性内容。"
 }

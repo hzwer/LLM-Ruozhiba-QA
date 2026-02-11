@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目基于对医学术语\"十二指肠\"的字面误解，提出质疑。人类回答已清楚解释该术语的实际含义（长度约十二个指宽），澄清了误解。这属于常见的知识误解或脑筋急转弯类型，并非逻辑完全不通或无法理解的奇怪问题。题目内容涉及正常生理知识，无任何色情或不当内容。"
 }

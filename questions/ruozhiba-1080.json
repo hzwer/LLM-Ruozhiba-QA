@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于脸盲症患者在学校住宿的实际问题，虽然可能看起来有些特殊，但属于合理关切，人类回答已清晰解释其可行性和解决方式，逻辑通顺，易于理解。不涉及任何色情或不当内容。"
 }

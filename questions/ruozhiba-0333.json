@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默或脑筋急转弯式提问，通过混淆显微镜（微观工具）与地图（宏观对象）的逻辑来制造趣味性。人类回答清晰解释了科学原理，使问题意图可理解，不属于无法理解或逻辑完全不通的情况。同时，题目内容与色情、性暗示无关。"
 }

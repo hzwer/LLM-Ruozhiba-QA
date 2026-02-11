@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个常见的历史误解或脑筋急转弯，利用现代国家概念与古代历史的不匹配来提问。人类回答清晰解释了时代背景，逻辑合理，不存在理解障碍。题目完全不涉及任何色情或不当性内容。"
 }

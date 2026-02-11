@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了拟人化的幽默表达，将堤坝当作可以安慰的对象，属于脑筋急转弯风格。看了人类回答后完全理解其意图，逻辑上的荒谬是其幽默所在，不属于\"过于奇怪\"。题目内容完全中性，不涉及任何色情或性暗示。"
 }

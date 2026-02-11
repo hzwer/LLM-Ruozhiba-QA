@@ -12,5 +12,8 @@
   "difficulty_score": 3.64,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个合理的职场管理问题，询问为何只工作14小时却支付全天工资。人类回答提供了两种合理解释（按任务计酬或高强度工作补偿），逻辑清晰，有实际应用场景。题目不涉及任何色情或不当性内容。"
 }

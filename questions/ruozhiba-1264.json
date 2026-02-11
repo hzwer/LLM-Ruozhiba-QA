@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是关于鼻唇沟功能的正常生理知识询问，虽然使用了\"引流管\"这一不太准确的比喻，但本质上属于对人体解剖结构功能的合理疑问。看了人类回答后，问题变得清晰合理，逻辑通顺。题目不涉及任何色情、性暗示或不当性内容，是正常的健康知识话题。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 3.34,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗，将动画角色“海绵宝宝”与字体“海绵体”混淆，人类回答澄清了“海绵体”是字体样式，与海绵宝宝无关，因此不奇怪且不涉及色情内容。"
 }

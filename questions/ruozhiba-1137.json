@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默的脑筋急转弯，涉及正常生理知识（鼻子在嘴巴上面是常识），没有色情或不当内容；人类回答提供了合理的反击策略，使逻辑清晰，不奇怪。"
 }

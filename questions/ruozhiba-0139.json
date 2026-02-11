@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于考古化石的常见误解式提问，虽然表述看似奇怪，但看了人类回答后完全理解其逻辑（古人遗骸因时间久远只剩骨骼），不违反常识。题目不涉及任何色情或不当内容。"
 }

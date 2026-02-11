@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于商业优惠规则理解的常见逻辑问题，虽然提问者对\"第二杯半价\"的理解有误，但这是合理的误解。看了人类回答后，问题变得清晰易懂，没有任何难以理解或不合逻辑之处。题目完全不涉及色情或不当内容，属于正常的消费场景讨论。"
 }

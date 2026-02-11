@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于地球与人类相对关系的哲学/物理学思考题，虽然表达方式有些诗意，但逻辑上是通的。人类回答很好地解释了引力的相互性，问题本身并不难以理解或不合逻辑。题目中没有包含任何色情、性暗示或不当性内容，讨论的是正常的物理关系。"
 }

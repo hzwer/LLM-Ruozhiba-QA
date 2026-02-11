@@ -12,5 +12,8 @@
   "difficulty_score": 6.16,
   "flash_answer_score": 1,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于影视/文学作品角色存活时间的讨论，表达虽口语化但逻辑清晰，人类回答已明确解释为角色自我调侃。不涉及任何色情或不当内容。"
 }

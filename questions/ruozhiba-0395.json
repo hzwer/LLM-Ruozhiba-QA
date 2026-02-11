@@ -12,5 +12,8 @@
   "difficulty_score": 0.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于电气火灾安全处理的合理疑问，逻辑清晰且可理解。人类回答正确解释了为什么不应该用水灭火。题目不涉及任何色情或不当性内容，属于正常的安全知识问题。"
 }

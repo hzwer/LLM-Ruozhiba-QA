@@ -12,5 +12,8 @@
   "difficulty_score": 2.02,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个幽默的拟人化提问，将10086客服短信拟人化，看了人类回答后完全理解其意图，不涉及任何色情内容。"
 }

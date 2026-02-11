@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表达了一种对银行卡工作原理的常见误解，带有幽默或调侃性质，逻辑上可以理解。看了人类回答后，这种误解得到澄清，逻辑是通的。题目不涉及任何色情或性暗示内容，属于正常的金钱话题。"
 }

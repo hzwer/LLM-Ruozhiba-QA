@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默的脑筋急转弯，将吞西瓜籽与肥料荒谬关联，看了人类回答后能理解其意图，不标记为过于奇怪；内容仅涉及饮食健康，无任何色情或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及对猫屎咖啡的误解，提问者可能误以为是用家猫粪便制作。人类回答清晰解释了正确知识，消除了误解。这属于常见的知识误区或幽默表达，并非无法理解或不合逻辑。同时，话题只涉及动物粪便和咖啡制作，属于正常生理知识或食品话题，不涉及色情、性暗示或不当内容。"
 }

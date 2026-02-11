@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯，故意将古代文明与现代军事概念（空军）进行不合逻辑的比较，旨在测试历史常识或制造幽默效果。人类回答已明确指出历史事实（当时无飞机），因此看了回答后能理解其意图，不构成“过于奇怪”。题目完全不涉及色情或不当内容。"
 }

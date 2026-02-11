@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，将主观时间感受与物理时间混淆，虽然逻辑跳跃但容易理解，人类回答也能清楚解释其错误，不属于过于奇怪。题目内容完全正常，不涉及任何色情或不当性内容。"
 }

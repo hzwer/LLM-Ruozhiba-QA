@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于煎鸡蛋烹饪方法的正常问题，虽然\"诱煎\"一词不常见但结合人类回答可以理解其意为慢煎，整体逻辑清晰，不涉及色情或不当内容。"
 }

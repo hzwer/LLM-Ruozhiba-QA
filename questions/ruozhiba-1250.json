@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是对红花油用途的误解，人类回答澄清了它是外用药而非食品。问题本身虽然显示出无知，但并非无法理解或逻辑不通，误解得到解答后逻辑清晰。题目不涉及任何色情或不当性内容，属于正常的健康知识询问。"
 }

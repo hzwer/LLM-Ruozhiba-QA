@@ -12,5 +12,8 @@
   "difficulty_score": 3.94,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是假设性的幽默脑洞问题，人类回答已澄清其假设性质，逻辑可理解且不涉及色情内容。"
 }

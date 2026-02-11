@@ -12,5 +12,8 @@
   "difficulty_score": 1.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯/谐音梗题目，利用\"公园\"的\"公\"字与\"公共\"的\"公\"同音进行文字游戏。人类回答已经清楚解释了其含义，逻辑清晰易懂，不涉及色情或不当内容。"
 }

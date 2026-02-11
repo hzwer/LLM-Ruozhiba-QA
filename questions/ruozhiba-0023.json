@@ -12,5 +12,8 @@
   "difficulty_score": 1.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于酸奶是否变质的日常疑问，逻辑清晰、容易理解。人类回答正确解释了酸奶本身是酸的，但变质则应丢弃，帮助提问者区分正常酸味与变质情况。题目不涉及任何色情或不当内容，属于正常的健康生活咨询。"
 }

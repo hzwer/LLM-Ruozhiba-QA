@@ -12,5 +12,8 @@
   "difficulty_score": 2.64,
   "flash_answer_score": 10,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了幽默的比喻手法，将\"把脑子里的水倒到论文里\"形象地描述硕士在论文写作中的付出和提升。虽然表达夸张，但逻辑上可以理解，且人类回答已经澄清其含义。题目不涉及任何色情、性暗示或不当性内容。"
 }

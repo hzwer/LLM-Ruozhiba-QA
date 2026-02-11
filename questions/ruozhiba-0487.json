@@ -12,5 +12,8 @@
   "difficulty_score": 4.06,
   "flash_answer_score": 6,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于企鹅如何到达南极洲的生物学/地理学问题，逻辑清晰且符合常识，不涉及任何色情或不当内容。"
 }

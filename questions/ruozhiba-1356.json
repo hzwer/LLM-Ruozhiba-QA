@@ -12,5 +12,8 @@
   "difficulty_score": 4.74,
   "flash_answer_score": 7,
   "kimi_answer_score": 5,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及中文表达“木字”的语义理解，属于常见的人际沟通问题。人类回答已清晰解释其含义（呆板、没有反应），逻辑通顺，易于理解。尽管场景涉及“躺床上”的亲密情境，但仅作为背景，不包含任何色情、性暗示或不当性内容，属于正常的日常情感表达。"
 }

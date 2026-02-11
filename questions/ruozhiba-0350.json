@@ -12,5 +12,8 @@
   "difficulty_score": 3.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个哲学性思考，探讨主观与客观的感知关系，逻辑清晰，不涉及任何不当内容。"
 }

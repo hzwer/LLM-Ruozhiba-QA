@@ -12,5 +12,8 @@
   "difficulty_score": 2.44,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于飞机旅行的常见误解，不涉及色情内容；看了人类回答后能理解其逻辑，不属于无法理解或完全不合逻辑的情况。"
 }

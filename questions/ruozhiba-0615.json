@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于包皮手术后如何向医生请求带走切除组织的医疗沟通问题，逻辑清晰且可以理解。人类回答也提供了合理的建议。虽然涉及生殖器相关手术，但仅仅是正常的健康话题讨论，不涉及色情或性暗示内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 0.9,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问做梦被狗咬是否需要打狂犬病疫苗，虽然有些奇怪但逻辑上可以理解（有人可能混淆梦境与现实），人类回答已清晰解释。题目涉及健康话题，无任何色情或性暗示内容。"
 }

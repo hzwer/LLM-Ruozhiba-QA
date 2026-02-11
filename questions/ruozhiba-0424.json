@@ -12,5 +12,8 @@
   "difficulty_score": 1.2,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯，将\"饭前洗手\"类比到\"屎前洗屁股\"。虽然表述比较粗俗，但逻辑清晰，看了人类回答后完全可以理解。题目涉及的是排泄卫生的常识问题，属于正常的生理健康话题，没有色情或不当性内容。"
 }

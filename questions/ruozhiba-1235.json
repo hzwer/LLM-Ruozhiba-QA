@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用放屁作为例子来解释牛顿第三定律，属于幽默的物理问题。虽然例子比较接地气，但逻辑清晰且人类回答能很好解释，不属于过于奇怪或无法理解的问题。放屁是正常生理现象，不涉及色情或性暗示内容。"
 }

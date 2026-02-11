@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了幽默夸张的表达方式（\"翅膀要长出来了\"），属于网络流行语或玩笑话，并非真正的逻辑混乱或难以理解。人类回答已明确解释这是比喻，且题目不涉及任何色情或不当内容。"
 }

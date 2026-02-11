@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个正常的哲学思辨问题，探讨时间流逝与历史进程的关系，逻辑清晰且人类回答合理。不涉及任何色情或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默表达，将风的吹拂比喻为\"扇大嘴巴子\"，虽然夸张但逻辑可理解，且不涉及任何色情内容。"
 }

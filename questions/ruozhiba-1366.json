@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于演员片酬的合理询问，人类回答提供了清晰的解释，逻辑通顺且不涉及任何色情内容。即使带有幽默表达（\"秒杀\"），也不应标记为过于奇怪。"
 }

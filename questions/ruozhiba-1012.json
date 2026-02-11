@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及对\"冻结\"一词多义性的误解，将账号冻结与物理结冰混淆。虽然初看有些奇怪，但属于常见的语言理解问题（类似脑筋急转弯），看了人类回答后能够清楚理解其逻辑，因此不标记为\"过于奇怪\"。题目完全不涉及任何色情或不当性内容。"
 }

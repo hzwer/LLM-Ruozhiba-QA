@@ -12,5 +12,8 @@
   "difficulty_score": 1.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问番茄和西红柿的关系，虽然表述有错别字且看似奇怪，但人类回答清楚地解释了这是南北称呼差异的问题，属于合理的知识疑问，不应标记为过于奇怪。题目内容完全正常，不涉及任何色情或不当内容。"
 }

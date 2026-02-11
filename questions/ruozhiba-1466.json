@@ -12,5 +12,8 @@
   "difficulty_score": 3.34,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个典型的脑筋急转弯，利用\"两亿\"和\"两块\"的单位换算（如两亿分等于两块）来制造意外效果。人类回答已经清晰地解释了这种文字游戏的理解方式，逻辑合理，不属于无法理解或不合逻辑的范畴。题目内容仅涉及金钱单位转换，没有任何色情、性暗示或不当性内容。"
 }

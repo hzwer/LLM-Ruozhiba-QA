@@ -12,5 +12,8 @@
   "difficulty_score": 3.1,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是讽刺性幽默或逻辑谬误式提问，虽然从常识角度不合逻辑但可以被理解其意图（即对专利制度的误解或反讽），不属于无法理解的奇怪问题。内容完全不涉及色情、性暗示或不当性内容。"
 }

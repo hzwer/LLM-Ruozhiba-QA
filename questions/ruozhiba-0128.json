@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"跑步比赛前我攒了个屁留着加速，会不会赢？\"虽然表述奇怪且逻辑上不成立（屁无法储存且推力微乎其微），但属于幽默或调侃性质的表达，并非真正无法理解。题目不涉及任何色情、性暗示或不当内容，仅涉及正常的生理现象讨论。"
 }

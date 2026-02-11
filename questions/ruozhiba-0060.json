@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于牛奶成分和分类的正常问题，逻辑清晰，无任何不当内容。看了人类回答后问题更加明确，不奇怪也不涉及色情。"
 }

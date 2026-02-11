@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用幽默夸张的表达（\"过了保质期的屎\"），但人类回答给出了合理的排泄物处理建议，含义清晰可理解，不属于无法理解或不合逻辑。题目仅涉及正常的生理卫生话题，没有色情或性暗示内容。"
 }

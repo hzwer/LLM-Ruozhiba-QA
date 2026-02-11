@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默或脑筋急转弯式的提问，基于对地球形状和方向的错误假设（地球无上下之分），人类回答已清晰解释其逻辑错误和不可行性，因此不标记为过于奇怪；题目内容完全涉及地理和物理概念，无任何色情、性暗示或不当性内容。"
 }

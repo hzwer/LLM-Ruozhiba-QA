@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默表达，通过故意曲解\"小明不死数学难亡\"的字面意思制造笑点。看了人类回答后，能理解原句是比喻学习数学的重要性，逻辑清晰。不涉及任何色情或不当性内容。"
 }

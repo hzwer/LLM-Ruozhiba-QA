@@ -12,5 +12,8 @@
   "difficulty_score": 3.34,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默的比喻表达，指通过手机应用与他人文字交流，人类回答已清晰解释其含义，逻辑合理；无任何色情、性暗示或不当内容。"
 }

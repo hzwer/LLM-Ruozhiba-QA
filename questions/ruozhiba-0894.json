@@ -12,5 +12,8 @@
   "difficulty_score": 0.6,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默表达，利用“搞基”和“怀孕”的矛盾制造笑点，人类回答后逻辑清晰易懂；内容涉及男性怀孕的生理知识，属于正常的健康话题，不涉及色情或不当性内容。"
 }

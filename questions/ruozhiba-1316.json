@@ -12,5 +12,8 @@
   "difficulty_score": 2.02,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然表述夸张，但看了人类回答后逻辑清晰，蚂蚁跟踪可能是对食物气味的误解，属于正常生活担忧，不涉及色情内容。"
 }

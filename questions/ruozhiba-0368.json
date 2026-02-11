@@ -12,5 +12,8 @@
   "difficulty_score": 1.02,
   "flash_answer_score": 10,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于社交媒体功能的常见疑问，逻辑清晰且可理解。人类回答正确解释了屏蔽群消息和禁言整个群的区别，说明题目本身是合理的。题目不涉及任何色情、性暗示或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 4.56,
   "flash_answer_score": 2,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个谐音梗/脑筋急转弯式的问题，\"私密马赛\"是对\"赛马\"的幽默表达，与\"地下赌马\"不等同。看了人类回答后完全能理解其意图和逻辑，不涉及任何色情或不当内容。"
 }

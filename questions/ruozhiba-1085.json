@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个基于医学术语混淆的脑筋急转弯，\"扁桃体\"与\"植物人\"在中文里的字面可能产生联想，属于幽默表达范畴。看了人类回答后逻辑完全清晰，不涉及任何色情或不当内容。"
 }

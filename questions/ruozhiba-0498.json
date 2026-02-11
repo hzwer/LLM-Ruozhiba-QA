@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个幽默的脑筋急转弯，利用了\"运动\"一词的双关含义（人的运动减肥 vs 地球自转），虽然逻辑上不成立，但属于常见的玩笑式提问，看了人类回答后完全可以理解其荒谬性，因此不标记为\"过于奇怪\"。题目内容仅涉及健康话题（减肥）和天文常识，没有任何色情或性暗示内容。"
 }

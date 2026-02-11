@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯式提问，用夸张的方式探讨人类进化与电网的关系。虽然听起来奇怪，但逻辑清晰，人类回答后完全可理解。题目不涉及任何色情或性暗示内容，属于正常的知识性幽默表达。"
 }

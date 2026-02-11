@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目\"菊花没有了该怎么办\"在人类回答的澄清下，可以从植物、花朵或茶叶等正常角度理解，逻辑清晰，不奇怪。题目本身没有色情或性暗示内容，即使\"菊花\"有网络双关含义，但问题表述中性，不涉及不当性内容。"
 }

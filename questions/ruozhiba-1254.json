@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个关于游戏《英雄联盟》克隆模式的文字游戏/脑筋急转弯，利用了\"无双\"一词的双关含义（英雄名称的一部分 vs 形容词\"独一无二\"）。题目逻辑清晰，属于正常的幽默表达，不是过于奇怪或难以理解的内容。同时不涉及任何色情、性暗示或不当性内容。"
 }

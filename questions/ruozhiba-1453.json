@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然提出了一个看似奇怪的类比（十字架与脚手架），但这是基于比喻和象征意义的哲学性思考。人类回答清晰地解释了这种跨领域类比的逻辑，使问题变得可理解。问题不涉及任何色情或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个假设性的脑筋急转弯，将\"华莱士\"（人名/品牌）倒入火山口来询问是否会导致喷发。虽然表述有些奇怪，但逻辑上是通的，人类回答已清晰解释火山喷发由地质活动引起，与外界物质无关。题目不涉及任何色情、性暗示或不当性内容，属于科学知识类幽默表达。"
 }

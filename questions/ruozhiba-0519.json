@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表达了对生理现象的误解（担心肚子里的水结冰），这是一个合理的健康知识疑问。人类回答已清晰解释了科学原理，逻辑上完全可理解，不涉及任何不合理的假设或无法理解的内容。题目仅涉及正常的生理知识，无任何色情或性暗示内容。"
 }

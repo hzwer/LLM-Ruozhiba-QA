@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个典型的双关语/脑筋急转弯，利用\"交流电\"一词的双关含义（电力形式 vs. 交流+电通信工具）。人类回答清晰解释了其逻辑，因此不奇怪。题目完全不涉及任何色情或不当性内容。"
 }

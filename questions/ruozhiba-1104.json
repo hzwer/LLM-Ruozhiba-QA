@@ -12,5 +12,8 @@
   "difficulty_score": 4.3,
   "flash_answer_score": 9,
   "kimi_answer_score": 4,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默对话，使用\"九转大肠\"和\"八转大肠\"的夸张对比作为玩笑，逻辑通顺且易于理解。人类回答已解释其幽默意图，不存在无法理解或不合逻辑之处。内容仅涉及菜品名称，无任何色情、性暗示或不当性内容。"
 }

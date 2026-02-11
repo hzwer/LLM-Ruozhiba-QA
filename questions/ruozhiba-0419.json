@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯或幽默表达，将\"吹牛\"与成语\"说时迟那时快\"结合，虽然初看奇怪，但人类回答提供了合理解释，可以理解其逻辑。不涉及任何色情或不当性内容。"
 }

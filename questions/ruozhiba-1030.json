@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于文化礼仪的常识问题，逻辑清晰，无性相关内容。看了人类回答后完全理解为何祝贺“清明节快乐”可能被开除，因为清明节是祭祖扫墓的节日，不适合祝贺。不涉及任何色情或不当性内容。"
 }

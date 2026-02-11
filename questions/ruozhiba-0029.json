@@ -12,5 +12,8 @@
   "difficulty_score": 1.72,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 2
+  "original_difficulty_score": 2,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于考试中监考老师发白纸是否属于嘲讽的疑问，属于学生常见的困惑或焦虑表达。人类回答已给出合理解释（发白纸通常用于草稿），逻辑清晰易懂，不涉及任何色情或不当内容。因此，既不“过于奇怪”，也不“涉及色情”。"
 }

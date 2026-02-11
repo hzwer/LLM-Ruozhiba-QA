@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表达了一个关于银行和金钱的天真疑问，虽然简单但逻辑可理解。人类回答后完全明白其意图，不属于过于奇怪的题目。题目内容与色情、性暗示无关，是正常的金钱法律常识问题。"
 }

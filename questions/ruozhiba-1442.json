@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于时间、时差和地球自转的物理概念提问，虽然存在误解但逻辑可理解。人类回答已清晰解释了原理。题目不涉及任何色情或不当内容。"
 }

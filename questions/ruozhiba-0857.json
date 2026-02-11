@@ -12,5 +12,8 @@
   "difficulty_score": 6.0,
   "flash_answer_score": 0,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是基于“度”字歧义的幽默表达（电的单位 vs. 温度单位），看了人类回答后能理解其逻辑，属于脑筋急转弯，不标记为过于奇怪。内容不涉及任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于奥运会最年轻跑步冠军国籍的事实性问题，逻辑清晰、可理解。人类回答提供了明确的历史事实（Betty Robinson是16岁冠军，香港未获田径金牌），问题本身不存在任何理解障碍。题目不涉及任何色情或不当内容，属于正常的体育历史询问。"
 }

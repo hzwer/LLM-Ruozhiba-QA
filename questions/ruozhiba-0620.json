@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的、夸张的联想，将肠子长度与放屁速度进行不合理的关联，属于脑筋急转弯或玩笑性质。虽然逻辑上不成立，但可以理解，且人类回答能有效解释。不涉及色情或不当内容，属于正常的生理话题讨论。"
 }

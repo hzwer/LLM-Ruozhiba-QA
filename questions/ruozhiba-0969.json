@@ -12,5 +12,8 @@
   "difficulty_score": 4.72,
   "flash_answer_score": 3,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个常识性幽默问题或脑筋急转弯，人类回答已澄清舍友不可能是自己亲生的逻辑，因此不奇怪。题目不涉及任何色情或性暗示内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 8,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是中国象棋术语的双关幽默表达，人类回答已解释其逻辑，不涉及色情或难以理解的内容。"
 }

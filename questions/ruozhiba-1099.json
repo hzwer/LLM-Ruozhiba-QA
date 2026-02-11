@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默或测试性的提问，利用了人们对火星环境的常见误解。看了人类回答后逻辑清晰：火星实际寒冷而非炎热，宇航员需要保暖的太空服而非拖鞋。这属于脑筋急转弯类型，不应标记为过于奇怪。题目内容完全关于科学知识，不涉及任何色情或不当内容。"
 }

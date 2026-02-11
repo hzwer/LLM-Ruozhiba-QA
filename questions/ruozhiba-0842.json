@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯，虽然问题本身反直觉，但人类回答\"医生\"提供了合理的逻辑解释（医生可通过医学检查判断是否为哑巴，无需患者说话）。看了回答后逻辑清晰，不算是无法理解或完全不合逻辑。题目讨论哑巴和医生，完全属于正常健康话题，不涉及任何色情或性暗示内容。"
 }

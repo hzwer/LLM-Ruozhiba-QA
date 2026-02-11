@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于历史事实的幽默提问，虽然使用了调侃语气（\"这么牛逼\"），但逻辑上是合理的疑问。人类回答清楚地解释了牛顿与诺贝尔奖的时间线不匹配问题，使问题完全可理解。题目不涉及任何色情或不当内容，属于正常的科学史话题。"
 }

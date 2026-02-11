@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是基于常见说法\"死人脸色发白\"的幽默或脑筋急转弯，逻辑跳跃但并非无法理解；人类回答已澄清误解，说明肤色不影响死亡，因此不标记为\"过于奇怪\"。内容仅涉及死亡与肤色的生理常识，无任何色情或不当性暗示，因此不标记为\"涉及色情\"。"
 }

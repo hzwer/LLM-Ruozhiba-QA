@@ -12,5 +12,8 @@
   "difficulty_score": 3.02,
   "flash_answer_score": 8,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于耳机上u和d标识含义的正常询问，人类回答提供了合理的解释，逻辑清晰，不奇怪也不难以理解。题目完全不涉及色情、性暗示或任何不当性内容。"
 }

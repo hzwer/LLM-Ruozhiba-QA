@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于地理和季节的合理疑问，人类回答清晰解释了南半球季节与北半球相反的原因，逻辑通顺。题目不涉及任何色情或不当内容。"
 }

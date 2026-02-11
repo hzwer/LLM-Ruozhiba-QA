@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于自我意识和思想控制的常见哲学/心理学问题，逻辑清晰，人类回答也提供了合理的科学解释。题目不涉及任何色情或不当内容。"
 }

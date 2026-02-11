@@ -12,5 +12,8 @@
   "difficulty_score": 2.9,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个学生在学校厕所吃辣条被校长发现后担心被开除的求助场景。虽然行为不当但逻辑清晰，人类回答也提供了合理建议，说明问题可理解。内容不涉及任何色情、性暗示或不当性元素，仅是学校生活规范问题。"
 }

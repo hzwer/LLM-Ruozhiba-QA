@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个逻辑思考题，探讨名字改变是否影响疾病状态，虽然看似奇怪但逻辑清晰，人类回答能明确解释。不涉及任何色情或不当内容，仅涉及健康话题。"
 }

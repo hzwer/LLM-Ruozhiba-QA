@@ -12,5 +12,8 @@
   "difficulty_score": 1.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个幽默的脑筋急转弯，将现代搜索引擎\"百度\"与历史人物牛顿结合，制造幽默效果。虽然从历史角度看不合逻辑，但理解起来不困难，且人类回答清晰解释了原因。根据提示，脑筋急转弯不应标记为\"过于奇怪\"。题目内容完全与色情无关，不涉及任何性暗示或不适当内容。"
 }

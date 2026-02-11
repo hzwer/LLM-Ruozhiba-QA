@@ -12,5 +12,8 @@
   "difficulty_score": 0.9,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯/幽默表达，利用骨灰、大海和茶之间的荒诞联想制造幽默效果。虽然逻辑上不成立，但作为幽默表达完全可以理解，人类回答也清楚地解释了其中的逻辑谬误。题目不涉及任何色情、性暗示或不当性内容，只是对死亡话题的黑色幽默处理。"
 }

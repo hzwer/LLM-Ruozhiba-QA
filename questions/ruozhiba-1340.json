@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于阅兵的脑筋急转弯，人类回答给出了合理的解释（航空母舰无法在陆地行驶），逻辑清晰易懂。题目不涉及任何色情、性暗示或不当内容，属于正常的幽默或知识性问题。"
 }

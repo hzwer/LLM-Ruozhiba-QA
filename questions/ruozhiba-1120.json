@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目以幽默或夸张方式将私人家庭事件（儿子满月）与国际争端荒谬联系，但人类回答澄清了常识，逻辑可理解，不属于无法理解的奇怪题目；无任何色情、性暗示或不当性内容。"
 }

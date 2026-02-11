@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于物理原理的幽默或脑筋急转弯问题，逻辑上可理解，不涉及任何色情内容。人类回答清楚地解释了转动雨伞不能产生升力的物理原理，问题本身虽然有点奇怪但属于正常的幽默表达范畴。"
 }

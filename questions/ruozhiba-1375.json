@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于眼药水使用方法的健康咨询，逻辑清晰可理解，属于正常的生理知识问题，既不是脑筋急转弯也不是不合逻辑的内容。同时，题目完全不涉及任何色情或性暗示内容，只是普通的眼部卫生话题。"
 }

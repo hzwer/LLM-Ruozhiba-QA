@@ -12,5 +12,8 @@
   "difficulty_score": 4.62,
   "flash_answer_score": 10,
   "kimi_answer_score": 4,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个谐音梗/幽默表达，利用\"腐\"字的双关含义（腐败 vs. 腐文化）。虽然看起来奇怪，但逻辑上可以理解，且人类回答已澄清误解。题目不涉及色情内容，只是关于防腐剂作用的健康知识讨论。"
 }

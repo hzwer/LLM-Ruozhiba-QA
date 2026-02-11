@@ -12,5 +12,8 @@
   "difficulty_score": 0.0,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 0
+  "original_difficulty_score": 0,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于旋转木马是否需要驾照的问题，虽然看似奇怪，但属于脑筋急转弯或幽默表达类型。人类回答清晰解释了旋转木马是游乐设施，不需要驾照，逻辑通顺，易于理解。题目不涉及任何色情、性暗示或不当性内容。"
 }

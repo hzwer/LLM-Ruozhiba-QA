@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于动画角色生理功能的幽默提问，属于脑筋急转弯性质。人类回答已清晰解释动画人物无需真实生理活动，逻辑可理解。涉及\"屁眼\"和\"拉屎\"属于正常生理话题，无性暗示或不当内容。"
 }

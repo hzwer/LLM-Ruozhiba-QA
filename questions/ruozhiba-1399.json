@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于人体生理结构和物理现象的幽默提问，虽然用词夸张（\"灌满\"），但逻辑清晰、内容健康。看了人类回答后完全理解其科学含义，不涉及任何不当内容。"
 }

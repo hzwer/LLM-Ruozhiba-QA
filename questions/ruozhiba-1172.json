@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是谐音梗幽默表达，关于漫威角色名称的文字游戏。看了人类回答后完全理解其逻辑：万磁王是特定角色名，而非基于姓氏系统命名。不涉及任何色情或不当内容。"
 }

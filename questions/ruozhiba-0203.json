@@ -12,5 +12,8 @@
   "difficulty_score": 1.0,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个简单的脑筋急转弯，逻辑清晰，容易理解。它列举了身体部位的功能并询问脑子的功能，属于常见的儿童谜语或教育性问题。看了人类回答后完全理解，不奇怪也不合逻辑。同时，题目只涉及正常的生理知识，没有任何色情、性暗示或不当性内容。"
 }

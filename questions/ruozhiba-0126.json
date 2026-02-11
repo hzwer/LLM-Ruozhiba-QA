@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了拟人化的修辞手法，将电脑发出的声音比喻为\"咳嗽\"，并询问电脑是否有自我意识。这是一个常见的日常表达方式，并非脑筋急转弯或谐音梗。看了人类回答后完全能理解题意，逻辑清晰合理，因此不标记为\"过于奇怪\"。题目内容完全不涉及任何色情、性暗示或不当性内容。"
 }

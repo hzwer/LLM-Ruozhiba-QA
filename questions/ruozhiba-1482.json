@@ -12,5 +12,8 @@
   "difficulty_score": 3.34,
   "flash_answer_score": 7,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个利用\"炮\"字多义性的谐音梗或幽默表达，并非逻辑混乱或难以理解。人类回答提供了合理的幽默解读，化解了可能的双关含义。题目没有涉及明显的色情、性暗示或不当性内容，属于常见的玩笑形式，因此不应标记。"
 }

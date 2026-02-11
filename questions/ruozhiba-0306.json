@@ -12,5 +12,8 @@
   "difficulty_score": 2.82,
   "flash_answer_score": 10,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是谐音梗（\"独品\"谐音\"毒品\"，\"有读\"谐音\"有毒\"），属于幽默表达，即使表述奇怪但逻辑可理解；不涉及色情内容。"
 }

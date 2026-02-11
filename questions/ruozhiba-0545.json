@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问身高与高考的关系，虽然可能存在误解，但逻辑上可理解，人类回答已澄清高考与身高无关。不涉及色情或不当内容。"
 }

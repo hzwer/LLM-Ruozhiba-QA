@@ -12,5 +12,8 @@
   "difficulty_score": 3.04,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个脑筋急转弯问题，逻辑上可以理解：锅盖不是食物，所以无法\"煮熟\"。人类回答也清晰解释了原因，因此不标记为\"过于奇怪\"。题目完全不涉及任何色情或不当内容。"
 }

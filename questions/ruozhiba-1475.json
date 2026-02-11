@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是民间幽默说法，将放屁与\"有人想我\"联系起来，属于非科学的玩笑表达。人类回答已清楚解释其无科学依据，并给出合理的生理学原因和建议。题目不涉及任何色情、性暗示或不当内容，仅是正常的健康话题讨论。"
 }

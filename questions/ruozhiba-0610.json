@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于光学和观察原理的科学/哲学问题，逻辑清晰，人类回答准确解释了观察光需要物质的原理。题目不涉及任何色情或不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是基于科学比较的合理疑问，人类回答已清晰解释岩浆的高温致命特性，逻辑通顺；不涉及任何色情内容。"
 }

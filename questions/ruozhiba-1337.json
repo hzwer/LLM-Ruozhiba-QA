@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于视频帧率的技术问题，虽然提问者存在概念误解，但逻辑清晰、易于理解。人类回答后问题得到明确解释，不属于\"即使看了人类回答仍然过于奇怪\"的情况。题目内容完全与技术相关，不涉及任何色情或不当性内容。"
 }

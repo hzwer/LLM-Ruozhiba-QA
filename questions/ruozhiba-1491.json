@@ -12,5 +12,8 @@
   "difficulty_score": 4.16,
   "flash_answer_score": 8,
   "kimi_answer_score": 5,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于字母E几何变换的简单问题，人类回答给出了合理答案（E倒过来竖起来变成M）。虽然题目表述有些混乱和夸张，但核心逻辑清晰，不属于\"即使看了人类回答仍然无法理解或不合逻辑\"的情况。题目完全不涉及任何色情、性暗示或不当性内容，仅是普通的字母和视力测试相关话题。"
 }

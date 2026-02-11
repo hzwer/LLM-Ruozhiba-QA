@@ -12,5 +12,8 @@
   "difficulty_score": 0.9,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是幽默的脑筋急转弯，将中国古代神话女娲补天与现代工具（热熔胶、502、电弧焊）进行荒谬对比以产生喜剧效果。虽然看起来奇怪，但逻辑可以理解，属于常见的幽默表达方式，不涉及色情或不当内容。"
 }

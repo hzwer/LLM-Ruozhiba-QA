@@ -12,5 +12,8 @@
   "difficulty_score": 3.32,
   "flash_answer_score": 8,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个数学计算问题，通过分解和重组验证2+2=4，逻辑清晰且人类回答确认正确；不涉及任何色情、性暗示或不当内容。"
 }

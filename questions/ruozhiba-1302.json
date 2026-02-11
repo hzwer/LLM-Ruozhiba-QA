@@ -12,5 +12,8 @@
   "difficulty_score": 1.0,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于充电宝在停电时为何仍有电的合理疑问，涉及日常电子设备使用常识，不涉及色情内容，逻辑清晰可理解，人类回答已正确解释其原理。"
 }

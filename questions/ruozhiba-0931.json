@@ -12,5 +12,8 @@
   "difficulty_score": 5.46,
   "flash_answer_score": 2,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于毕业论文查重率的合理疑问，虽然前提\"每一个字都能在新华字典上查到\"有些夸张，但核心问题是可理解的学术技术问题，人类回答给出了合理解释。题目不涉及任何色情或不当内容。"
 }

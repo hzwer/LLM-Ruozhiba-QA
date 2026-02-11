@@ -12,5 +12,8 @@
   "difficulty_score": 5.44,
   "flash_answer_score": 2,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个谐音梗/脑筋急转弯，将\"cosplay\"（角色扮演）与数学三角函数名称（sin, tan, sec, csc, cot）进行幽默对比。看了人类回答后完全能理解其意图，逻辑清晰，不属于过于奇怪的题目。同时，题目中所有词汇均为标准数学术语，不涉及任何色情、性暗示或不当内容。"
 }

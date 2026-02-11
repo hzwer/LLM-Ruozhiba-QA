@@ -12,5 +12,8 @@
   "difficulty_score": 4.18,
   "flash_answer_score": 5,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个常见的误解，提问者混淆了\"咸鸭\"和\"鸭蛋\"的概念。虽然表述不够准确，但逻辑可以理解，且人类回答已清晰解释了咸鸭蛋的制作原理。题目不涉及色情或不当内容，属于正常的食品知识疑问。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目表达了一个常见的投资误区，逻辑清晰可理解，不奇怪。内容完全关于炒股，不涉及任何色情或不当性内容。"
 }

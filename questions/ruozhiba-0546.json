@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个常见的网络梗，使用\"一个肾\"比喻缺钱。在人类回答的帮助下，逻辑清晰可理解，不构成过于奇怪。内容不涉及任何色情或性暗示，仅涉及消费选择和幽默表达。"
 }

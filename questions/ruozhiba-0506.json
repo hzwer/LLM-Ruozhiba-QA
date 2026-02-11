@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于历史人物李白时期与地质年代\"第四纪\"的混淆问题。虽然学生答案错误，但逻辑上可以理解（可能混淆了\"纪\"的不同含义）。人类回答清晰解释了错误原因，说明问题本身是合理的知识性疑问，并非无法理解或不合逻辑。题目不涉及任何色情或不当内容。"
 }

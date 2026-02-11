@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问16岁未满18岁是否正常，是一个关于年龄的基本常识问题，逻辑清晰，易于理解。人类回答也明确解释了这是正常的年龄阶段。题目不涉及任何色情、性暗示或不当性内容，属于正常的生理/年龄话题。"
 }

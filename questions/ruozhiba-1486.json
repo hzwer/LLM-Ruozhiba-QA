@@ -12,5 +12,8 @@
   "difficulty_score": 3.04,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个意外受伤的场景，虽然左脚踩到右脚的情况不常见，但人类回答已合理解释其在特殊情况下可能发生，逻辑上并非完全不通。题目不涉及任何色情或不当性内容，属于正常的健康求助话题。"
 }

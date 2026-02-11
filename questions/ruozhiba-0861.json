@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目探讨千手观音这一超自然形象是否需要剪指甲，虽有趣但不怪异，人类回答已清晰解释其超自然属性；不涉及任何色情或不当内容。"
 }

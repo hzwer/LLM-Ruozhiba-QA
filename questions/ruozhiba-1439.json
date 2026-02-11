@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽带有幽默色彩（“灵魂拷问”），但本质是一个关于生理健康的合理疑问。人类回答已清晰解释眉毛功能与感冒无关，逻辑明确，可以理解。不涉及任何色情或不当性内容。"
 }

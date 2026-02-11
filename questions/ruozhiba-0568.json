@@ -12,5 +12,8 @@
   "difficulty_score": 3.22,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一首幽默的打油诗，用粗俗但生动的比喻来表达团结协作的主题。虽然用词俚俗，但逻辑清晰，主题明确，人类回答也正确理解了其含义，因此不奇怪。诗中提到的\"屎\"和\"拉\"属于正常生理话题的幽默比喻，没有色情或性暗示内容。"
 }

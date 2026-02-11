@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个常见的误解场景，将感冒时的不适呻吟误认为是发情表现。虽然提问者的联想有些跳跃，但看了人类回答后逻辑变得清晰，不属于无法理解或不合逻辑的题目。同时，问题涉及的是感冒症状与生理反应的正常讨论，不包含色情、性暗示或不当性内容，属于健康知识范畴。"
 }

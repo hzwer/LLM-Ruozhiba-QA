@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默的脑筋急转弯，用\"触手怪\"作为夸张的修辞手法来调侃六十进制的发明者。人类回答已经清晰解释了历史事实，逻辑上是通顺的。根据指导原则，这种幽默表达不应标记为\"过于奇怪\"。同时，题目讨论的是数制系统和手指/触手的数量，属于正常的科学话题，没有色情、性暗示或不当性内容，因此也不应标记为\"涉及色情\"。"
 }

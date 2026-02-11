@@ -12,5 +12,8 @@
   "difficulty_score": 3.46,
   "flash_answer_score": 9,
   "kimi_answer_score": 6,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个常见的视觉误解现象，逻辑清晰，有科学解释（如远处看红绿灯时因视角和光线误判），即使看了人类回答也能理解，不属于过于奇怪或不合逻辑。内容与色情无关。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.22,
   "flash_answer_score": 10,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目基于对科学定律的误解而提问，虽然预设错误但逻辑上可理解。人类回答澄清了科学定律是发现而非发明，问题不再奇怪。题目完全不涉及任何色情或性相关内容。"
 }

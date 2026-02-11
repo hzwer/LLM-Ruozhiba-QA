@@ -12,5 +12,8 @@
   "difficulty_score": 4.48,
   "flash_answer_score": 9,
   "kimi_answer_score": 5,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯或幽默表达，将地球仪（三维实体）与二次元手办（通常指动漫等二维文化的衍生模型）进行荒谬对比。看了人类回答后，逻辑清晰易懂：地球仪是三维的，不是二次元的。因此不标记为\"过于奇怪\"。题目不涉及任何色情、性暗示或不当内容。"
 }

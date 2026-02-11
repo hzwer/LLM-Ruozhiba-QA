@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个幽默的比喻式提问，用灯泡的瓦数来类比太阳的功率。虽然表达方式夸张有趣，但看了人类回答后完全能理解其科学内涵，逻辑清晰，并非难以理解或不合逻辑。题目也不涉及任何色情或不当内容。"
 }

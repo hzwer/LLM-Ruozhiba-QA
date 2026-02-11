@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用幽默的比喻（“下面的两颗蛋”指睾丸，“孵化成鸡爪”为不可能概念）来提问，人类回答已解释其为玩笑而非字面意思，因此并不难以理解或不合逻辑。同时，题目仅涉及正常生理知识的幽默表达，并无色情或不当性内容，故不标记。"
 }

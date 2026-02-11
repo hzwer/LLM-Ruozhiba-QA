@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个利用\"黄金\"一词歧义的谐音梗或幽默表达，将投资黄金与保健品\"黄金搭档\"混淆。虽然表面逻辑有些奇怪，但理解了谐音梗后完全可理解，不属于过于奇怪的题目。且不涉及任何色情内容。"
 }

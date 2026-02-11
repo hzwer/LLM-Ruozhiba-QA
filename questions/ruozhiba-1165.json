@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目问的是高速公路为什么没有盲道，人类回答从高速公路不允许行人通行的角度给出了合理解释。虽然题目可能带有脑筋急转弯性质，但看了回答后逻辑清晰、容易理解，不构成\"过于奇怪\"。题目内容完全涉及交通规则和道路设计，没有任何色情、性暗示或不当性内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于响尾蛇尾巴发声机制的幽默或误解性问题，不涉及色情内容。人类回答已清晰解释响尾蛇名字的由来，逻辑可理解，因此不应标记。"
 }

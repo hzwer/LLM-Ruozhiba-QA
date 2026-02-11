@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述了一个清晰可理解的行为场景（女同桌上课索吻，当事人抽走板凳），逻辑通顺，人类回答也能正确理解并给出合理建议，因此不\"过于奇怪\"。题目涉及\"索吻\"这一亲密行为，但属于人际行为对错的讨论，并非色情内容描述或不当性暗示，因此不\"涉及色情\"。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目涉及对\"治愈系\"概念的误解，将动漫/游戏术语与医学专业混淆。虽然提问逻辑存在错误，但看了人类回答后能够清晰理解其含义和问题所在，并非无法理解或不合逻辑。题目不涉及任何色情或不适当内容。"
 }

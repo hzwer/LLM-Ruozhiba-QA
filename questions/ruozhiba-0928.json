@@ -12,5 +12,8 @@
   "difficulty_score": 4.48,
   "flash_answer_score": 5,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于飞机餐后重量变化的科学疑问，逻辑清晰，人类回答已正确解释了质量守恒原理。不涉及任何色情或不当内容。"
 }

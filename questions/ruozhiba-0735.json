@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于神话传说的脑筋急转弯，人类回答已经清楚地解释了阎王作为地府主宰不需要\"死\"就能进入地府的逻辑。这属于幽默表达而非真正难以理解的问题。题目内容不涉及任何色情或不当性内容。"
 }

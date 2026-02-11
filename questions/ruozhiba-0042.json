@@ -12,5 +12,8 @@
   "difficulty_score": 2.1,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默或脑筋急转弯，提问者可能误解赤道为可修建的实体道路，或是在开玩笑。人类回答已清楚解释赤道是地理概念而非实体。根据指导原则，此类幽默表达不应标记为\"过于奇怪\"。题目完全不涉及色情内容。"
 }

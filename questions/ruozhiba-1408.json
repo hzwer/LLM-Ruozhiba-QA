@@ -12,5 +12,8 @@
   "difficulty_score": 1.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于食物名称与制作方法的合理疑问，人类回答已清晰解释，不涉及任何奇怪或难以理解的内容；同时，题目完全无关色情或性暗示，属于正常饮食文化讨论。"
 }

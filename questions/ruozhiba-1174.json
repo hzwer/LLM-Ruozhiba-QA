@@ -12,5 +12,8 @@
   "difficulty_score": 3.2,
   "flash_answer_score": 8,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于中国神话的逻辑疑问，属于脑筋急转弯类型，提问者将两个不同的神话故事混为一谈。虽然基于错误的前提，但逻辑上可理解，不涉及任何色情或不当内容。人类回答已清晰解释了这两个故事的区别。"
 }

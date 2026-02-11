@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述的是对\"早生贵子\"这一传统祝福语的误解，属于常见的语言理解问题。看了人类回答后，误解得到澄清，逻辑清晰，完全可以理解。题目不涉及任何色情、性暗示或不当性内容，只是正常的文化习俗讨论。"
 }

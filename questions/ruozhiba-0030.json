@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目使用了现代网络用语（\"更新\"、\"卷钱跑路\"）来调侃历史人物牛顿，这是一种常见的幽默表达方式，属于脑筋急转弯或玩笑性质。看了人类回答后，可以理解其逻辑，并非真正质疑牛顿的行为。题目不涉及任何色情、性暗示或不当性内容。"
 }

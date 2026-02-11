@@ -12,5 +12,8 @@
   "difficulty_score": 2.62,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然表达有些夸张（担心被雨点砸死），但属于幽默或夸张的表达方式，看了人类回答后完全可以理解其意图和逻辑。题目内容完全正常，不涉及任何色情或不当内容。"
 }

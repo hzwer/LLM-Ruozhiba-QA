@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个典型的脑筋急转弯，通过拟人化和逻辑谬误制造幽默效果。虽然表述看似奇怪，但看了人类回答后完全理解其意图和逻辑错误。根据指引，脑筋急转弯不应标记为\"过于奇怪\"。题目仅涉及食物\"长寿面\"，没有任何色情或性暗示内容。"
 }

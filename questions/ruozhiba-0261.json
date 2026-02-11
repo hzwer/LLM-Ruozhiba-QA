@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目基于物质守恒定律提出关于氧气消耗的科学疑问，属于合理的科学探讨；人类回答已清晰解释氧气循环机制，逻辑通顺，不违反常识。题目内容完全涉及自然科学，无任何色情或不当性暗示。"
 }

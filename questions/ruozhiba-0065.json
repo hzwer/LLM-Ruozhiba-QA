@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目中关于洗面奶\"不好喝\"的说法是基于对产品用途的误解（洗面奶不是食品），人类回答已经澄清了这一点。看了人类回答后，可以理解这可能是幽默表达或认知错误，并非无法理解或不合逻辑。题目不涉及任何色情、性暗示或不当性内容。"
 }

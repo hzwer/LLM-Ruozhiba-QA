@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于RPG游戏机制的合理疑问，人类回答清晰解释了游戏设计中货币与物品存储机制分离的常见做法。问题本身逻辑通顺，不奇怪，也不涉及任何色情或不当内容。"
 }

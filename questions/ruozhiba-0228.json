@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目引用谚语\"所有的道路都通向罗马\"，是常见的文化表达，意思清晰易懂，不奇怪且无不当内容。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": true,
+  "is_sexual": false,
+  "mark_reason": "题目问活人长尸斑，尸斑是死后现象，活人不可能出现，因此题目荒谬且不合逻辑。人类回答未纠正此错误，反而将尸斑误解为湿疹，但题目的根本问题依然存在。题目不涉及色情内容。"
 }

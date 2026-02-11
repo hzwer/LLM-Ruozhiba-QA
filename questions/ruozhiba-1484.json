@@ -12,5 +12,8 @@
   "difficulty_score": 2.92,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然表达有些别扭（\"像哪里流\"的用法不常见），但看了人类回答后可以明确理解其意图是引用中国俗语\"大河向东流\"，并不属于无法理解或逻辑完全不通的情况。题目不涉及任何色情、性暗示或不当性内容。"
 }

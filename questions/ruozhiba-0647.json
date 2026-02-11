@@ -12,5 +12,8 @@
   "difficulty_score": 2.52,
   "flash_answer_score": 9,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问的是睾丸位置的生物学原因，使用医学术语\"睾丸\"，人类回答给出了科学的温度调节解释。这是一个正常的生理知识问题，逻辑清晰可理解，不涉及任何色情或不适当内容。"
 }

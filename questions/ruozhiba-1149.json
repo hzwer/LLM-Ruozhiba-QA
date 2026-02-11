@@ -12,5 +12,8 @@
   "difficulty_score": 2.1,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目虽然使用了\"肉体\"一词，但在上下文中是对理发过程的疑问或幽默表达。人类回答清楚地解释了理发只是修剪头发，不涉及肉体改变。看了人类回答后，题目逻辑清晰、易于理解，不属于过于奇怪的范畴。同时，题目不涉及任何色情、性暗示或不当性内容，仅是正常的理发服务疑问。"
 }

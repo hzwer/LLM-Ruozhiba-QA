@@ -12,5 +12,8 @@
   "difficulty_score": 1.5,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于物理现象的常识问题，涉及燃烧条件和火锅加热方式，逻辑清晰，人类回答也给出了合理解释。题目不涉及任何色情或不当性内容。"
 }

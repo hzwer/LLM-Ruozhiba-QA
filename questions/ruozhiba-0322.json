@@ -12,5 +12,8 @@
   "difficulty_score": 2.32,
   "flash_answer_score": 9,
   "kimi_answer_score": 8,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是关于欧洲足球联赛比赛时间的正常疑问，人类回答已合理解释时差问题，逻辑清晰易懂，不涉及任何色情或不当内容。"
 }

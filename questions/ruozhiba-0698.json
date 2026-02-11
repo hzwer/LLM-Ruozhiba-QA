@@ -12,5 +12,8 @@
   "difficulty_score": 6.04,
   "flash_answer_score": 2,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 8
+  "original_difficulty_score": 8,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于食物制作的脑筋急转弯，虽然描述的场景有些不合常理（咖啡豆做豆浆），但看了人类回答后逻辑清晰，不涉及任何不当内容。"
 }

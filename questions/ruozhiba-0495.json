@@ -12,5 +12,8 @@
   "difficulty_score": 1.8,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于词语比喻用法的幽默提问，属于脑筋急转弯性质，人类回答已清晰解释。虽然涉及人体部位，但属于正常生理知识讨论，无不当内容。"
 }

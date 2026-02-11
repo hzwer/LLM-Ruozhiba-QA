@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个利用“心”字双关的幽默表达，看了人类回答后很容易理解其含义。它不涉及色情内容，心脏是正常生理器官，没有不当性暗示。"
 }

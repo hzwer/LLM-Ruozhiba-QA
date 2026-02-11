@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个脑筋急转弯，哑巴虽然不能说话，但可以通过手势、图画、写字或手语等非语言方式传达卫生信息。逻辑清晰，不涉及任何色情或不当内容。"
 }

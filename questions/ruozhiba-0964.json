@@ -12,5 +12,8 @@
   "difficulty_score": 3.64,
   "flash_answer_score": 9,
   "kimi_answer_score": 7,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目描述的现象可以通过无叶风扇的原理合理解释，逻辑清晰，不涉及任何不当内容。"
 }

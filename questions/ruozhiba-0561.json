@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个关于英语词汇构词法的常见疑问，用户基于sweat（汗）猜测sweater可能是\"汗服\"，虽然字面逻辑有误，但这是典型的语言学习误解。看了人类回答后能完全理解正确的含义和来源，不属于\"即使看了人类回答仍然无法理解或逻辑完全不通\"的情况。同时，题目仅涉及正常的生理词汇，没有任何色情或不当性内容。"
 }

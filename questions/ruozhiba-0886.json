@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目将电脑病毒与消毒水混淆，可能出于无知或幽默表达。看了人类回答后能清楚理解其逻辑错误，并非无法理解。不涉及任何色情或性暗示内容。"
 }

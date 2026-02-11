@@ -12,5 +12,8 @@
   "difficulty_score": 2.8,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 7
+  "original_difficulty_score": 7,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是谐音梗，利用\"春\"字多义性（季节 vs 成语\"春梦\"），人类回答已澄清其指美好梦境，逻辑清晰，非色情内容。"
 }

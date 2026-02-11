@@ -12,5 +12,8 @@
   "difficulty_score": 1.6,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 3
+  "original_difficulty_score": 3,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个正常的语言理解题，涉及对\"这么晚了\"在不同语境下的巧妙理解。人类回答已经清晰解释了其中的逻辑（早上说\"这么晚了\"指应该起床的时间），逻辑通顺，易于理解。题目不涉及任何色情、性暗示或不当内容，只是日常生活中的普通对话场景。"
 }

@@ -12,5 +12,8 @@
   "difficulty_score": 0.3,
   "flash_answer_score": 10,
   "kimi_answer_score": 10,
-  "original_difficulty_score": 1
+  "original_difficulty_score": 1,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个幽默或荒谬的提问，类似脑筋急转弯，虽然逻辑上不合理但属于玩笑性质，不涉及色情内容。人类回答已澄清电冰箱不适合溜冰，但问题本身是故意夸张的幽默表达，因此不标记为过于奇怪或涉及色情。"
 }

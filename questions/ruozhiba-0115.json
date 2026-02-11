@@ -12,5 +12,8 @@
   "difficulty_score": 2.5,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 6
+  "original_difficulty_score": 6,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目询问兴奋剂丑闻的现象，人类回答提供了合理的解释，逻辑清晰，易于理解。题目不涉及任何色情、性暗示或不当性内容，属于正常的体育竞技话题。"
 }

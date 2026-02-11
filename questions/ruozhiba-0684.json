@@ -12,5 +12,8 @@
   "difficulty_score": 1.9,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 4
+  "original_difficulty_score": 4,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "这是一个利用\"上火\"一词双关的脑筋急转弯。中医的\"上火\"是病症概念，而火灾的\"火\"是物理现象，两者本质不同。题目虽然幽默但逻辑清晰，人类回答也明确解释了这种区别。根据指南，脑筋急转弯即使看起来奇怪也不应标记为\"过于奇怪\"。题目内容涉及健康知识和物理现象，无任何色情或不当内容。"
 }

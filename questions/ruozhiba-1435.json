@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "该题目是一个常见的语言误解类脑筋急转弯，将\"干得漂亮\"误认为\"得漂亮\"是一个人的名字。看了人类回答后完全理解其逻辑，不属于过于奇怪的题目。题目内容不涉及任何色情、性暗示或不当性内容，只是关于游戏用语的趣味提问。"
 }

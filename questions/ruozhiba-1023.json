@@ -12,5 +12,8 @@
   "difficulty_score": 2.2,
   "flash_answer_score": 9,
   "kimi_answer_score": 9,
-  "original_difficulty_score": 5
+  "original_difficulty_score": 5,
+  "is_too_weird": false,
+  "is_sexual": false,
+  "mark_reason": "题目是一个关于测量原理的科学疑问，虽然表述有些绕，但逻辑上可以理解，人类回答也给出了合理解释。它属于科学思考或脑筋急转弯类型，不是无法理解或完全不合逻辑的。题目中提到的\"体温\"是正常生理学术语，不涉及任何色情或不当内容。"
 }
