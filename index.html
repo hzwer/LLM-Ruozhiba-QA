@@ -856,12 +856,42 @@
             const sortValue = sortSelect ? sortSelect.value : 'default';
             let sortedQuestions = filteredQuestions.slice();
 
+            console.log('当前排序选项:', sortValue, '待排序题目数:', sortedQuestions.length);
+
             if (sortValue === 'difficulty_desc' || sortValue === 'difficulty_asc') {
                 sortedQuestions.sort((a, b) => {
-                    const ad = typeof a.difficulty_score === 'number' ? a.difficulty_score : 0;
-                    const bd = typeof b.difficulty_score === 'number' ? b.difficulty_score : 0;
+                    const aHasScore = typeof a.difficulty_score === 'number';
+                    const bHasScore = typeof b.difficulty_score === 'number';
+                    
+                    // 如果两个都没有分数，保持原顺序
+                    if (!aHasScore && !bHasScore) {
+                        return 0;
+                    }
+                    // 如果只有一个有分数，有分数的排在前面
+                    if (aHasScore && !bHasScore) {
+                        return -1;
+                    }
+                    if (!aHasScore && bHasScore) {
+                        return 1;
+                    }
+                    // 两个都有分数，按分数排序
+                    const ad = a.difficulty_score;
+                    const bd = b.difficulty_score;
                     return sortValue === 'difficulty_desc' ? bd - ad : ad - bd;
                 });
+                console.log('按难度排序完成，前3题的难度分数:', sortedQuestions.slice(0, 3).map(q => q.difficulty_score));
+            } else if (sortValue === 'default') {
+                // 默认按互动数排序
+                sortedQuestions.sort((a, b) => {
+                    const aCount = getQuestionInteractionCount(a.id);
+                    const bCount = getQuestionInteractionCount(b.id);
+                    if (aCount !== bCount) {
+                        return bCount - aCount; // 互动数多的在前
+                    }
+                    // 互动数相同则随机排序
+                    return Math.random() - 0.5;
+                });
+                console.log('按互动数排序完成');
             }
             
             // 计算分页
@@ -1048,6 +1078,7 @@
         document.getElementById('categoryFilter').addEventListener('change', filterQuestions);
         document.getElementById('searchInput').addEventListener('input', filterQuestions);
         document.getElementById('sortSelect').addEventListener('change', () => {
+            console.log('排序选项改变:', document.getElementById('sortSelect').value);
             currentPage = 1;
             renderQuestions();
         });
