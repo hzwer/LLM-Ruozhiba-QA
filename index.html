@@ -433,15 +433,15 @@
                 const questionResults = await Promise.all(questionPromises);
                 console.log('加载的题目结果:', questionResults);
                 
-                // 过滤掉 null 值，并按 id 排序（字符串排序）
+                // 过滤掉 null 值，并随机排序
                 questions = questionResults
-                    .filter(q => q !== null && q.id !== undefined)
-                    .sort((a, b) => {
-                        if (typeof a.id === 'string' && typeof b.id === 'string') {
-                            return a.id.localeCompare(b.id);
-                        }
-                        return a.id - b.id;
-                    });
+                    .filter(q => q !== null && q.id !== undefined);
+                
+                // 使用 Fisher-Yates 洗牌算法随机打乱顺序
+                for (let i = questions.length - 1; i > 0; i--) {
+                    const j = Math.floor(Math.random() * (i + 1));
+                    [questions[i], questions[j]] = [questions[j], questions[i]];
+                }
                 
                 console.log('处理后的题目:', questions);
                 
