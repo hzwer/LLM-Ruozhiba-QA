@@ -12,10 +12,5 @@
   "human_answer": "这是因为公交车老人卡的声音是由系统预设的，不是根据卡的类型或者持卡人的年龄性别来设定的。所以，即使是老人卡，发出的声音也可能是年轻妹子的声音。",
   "difficulty_score": 5,
   "flash_answer_score": 9,
-  "kimi_answer_score": 2,
-  "tags": [
-    "生活常识",
-    "公共交通",
-    "语音技术"
-  ]
+  "kimi_answer_score": 2
 }

@@ -12,10 +12,5 @@
   "human_answer": "这并不意味着银行已经破产。显示“余额不足”通常是因为你的账户中的资金少于你试图取出的金额。你需要检查你的账户余额，确保你有足够的钱来完成你想要的交易。",
   "difficulty_score": 7,
   "flash_answer_score": 10,
-  "kimi_answer_score": 9,
-  "tags": [
-    "金融常识",
-    "概念混淆",
-    "生活问题"
-  ]
+  "kimi_answer_score": 9
 }

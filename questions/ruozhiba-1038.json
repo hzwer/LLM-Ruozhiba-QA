@@ -12,10 +12,5 @@
   "human_answer": "电脑过热烧坏后，虽然温度降下来了，但是电脑的某些硬件可能已经因为高温而损坏，这些损坏的硬件无法通过降温来恢复，所以电脑还是无法使用。",
   "difficulty_score": 5,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9,
-  "tags": [
-    "硬件损坏",
-    "电脑维修",
-    "技术常识"
-  ]
+  "kimi_answer_score": 9
 }

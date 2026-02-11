@@ -12,10 +12,5 @@
   "human_answer": "电脑不能在真空环境下运行的原因并不是因为它不需要呼吸，而是因为电脑需要散热。在真空环境中，没有空气或其他介质帮助散热，电脑的部件可能会因为过热而损坏。所以，电脑不能在真空环境下运行。",
   "difficulty_score": 6,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9,
-  "tags": [
-    "物理常识",
-    "散热原理",
-    "真空环境"
-  ]
+  "kimi_answer_score": 9
 }

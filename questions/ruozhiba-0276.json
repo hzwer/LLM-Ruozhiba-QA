@@ -12,10 +12,5 @@
   "human_answer": "还有一个小明。题目中的陷阱是让你关注地雷的数量，实际上应该关注的是小明的数量。小明踩到地雷并不会影响小明的数量。",
   "difficulty_score": 5,
   "flash_answer_score": 9,
-  "kimi_answer_score": 5,
-  "tags": [
-    "逻辑陷阱",
-    "数学思维",
-    "语言游戏"
-  ]
+  "kimi_answer_score": 5
 }

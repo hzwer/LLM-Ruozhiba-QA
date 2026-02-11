@@ -965,7 +965,7 @@
                         difficultyValue: q.difficulty_score,
                         kimiValue: q.kimi_answer_score,
                         flashValue: q.flash_answer_score,
-                        willShowMeta: (typeof q.difficulty_score === 'number') || (typeof q.kimi_answer_score === 'number') || (typeof q.flash_answer_score === 'number') || (q.tags && q.tags.length)
+                        willShowMeta: (typeof q.difficulty_score === 'number') || (typeof q.kimi_answer_score === 'number') || (typeof q.flash_answer_score === 'number')
                     });
                 }
                 
@@ -976,12 +976,11 @@
                     <div>
                         <span class="category-badge">${q.category}</span>
                     </div>
-                    ${(typeof q.difficulty_score === 'number') || (typeof q.kimi_answer_score === 'number') || (typeof q.flash_answer_score === 'number') || (q.tags && q.tags.length) ? `
+                    ${(typeof q.difficulty_score === 'number') || (typeof q.kimi_answer_score === 'number') || (typeof q.flash_answer_score === 'number') ? `
                         <div class="meta-line">
                             ${typeof q.difficulty_score === 'number' ? `<span class="meta-badge">难度评分：${q.difficulty_score}</span>` : ''}
                             ${typeof q.kimi_answer_score === 'number' ? `<span class="meta-badge">Kimi 评分：${q.kimi_answer_score}</span>` : ''}
                             ${typeof q.flash_answer_score === 'number' ? `<span class="meta-badge">Step 3.5 评分：${q.flash_answer_score}</span>` : ''}
-                            ${q.tags && q.tags.length ? `<span>${q.tags.map(t => '#' + t).join(' ')}</span>` : ''}
                         </div>
                     ` : ''}
                     ${q.kimi_full_answer || q.stepfun_full_answer ? `

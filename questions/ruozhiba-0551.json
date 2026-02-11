@@ -12,10 +12,5 @@
   "human_answer": "不，黄医师并没有在逗你。他可能是在告诉你密码就是8个星号，也就是\"********\"。所以你应该输入8个星号作为密码，而不是打上了8个*这个句子。",
   "difficulty_score": 4,
   "flash_answer_score": 9,
-  "kimi_answer_score": 8,
-  "tags": [
-    "生活常识",
-    "密码安全",
-    "语言理解"
-  ]
+  "kimi_answer_score": 8
 }

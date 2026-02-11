@@ -12,10 +12,5 @@
   "human_answer": "笔记本的静音键只能控制音频输出，例如关闭扬声器的声音，而不能控制机械噪音，如风扇的声音。因此，按了静音键，风扇的声音还会存在。",
   "difficulty_score": 2,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9,
-  "tags": [
-    "生活常识",
-    "硬件知识",
-    "故障排查"
-  ]
+  "kimi_answer_score": 9
 }

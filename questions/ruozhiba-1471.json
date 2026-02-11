@@ -12,10 +12,5 @@
   "human_answer": "不会的，卡扳断后钱并不会出来。银行卡只是一个存储你的账户信息的工具，真正的钱是存储在银行的服务器中。如果你需要取钱，需要通过ATM或者银行柜台进行操作。",
   "difficulty_score": 1,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10,
-  "tags": [
-    "生活常识",
-    "金融知识",
-    "误解澄清"
-  ]
+  "kimi_answer_score": 10
 }

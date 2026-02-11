@@ -12,10 +12,5 @@
   "human_answer": "平板电脑通常没有专门的鼠标和键盘插口。但是，你可以通过蓝牙或USB OTG（On-The-Go）适配器连接无线鼠标和键盘。如果你的平板电脑支持蓝牙，你可以在设置中打开蓝牙，然后按照鼠标和键盘的说明书进行配对。如果你的平板电脑支持USB OTG，你可以购买一个USB OTG适配器，然后将鼠标和键盘的USB接口插入适配器。",
   "difficulty_score": 3,
   "flash_answer_score": 9,
-  "kimi_answer_score": 10,
-  "tags": [
-    "技术指导",
-    "平板使用",
-    "外设连接"
-  ]
+  "kimi_answer_score": 10
 }

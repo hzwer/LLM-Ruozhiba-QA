@@ -12,10 +12,5 @@
   "human_answer": "这是因为虽然人体确实存在生物电，但是这种电是由人体的生物化学反应产生的，强度非常微弱，无法为电子设备充电。而且，人体并没有像USB线那样的接口可以直接传输电能。所以，即使你把USB线插在肚脐眼上，也无法给手机充电。",
   "difficulty_score": 7,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10,
-  "tags": [
-    "科学常识",
-    "生物电",
-    "电力原理"
-  ]
+  "kimi_answer_score": 10
 }

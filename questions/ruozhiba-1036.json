@@ -12,10 +12,5 @@
   "human_answer": "不一定是中毒。你在下载电影的时候关闭了电脑，那么下载任务就会被中断，因此电影没有下载完。如果你想要完成下载，需要保持电脑开机并且保持网络连接。",
   "difficulty_score": 1,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9,
-  "tags": [
-    "生活常识",
-    "电脑技术",
-    "网络安全"
-  ]
+  "kimi_answer_score": 9
 }

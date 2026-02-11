@@ -12,10 +12,5 @@
   "human_answer": "因为电池不能切开使用。电池的工作原理是通过化学反应产生电流，如果你把电池切开，会破坏电池内部的化学反应环境，使电池无法正常工作。所以，你的剃须刀没有电。",
   "difficulty_score": 6,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9,
-  "tags": [
-    "生活常识",
-    "物理原理",
-    "安全用电"
-  ]
+  "kimi_answer_score": 9
 }

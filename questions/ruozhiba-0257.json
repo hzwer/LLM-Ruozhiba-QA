@@ -12,10 +12,5 @@
   "human_answer": "这是因为镜子反射的是你的正面，不是你的倒影。无论你如何旋转镜子，镜子都会反射你当前面对镜子的那一面。所以，即使你把镜子倒过来，镜子里的你还是正着的，因为它反射的是你倒过来后的样子。",
   "difficulty_score": 6,
   "flash_answer_score": 9,
-  "kimi_answer_score": 8,
-  "tags": [
-    "光学原理",
-    "日常现象",
-    "反射成像"
-  ]
+  "kimi_answer_score": 8
 }

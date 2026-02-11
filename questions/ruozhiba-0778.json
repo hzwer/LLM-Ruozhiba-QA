@@ -12,10 +12,5 @@
   "human_answer": "不可以。无人机热成像轰炸是根据人体的热量分布进行定位的，与你吃什么食物无关。即使你只吃低热量食物，你的体温也不会降低到无法被热成像设备捕捉的程度。",
   "difficulty_score": 6,
   "flash_answer_score": 9,
-  "kimi_answer_score": 10,
-  "tags": [
-    "军事科技",
-    "人体生理",
-    "热成像原理"
-  ]
+  "kimi_answer_score": 10
 }

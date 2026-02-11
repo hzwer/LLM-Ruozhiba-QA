@@ -12,10 +12,5 @@
   "human_answer": "九只鸡九天下了27个蛋。因为根据题目，三只鸡三天下三个蛋，所以一只鸡三天下一个蛋，那么九只鸡三天就可以下九个蛋。所以九只鸡九天就可以下27个蛋。",
   "difficulty_score": 3,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10,
-  "tags": [
-    "数学逻辑",
-    "比例推理",
-    "生活常识"
-  ]
+  "kimi_answer_score": 10
 }

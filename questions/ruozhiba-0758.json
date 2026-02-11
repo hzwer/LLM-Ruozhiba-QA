@@ -12,10 +12,5 @@
   "human_answer": "这是因为电线杆的长度决定了它竖起来后的高度。这是一个基本的空间几何关系，长度和高度在这里是等价的。电线杆需要足够高，以便将电线悬挂在空中，防止人们触电和其他安全隐患。",
   "difficulty_score": 5,
   "flash_answer_score": 5,
-  "kimi_answer_score": 9,
-  "tags": [
-    "生活常识",
-    "工程设计",
-    "语义理解"
-  ]
+  "kimi_answer_score": 9
 }

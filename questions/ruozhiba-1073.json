@@ -12,10 +12,5 @@
   "human_answer": "不是的。核酸检测为阴性，只是说明你的身体内没有检测到新冠病毒的核酸，而不是说你的身体内没有任何核酸。人体的每一个细胞都含有DNA和RNA，这些都是核酸的一种。所以，即使新冠病毒核酸检测为阴性，你的身体内依然有大量的核酸。",
   "difficulty_score": 5,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9,
-  "tags": [
-    "医学常识",
-    "科学普及",
-    "常见误解"
-  ]
+  "kimi_answer_score": 9
 }

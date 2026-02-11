@@ -12,10 +12,5 @@
   "human_answer": "小明的年龄永远不可能超过他哥哥的年龄，因为他哥哥始终比他大3岁。无论小明吃多少个苹果，这都不会改变他们的年龄差距。",
   "difficulty_score": 5,
   "flash_answer_score": 9,
-  "kimi_answer_score": 10,
-  "tags": [
-    "逻辑陷阱",
-    "年龄问题",
-    "无关信息"
-  ]
+  "kimi_answer_score": 10
 }

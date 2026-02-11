@@ -12,10 +12,5 @@
   "human_answer": "这是因为你的话费里没有足够的余额来支付这30元的充值费用。如果你的话费余额不足，运营商是无法从中扣除费用的。所以，你需要先确保你的话费余额足够。",
   "difficulty_score": 6,
   "flash_answer_score": 7,
-  "kimi_answer_score": 9,
-  "tags": [
-    "生活常识",
-    "通信服务",
-    "逻辑理解"
-  ]
+  "kimi_answer_score": 9
 }

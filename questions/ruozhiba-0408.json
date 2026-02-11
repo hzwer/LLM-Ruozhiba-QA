@@ -12,10 +12,5 @@
   "human_answer": "你的计算是正确的。1+1=2，所以2+2可以等于1+1+1+1，这也等于1+（1+1）+1，再根据1+1=2，可以得出1+2+1。所以，你的计算是对的。",
   "difficulty_score": 5,
   "flash_answer_score": 8,
-  "kimi_answer_score": 7,
-  "tags": [
-    "数学逻辑",
-    "推理分析",
-    "等量代换"
-  ]
+  "kimi_answer_score": 7
 }

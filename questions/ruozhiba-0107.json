@@ -12,10 +12,5 @@
   "human_answer": "因为当你的设备关机后，Siri也会一同关闭，无法接收和处理你的开机指令。而在设备开机状态下，Siri是可以接收和处理你的关机指令的。",
   "difficulty_score": 7,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10,
-  "tags": [
-    "操作系统",
-    "硬件机制",
-    "语音助手"
-  ]
+  "kimi_answer_score": 10
 }

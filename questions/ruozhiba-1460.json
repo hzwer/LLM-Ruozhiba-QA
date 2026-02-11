@@ -12,10 +12,5 @@
   "human_answer": "不是。由二次方程 x²+y²=R² 所描述的圆，通常被称为单位圆，而不是二次圆。这个方程描述的是一个半径为R的圆，其中心位于坐标系的原点(0,0)。\"二次\"在这里指的是方程的次数，而不是圆的类型。",
   "difficulty_score": 4,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9,
-  "tags": [
-    "数学定义",
-    "解析几何",
-    "术语辨析"
-  ]
+  "kimi_answer_score": 9
 }

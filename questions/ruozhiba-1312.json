@@ -12,10 +12,5 @@
   "human_answer": "在这里，\"3-5分钟\"是一个范围，表示的是微波炉转动的时间应该在3到5分钟之间，而不是说要先转3分钟再转-2分钟。所以，不存在-2分钟的转动。",
   "difficulty_score": 3,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9,
-  "tags": [
-    "语言理解",
-    "生活常识",
-    "幽默玩梗"
-  ]
+  "kimi_answer_score": 9
 }

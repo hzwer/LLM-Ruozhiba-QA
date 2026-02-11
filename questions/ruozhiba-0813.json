@@ -12,10 +12,5 @@
   "human_answer": "这是因为你正在使用你的手机拨打你自己的号码，所以系统会提示你正在通话中。这是手机和运营商系统的正常反应。",
   "difficulty_score": 5,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9,
-  "tags": [
-    "生活常识",
-    "通信原理",
-    "网络机制"
-  ]
+  "kimi_answer_score": 9
 }

@@ -12,10 +12,5 @@
   "human_answer": "充电宝是一种便携式电源设备，它的工作原理是通过内部的电池储存电能，然后通过USB接口输出电能给其他设备充电。所以，即使停电，只要充电宝内部的电池还有电，就可以继续为其他设备充电。",
   "difficulty_score": 1,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9,
-  "tags": [
-    "生活常识",
-    "电力知识",
-    "物理原理"
-  ]
+  "kimi_answer_score": 9
 }

@@ -12,10 +12,5 @@
   "human_answer": "因为你的手机可能没有开启语音识别功能，或者你的手机并不支持语音识别功能。另外，如果你的手机是在静音或者飞行模式下，也可能无法接收到你的语音指令。",
   "difficulty_score": 5,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9,
-  "tags": [
-    "生活常识",
-    "手机使用",
-    "语音识别"
-  ]
+  "kimi_answer_score": 9
 }
