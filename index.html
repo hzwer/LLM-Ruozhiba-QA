@@ -329,6 +329,88 @@
             border-top: 1px solid #f0f0f0;
         }
 
+        /* 模态窗口样式 */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(0, 0, 0, 0.5);
+            animation: fadeIn 0.3s;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        .modal-content {
+            background-color: white;
+            margin: 5% auto;
+            padding: 30px;
+            border-radius: 10px;
+            width: 90%;
+            max-width: 800px;
+            max-height: 80vh;
+            overflow-y: auto;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+            animation: slideDown 0.3s;
+        }
+
+        @keyframes slideDown {
+            from {
+                transform: translateY(-50px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        .modal-header h2 {
+            margin: 0;
+            color: #333;
+            font-size: 1.5em;
+        }
+
+        .close {
+            color: #aaa;
+            font-size: 28px;
+            font-weight: bold;
+            cursor: pointer;
+            line-height: 20px;
+        }
+
+        .close:hover,
+        .close:focus {
+            color: #000;
+        }
+
+        .modal-body {
+            line-height: 1.8;
+            color: #333;
+            font-size: 1em;
+        }
+
+        .modal-body pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
         .description {
             color: #666;
             font-size: 0.9em;
@@ -414,6 +496,19 @@
         </div>
     </div>
 
+    <!-- 模态窗口 -->
+    <div id="answerModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modalTitle">完整回答</h2>
+                <span class="close" onclick="closeModal()">&times;</span>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <!-- 内容将在这里动态填充 -->
+            </div>
+        </div>
+    </div>
+
     <script>
         let questions = [];
         let filteredQuestions = [];
@@ -437,22 +532,11 @@
             }
         }
 
-        // 获取题目的互动数（所有 AI 回答的互动数总和）
-        function getQuestionInteractionCount(question) {
+        // 获取题目的互动数
+        function getQuestionInteractionCount(questionId) {
             const data = getInteractionData();
-            let total = 0;
-            
-            // 计算该题目下所有 AI 回答的互动数
-            if (question.kimi_answer) {
-                const kimiData = data[question.id + '-kimi'] || { likes: 0, dislikes: 0 };
-                total += kimiData.likes + kimiData.dislikes;
-            }
-            if (question.stepfun_answer) {
-                const stepfunData = data[question.id + '-stepfun'] || { likes: 0, dislikes: 0 };
-                total += stepfunData.likes + stepfunData.dislikes;
-            }
-            
-            return total;
+            const questionData = data[questionId] || { likes: 0, dislikes: 0 };
+            return questionData.likes + questionData.dislikes;
         }
 
         // 更新题目的点赞/点踩
@@ -564,8 +648,8 @@
                 
                 // 按互动数排序（互动数多的在前），互动数相同的随机排序
                 questions.sort((a, b) => {
-                    const aCount = getQuestionInteractionCount(a);
-                    const bCount = getQuestionInteractionCount(b);
+                    const aCount = getQuestionInteractionCount(a.id);
+                    const bCount = getQuestionInteractionCount(b.id);
                     if (aCount !== bCount) {
                         return bCount - aCount; // 互动数多的在前
                     }
@@ -662,8 +746,8 @@
             
             // 重新排序并渲染
             questions.sort((a, b) => {
-                const aCount = getQuestionInteractionCount(a);
-                const bCount = getQuestionInteractionCount(b);
+                const aCount = getQuestionInteractionCount(a.id);
+                const bCount = getQuestionInteractionCount(b.id);
                 if (aCount !== bCount) {
                     return bCount - aCount;
                 }
@@ -712,10 +796,9 @@
                                     <strong>Kimi (K2.5 Fast)</strong>
                                     <div class="ai-response-content">
                                         ${q.kimi_excerpt ? `<div class="ai-response-excerpt">${q.kimi_excerpt}</div>` : ''}
-                                        <a href="${q.kimi_answer}" target="_blank" rel="noopener noreferrer" style="color: #10a37f; text-decoration: none;">
+                                        <a href="javascript:void(0)" onclick="openModal('${q.id}', 'kimi')" style="color: #10a37f; text-decoration: none; cursor: pointer;">
                                             查看完整回答 →
                                         </a>
-                                        ${generateFeedbackButtons(q.id + '-kimi')}
                                     </div>
                                 </div>
                             ` : ''}
@@ -724,10 +807,9 @@
                                     <strong>Step 3.5 Flash</strong>
                                     <div class="ai-response-content">
                                         ${q.stepfun_excerpt ? `<div class="ai-response-excerpt">${q.stepfun_excerpt}</div>` : ''}
-                                        <a href="${q.stepfun_answer}" target="_blank" rel="noopener noreferrer" style="color: #f59e0b; text-decoration: none;">
+                                        <a href="javascript:void(0)" onclick="openModal('${q.id}', 'stepfun')" style="color: #f59e0b; text-decoration: none; cursor: pointer;">
                                             查看完整回答 →
                                         </a>
-                                        ${generateFeedbackButtons(q.id + '-stepfun')}
                                     </div>
                                 </div>
                             ` : ''}
@@ -739,6 +821,7 @@
                             <div class="cursor-comment-content">${q.cursor_comment}</div>
                         </div>
                     ` : ''}
+                    ${generateFeedbackButtons(q.id)}
                     ${q.added_date ? `
                         <div class="date-info">创建日期：${q.added_date}</div>
                     ` : ''}
@@ -780,6 +863,67 @@
             } catch (error) {
                 console.warn('获取 star 数量失败:', error);
                 document.getElementById('starCount').textContent = '⭐';
+            }
+        }
+
+        // 打开模态窗口
+        function openModal(questionId, aiType) {
+            const modal = document.getElementById('answerModal');
+            const modalTitle = document.getElementById('modalTitle');
+            const modalBody = document.getElementById('modalBody');
+            
+            // 查找题目信息
+            const question = questions.find(q => q.id === questionId);
+            if (!question) return;
+            
+            // 设置标题
+            const aiName = aiType === 'kimi' ? 'Kimi (K2.5 Fast)' : 'Step 3.5 Flash';
+            modalTitle.textContent = `${question.question} - ${aiName} 完整回答`;
+            
+            // 获取完整回答内容
+            const fullAnswerKey = aiType === 'kimi' ? 'kimi_full_answer' : 'stepfun_full_answer';
+            const fullAnswer = question[fullAnswerKey];
+            
+            // 设置内容
+            if (fullAnswer && fullAnswer.trim()) {
+                // 转义 HTML 并保留换行
+                const escapedAnswer = fullAnswer
+                    .replace(/&/g, '&amp;')
+                    .replace(/</g, '&lt;')
+                    .replace(/>/g, '&gt;')
+                    .replace(/"/g, '&quot;')
+                    .replace(/'/g, '&#039;')
+                    .replace(/\n/g, '<br>');
+                modalBody.innerHTML = `<div style="white-space: pre-wrap; word-wrap: break-word;">${escapedAnswer}</div>`;
+            } else {
+                // 如果没有完整回答，显示外部链接
+                const externalLink = aiType === 'kimi' ? question.kimi_answer : question.stepfun_answer;
+                if (externalLink) {
+                    modalBody.innerHTML = `
+                        <p style="color: #999; margin-bottom: 15px;">完整回答内容暂未添加。</p>
+                        <a href="${externalLink}" target="_blank" rel="noopener noreferrer" style="color: #667eea; text-decoration: none; font-weight: 500;">
+                            点击查看外部链接 →
+                        </a>
+                    `;
+                } else {
+                    modalBody.innerHTML = '<p style="color: #999; font-style: italic;">完整回答内容暂未添加。</p>';
+                }
+            }
+            
+            modal.style.display = 'block';
+        }
+
+        // 关闭模态窗口
+        function closeModal() {
+            const modal = document.getElementById('answerModal');
+            modal.style.display = 'none';
+        }
+
+        // 点击模态窗口外部关闭
+        window.onclick = function(event) {
+            const modal = document.getElementById('answerModal');
+            if (event.target === modal) {
+                closeModal();
             }
         }
 
