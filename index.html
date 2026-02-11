@@ -556,7 +556,6 @@
                 <select id="sortSelect">
                     <option value="default">默认（按互动）</option>
                     <option value="difficulty_desc">按难度从高到低</option>
-                    <option value="difficulty_asc">按难度从低到高</option>
                 </select>
             </div>
         </div>
@@ -901,7 +900,7 @@
 
             console.log('当前排序选项:', sortValue, '待排序题目数:', sortedQuestions.length);
 
-            if (sortValue === 'difficulty_desc' || sortValue === 'difficulty_asc') {
+            if (sortValue === 'difficulty_desc') {
                 // 统计有难度分数的题目数量
                 const questionsWithScore = sortedQuestions.filter(q => typeof q.difficulty_score === 'number');
                 console.log('有难度分数的题目数:', questionsWithScore.length, '/', sortedQuestions.length);
@@ -932,12 +931,12 @@
                     if (!aHasScore && bHasScore) {
                         return 1;
                     }
-                    // 两个都有分数，按分数排序
+                    // 两个都有分数，按分数从高到低排序
                     const ad = a.difficulty_score;
                     const bd = b.difficulty_score;
                     if (ad !== bd) {
-                        // 分数不同，按排序方向排序
-                        return sortValue === 'difficulty_desc' ? bd - ad : ad - bd;
+                        // 分数不同，按从高到低排序
+                        return bd - ad;
                     }
                     // 分数相同，使用 id 作为稳定排序键
                     return (a.id || '').localeCompare(b.id || '');
@@ -950,7 +949,7 @@
                     score: q.difficulty_score
                 }));
                 console.log('排序后前5题的难度分数:', topScores);
-                console.log('排序方向:', sortValue === 'difficulty_desc' ? '从高到低' : '从低到高');
+                console.log('排序方向: 从高到低');
             } else if (sortValue === 'default') {
                 // 默认按互动数排序
                 sortedQuestions.sort((a, b) => {
