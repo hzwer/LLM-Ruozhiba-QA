@@ -179,8 +179,8 @@
 
 
         .ai-responses-container {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
+            display: flex;
+            flex-direction: column;
             gap: 15px;
             margin-top: 15px;
         }
@@ -293,11 +293,6 @@
             text-align: center;
         }
 
-        @media (max-width: 768px) {
-            .ai-responses-container {
-                grid-template-columns: 1fr;
-            }
-        }
 
         .cursor-comment {
             margin-top: 15px;
@@ -429,6 +424,42 @@
             border-radius: 10px;
         }
 
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-top: 30px;
+            margin-bottom: 30px;
+        }
+
+        .pagination button {
+            padding: 8px 16px;
+            border: 2px solid #667eea;
+            background: white;
+            color: #667eea;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.9em;
+            transition: all 0.2s;
+        }
+
+        .pagination button:hover:not(:disabled) {
+            background: #667eea;
+            color: white;
+        }
+
+        .pagination button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .pagination .page-info {
+            color: white;
+            font-size: 0.9em;
+            padding: 0 15px;
+        }
+
         @media (max-width: 768px) {
             .questions-grid {
                 grid-template-columns: 1fr;
@@ -494,6 +525,12 @@
         <div class="no-results" id="noResults" style="display: none;">
             没有找到匹配的题目
         </div>
+
+        <div class="pagination" id="pagination" style="display: none;">
+            <button id="prevPage" onclick="changePage(-1)">上一页</button>
+            <span class="page-info" id="pageInfo">第 1 页，共 1 页</span>
+            <button id="nextPage" onclick="changePage(1)">下一页</button>
+        </div>
     </div>
 
     <!-- 模态窗口 -->
@@ -512,6 +549,8 @@
     <script>
         let questions = [];
         let filteredQuestions = [];
+        let currentPage = 1;
+        const itemsPerPage = 20;
 
         // 获取互动数据（从 localStorage）
         function getInteractionData() {
@@ -652,10 +691,10 @@
                     const bCount = getQuestionInteractionCount(b.id);
                     if (aCount !== bCount) {
                         return bCount - aCount; // 互动数多的在前
-                    }
+                        }
                     // 互动数相同则随机排序
                     return Math.random() - 0.5;
-                });
+                    });
                 
                 console.log('处理后的题目:', questions);
                 
@@ -667,6 +706,7 @@
                 }
                 
                 filteredQuestions = questions;
+                currentPage = 1; // 重置到第一页
                 renderQuestions();
                 updateStats();
                 populateCategories();
@@ -767,17 +807,37 @@
         function renderQuestions() {
             const grid = document.getElementById('questionsGrid');
             const noResults = document.getElementById('noResults');
+            const pagination = document.getElementById('pagination');
             
             if (filteredQuestions.length === 0) {
                 grid.style.display = 'none';
                 noResults.style.display = 'block';
+                pagination.style.display = 'none';
                 return;
             }
 
             grid.style.display = 'grid';
             noResults.style.display = 'none';
+            
+            // 计算分页
+            const totalPages = Math.ceil(filteredQuestions.length / itemsPerPage);
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = startIndex + itemsPerPage;
+            const currentPageQuestions = filteredQuestions.slice(startIndex, endIndex);
+            
+            // 更新分页信息
+            document.getElementById('pageInfo').textContent = `第 ${currentPage} 页，共 ${totalPages} 页（共 ${filteredQuestions.length} 题）`;
+            document.getElementById('prevPage').disabled = currentPage === 1;
+            document.getElementById('nextPage').disabled = currentPage === totalPages;
+            
+            // 显示分页控件
+            if (totalPages > 1) {
+                pagination.style.display = 'flex';
+            } else {
+                pagination.style.display = 'none';
+            }
 
-            grid.innerHTML = filteredQuestions.map(q => {
+            grid.innerHTML = currentPageQuestions.map(q => {
                 const interactionData = getInteractionData();
                 const questionData = interactionData[q.id] || { likes: 0, dislikes: 0, userVote: null };
                 const userVote = questionData.userVote;
@@ -830,6 +890,19 @@
             }).join('');
         }
 
+        // 切换页面
+        function changePage(direction) {
+            const totalPages = Math.ceil(filteredQuestions.length / itemsPerPage);
+            const newPage = currentPage + direction;
+            
+            if (newPage >= 1 && newPage <= totalPages) {
+                currentPage = newPage;
+                renderQuestions();
+                // 滚动到顶部
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+        }
+
         // 筛选题目
         function filterQuestions() {
             const category = document.getElementById('categoryFilter').value;
@@ -844,6 +917,8 @@
                 return matchCategory && matchSearch;
             });
 
+            // 重置到第一页
+            currentPage = 1;
             renderQuestions();
         }
 
