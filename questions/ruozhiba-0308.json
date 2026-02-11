@@ -10,7 +10,8 @@
   "kimi_excerpt": "是的，60秒等于一分钟，因为等式具有对称性，两者描述的是相同的时间长度。",
   "kimi_full_answer": "是的，60秒等于一分钟。这是一个简单的数学等式关系：如果1分钟 = 60秒，那么根据等式的对称性，60秒 = 1分钟也成立。这就像如果A=B，那么B=A一样。时间单位的换算中，分钟和秒之间的换算关系是固定的：1分钟 = 60秒，因此60秒自然就等于1分钟。无论从数学逻辑还是实际时间计量来看，这两个表述都是等价的，描述的是相同的时间长度。",
   "human_answer": "是的，60秒等于一分钟。",
-  "difficulty_score": 0,
+  "difficulty_score": 0.0,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10
+  "kimi_answer_score": 10,
+  "original_difficulty_score": 0
 }

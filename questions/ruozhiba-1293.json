@@ -10,7 +10,8 @@
   "kimi_excerpt": "游泳池深水区指水深较深的区域，不是指颜色，颜色只是区分深浅水区的标识方式。",
   "kimi_full_answer": "游泳池深水区不是指颜色，而是指水深较深的区域。游泳池通常会根据水深划分为浅水区和深水区，浅水区一般水深在1.2米左右，适合儿童和初学者；深水区水深通常在1.8米至2米以上，适合会游泳的成年人。有些游泳池会用不同颜色的瓷砖或泳道线来区分深浅水区，但这只是标识方式，\"深水区\"本身描述的是深度而非颜色。",
   "human_answer": "不是。游泳池的深水区指的是水的深度，而不是颜色。",
-  "difficulty_score": 1,
+  "difficulty_score": 1.0,
   "flash_answer_score": 9,
-  "kimi_answer_score": 9
+  "kimi_answer_score": 9,
+  "original_difficulty_score": 1
 }

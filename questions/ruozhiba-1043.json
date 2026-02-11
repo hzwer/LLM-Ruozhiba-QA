@@ -10,7 +10,8 @@
   "kimi_excerpt": "篮球下落也是重力作用，\"篮球场\"只是场地名称，并非物理场，这是谐音玩笑。",
   "kimi_full_answer": "这个说法是一个幽默的类比，但存在逻辑错误。苹果下落是因为地球的重力场，这是一个物理现象。而篮球场只是一个场地名称，不是物理场。篮球下落同样是因为地球的重力作用，与\"篮球场\"这个名称无关。篮球场之所以叫\"篮球场\"，是因为那里进行篮球运动，而不是因为存在某种\"篮球场\"的物理场让篮球下落。这是一个利用谐音和概念混淆制造的玩笑或脑筋急转弯。",
   "human_answer": "不是的，篮球下落也是因为重力场。",
-  "difficulty_score": 6,
+  "difficulty_score": 1.8,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10
+  "kimi_answer_score": 10,
+  "original_difficulty_score": 6
 }

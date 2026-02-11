@@ -10,7 +10,8 @@
   "kimi_excerpt": "手机调时间不能改变实际时间，需按真实时间下课，现在不能离开教室。",
   "kimi_full_answer": "不可以离开教室。你把手机时间调成6点只是改变了手机显示的时间，并不是真正的时间。实际上还没到下课时间，提前离开属于早退行为。应该按照学校或教室的实际时钟为准，等到真正的下课时间到了才能离开。",
   "human_answer": "不能。因为你把手机时间调成6点，并不代表现在真正的时间就是6点。你需要根据实际的时间来判断是否可以离开教室。",
-  "difficulty_score": 4,
+  "difficulty_score": 2.46,
   "flash_answer_score": 10,
-  "kimi_answer_score": 7
+  "kimi_answer_score": 7,
+  "original_difficulty_score": 4
 }

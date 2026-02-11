@@ -10,7 +10,8 @@
   "kimi_excerpt": "是的，一分钟等于六十秒，这是国际通用的时间计量标准。",
   "kimi_full_answer": "是的，一分钟等于六十秒。这是国际通用的时间计量标准，属于国际单位制（SI）中的时间单位。秒是国际单位制的基本单位之一，定义为铯-133原子基态的两个超精细能级之间跃迁所对应的辐射的9,192,631,770个周期的持续时间。一分钟被定义为60秒，一小时为60分钟，这种六十进制的计时系统起源于古巴比伦文明，至今仍被全球广泛使用。",
   "human_answer": "是的，一分钟确实是六十秒。",
-  "difficulty_score": 1,
+  "difficulty_score": 0.72,
   "flash_answer_score": 9,
-  "kimi_answer_score": 10
+  "kimi_answer_score": 10,
+  "original_difficulty_score": 1
 }

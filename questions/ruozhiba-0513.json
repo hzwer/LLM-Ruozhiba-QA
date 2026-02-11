@@ -10,7 +10,8 @@
   "kimi_excerpt": "哑铃之所以叫\"哑\"铃，就是设计成不会响的，摇不响很正常。",
   "kimi_full_answer": "这是一个脑筋急转弯问题。哑铃（dumbbell）是健身器材，它的设计目的就是\"哑\"的——即不会发出声音。哑铃的英文\"dumbbell\"中，\"dumb\"就有\"哑的、无声的\"意思。所以无论怎么摇，哑铃都不会响，这是它名字和设计的本质特征。这个问题的幽默之处在于，提问者期待哑铃会响，但实际上哑铃之所以叫\"哑\"铃，就是因为它不会发出声音。",
   "human_answer": "因为哑铃是健身器材，不是铃铛，所以不会发出声音。",
-  "difficulty_score": 4,
+  "difficulty_score": 1.2,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10
+  "kimi_answer_score": 10,
+  "original_difficulty_score": 4
 }

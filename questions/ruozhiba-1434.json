@@ -10,7 +10,8 @@
   "kimi_excerpt": "坐旋转木马不需要驾照，因为它是游乐设施而非机动车辆。",
   "kimi_full_answer": "坐旋转木马不需要驾照。驾照是用于驾驶机动车辆的法定证件，而旋转木马是一种游乐设施，乘客只需坐在装饰好的木马上，由设备自动带动旋转即可。旋转木马属于公园或游乐场的娱乐项目，不是交通工具，不需要任何驾驶技能或证件。乘客只需遵守游乐场的基本安全规则，如身高限制、坐稳扶好等即可安全享受这项娱乐活动。",
   "human_answer": "不需要，旋转木马是游乐设施，不需要驾照就可以乘坐。",
-  "difficulty_score": 0,
+  "difficulty_score": 0.0,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10
+  "kimi_answer_score": 10,
+  "original_difficulty_score": 0
 }

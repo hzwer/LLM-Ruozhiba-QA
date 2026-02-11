@@ -10,7 +10,8 @@
   "kimi_excerpt": "手表一秒等于1/60分钟，约0.0167分钟。",
   "kimi_full_answer": "1秒等于1/60分钟。因为1分钟=60秒，所以将秒转换为分钟需要除以60。计算过程：1秒 ÷ 60 = 1/60分钟 ≈ 0.0167分钟。换句话说，1秒钟是1分钟的六十分之一。",
   "human_answer": "手表一秒等于1/60分钟。",
-  "difficulty_score": 1,
+  "difficulty_score": 0.3,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10
+  "kimi_answer_score": 10,
+  "original_difficulty_score": 1
 }

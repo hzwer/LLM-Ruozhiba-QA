@@ -10,7 +10,8 @@
   "kimi_excerpt": "闭眼看不见是正常生理现象，光线被阻挡无法成像，无需就医；若伴有其他症状则需检查。",
   "kimi_full_answer": "闭眼后看不清东西是正常的生理现象，因为眼睛需要光线进入才能看见物体。闭眼时，光线被眼皮阻挡，无法到达视网膜，所以自然就看不见了。这不是疾病，无需担心或就医。但如果伴随眼痛、视力突然下降、眼前有黑影等症状，则需要去医院检查，可能是眼部疾病的表现。",
   "human_answer": "这是正常的生理现象，当我们闭上眼睛时，视线被眼睑阻挡，光线无法进入眼睛，因此看不清东西。这并不需要去医院检查。",
-  "difficulty_score": 2,
+  "difficulty_score": 1.72,
   "flash_answer_score": 9,
-  "kimi_answer_score": 8
+  "kimi_answer_score": 8,
+  "original_difficulty_score": 2
 }

@@ -10,7 +10,8 @@
   "kimi_excerpt": "梦境非真实，无需打疫苗；只有真实被咬伤才需接种。",
   "kimi_full_answer": "不需要。梦境是大脑在睡眠时产生的心理活动，并非真实发生的事件。在梦中被狗咬只是虚幻的体验，没有真实的皮肤破损或伤口，不存在感染狂犬病的风险。狂犬病疫苗是用于预防真实暴露后的感染，而梦境不属于暴露情况。如果醒来后感到焦虑，可以放松心情，但如果确实在现实生活中被狗咬伤或抓伤，则需要及时处理伤口并咨询医生是否需要接种疫苗。",
   "human_answer": "不需要。因为这只是梦境，并没有真正被狗咬，所以不需要去打疫苗。",
-  "difficulty_score": 6,
+  "difficulty_score": 2.92,
   "flash_answer_score": 9,
-  "kimi_answer_score": 8
+  "kimi_answer_score": 8,
+  "original_difficulty_score": 6
 }

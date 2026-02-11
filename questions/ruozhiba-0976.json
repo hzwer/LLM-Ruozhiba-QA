@@ -10,7 +10,8 @@
   "kimi_excerpt": "小明一分钟可以跳120次绳，计算方法是2次/秒乘以60秒等于120次。",
   "kimi_full_answer": "这是一个简单的单位换算问题。\n\n已知条件：\n- 小明一秒钟能跳2次绳\n- 1分钟 = 60秒\n\n计算过程：\n- 如果1秒跳2次，那么60秒（1分钟）能跳的次数为：\n- 2次/秒 × 60秒 = 120次\n\n因此，小明一分钟可以跳120次绳。",
   "human_answer": "一分钟有60秒，所以小明一分钟可以跳120次。",
-  "difficulty_score": 0,
+  "difficulty_score": 0.0,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10
+  "kimi_answer_score": 10,
+  "original_difficulty_score": 0
 }

@@ -10,7 +10,8 @@
   "kimi_excerpt": "PNG是图像格式，人类无法通过改格式隐身，这只是网络玩笑。",
   "kimi_full_answer": "这是一个有趣的玩笑，但实际上改变文件格式属性并不能让人隐身。PNG是一种图像文件格式，用于存储数字图像数据。人类是生物实体，不是数字文件，因此不存在\"改成PNG格式\"的概念。隐身（光学隐形）目前在现实世界中需要特殊材料或技术（如隐形斗篷研究），与文件格式完全无关。这个说法可能源于网络文化中的幽默表达，将数字世界的概念错误地应用到现实中。",
   "human_answer": "不可以。PNG是一种图像文件格式，它并不能影响你的实体存在或使你隐身。这是一种对现实和数字世界的误解。",
-  "difficulty_score": 5,
+  "difficulty_score": 3.04,
   "flash_answer_score": 9,
-  "kimi_answer_score": 7
+  "kimi_answer_score": 7,
+  "original_difficulty_score": 5
 }

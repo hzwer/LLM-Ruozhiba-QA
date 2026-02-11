@@ -10,7 +10,8 @@
   "kimi_excerpt": "榨机厂榨的是水果，这是一个利用\"榨\"字双关的文字游戏。",
   "kimi_full_answer": "这是一个脑筋急转弯式的问题。从字面意思看，\"榨机厂\"（通常指榨汁机厂或榨油厂）榨的是水果、蔬菜或油料作物等原材料。但这个问题故意利用\"榨\"字的双关含义——\"榨\"既可以指压榨提取汁液，也可以指\"压榨\"（剥削）劳动力。所以从实际生产角度，榨的是水果；但从文字游戏角度，问题暗示\"压榨工人\"。正确答案应该是水果，因为榨机厂的定义就是加工水果等农产品的场所。",
   "human_answer": "榨机厂榨的是水果。",
-  "difficulty_score": 6,
+  "difficulty_score": 4.74,
   "flash_answer_score": 10,
-  "kimi_answer_score": 3
+  "kimi_answer_score": 3,
+  "original_difficulty_score": 6
 }

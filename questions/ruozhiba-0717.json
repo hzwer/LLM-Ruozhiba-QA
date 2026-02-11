@@ -10,7 +10,8 @@
   "kimi_excerpt": "公鸡是雄性，不会下蛋，无论跑到哪里都不会下蛋。",
   "kimi_full_answer": "这是一道脑筋急转弯。公鸡是雄性鸡，无论它跑过草原、沙漠还是高山，它都不会下蛋，因为下蛋是母鸡（雌性鸡）的生理功能。公鸡没有产卵的能力，所以答案是：公鸡不会下蛋，它哪里都不会下蛋。",
   "human_answer": "公鸡是不会下蛋的，无论它跑到哪里。",
-  "difficulty_score": 2,
+  "difficulty_score": 0.6,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10
+  "kimi_answer_score": 10,
+  "original_difficulty_score": 2
 }

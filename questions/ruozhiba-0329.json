@@ -10,7 +10,8 @@
   "kimi_excerpt": "两岁孩子当然不到十岁，这是正常年龄，与缺钙无关，只是个幽默问题。",
   "kimi_full_answer": "这是一个脑筋急转弯或逻辑笑话。朋友的孩子生下来两年，当然不可能到十岁，因为两岁就是两岁，无论怎么算都不会是十岁。\"是不是缺钙\"是故意用医学问题的形式来制造幽默效果，让人误以为是在讨论生长发育迟缓的问题。实际上，两岁孩子不到十岁是完全正常的，与缺钙无关。",
   "human_answer": "这和是否缺钙没有关系。所以，答案是不是因为缺钙，而是因为孩子年龄本身就还没到十岁。",
-  "difficulty_score": 3,
+  "difficulty_score": 1.32,
   "flash_answer_score": 10,
-  "kimi_answer_score": 9
+  "kimi_answer_score": 9,
+  "original_difficulty_score": 3
 }

@@ -10,7 +10,8 @@
   "kimi_excerpt": "你只寄了一只脚，卖家只能按这只脚的尺寸给你一只鞋。",
   "kimi_full_answer": "这是一个经典的脑筋急转弯问题。答案在于：你只剁了一只脚寄给卖家，卖家当然只能给你一只鞋——因为你只寄了一只脚的尺寸，卖家无法确定另一只脚的尺码，所以只能给你一只鞋。另外，从逻辑上讲，你寄了一只脚，说明你需要的是一只鞋（给剩下的那只脚穿），所以卖家只给你一只鞋是合理的。这个笑话利用了\"买一双鞋\"和\"寄一只脚\"之间的矛盾，产生幽默效果。",
   "human_answer": "因为你只寄了一只脚给卖家，所以他认为你只需要一只鞋。",
-  "difficulty_score": 7,
+  "difficulty_score": 3.92,
   "flash_answer_score": 8,
-  "kimi_answer_score": 7
+  "kimi_answer_score": 7,
+  "original_difficulty_score": 7
 }

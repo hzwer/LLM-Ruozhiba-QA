@@ -10,7 +10,8 @@
   "kimi_excerpt": "父亲50岁孩子25岁，说明父亲25岁生育，而非2岁，是简单减法计算错误。",
   "kimi_full_answer": "这个说法是错误的。如果父亲50岁，孩子25岁，那么父亲是在50-25=25岁时生育了孩子，而不是2岁。这是一个简单的数学计算错误。父亲25岁生育孩子是正常且合理的年龄。计算过程：父亲的年龄（50岁）减去孩子的年龄（25岁）= 父亲生育孩子时的年龄（25岁）。",
   "human_answer": "不对，你25岁，你爸50岁，那么你爸在你出生时应该是25岁，而不是两岁。",
-  "difficulty_score": 1,
+  "difficulty_score": 0.3,
   "flash_answer_score": 10,
-  "kimi_answer_score": 10
+  "kimi_answer_score": 10,
+  "original_difficulty_score": 1
 }

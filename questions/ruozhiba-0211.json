@@ -10,7 +10,8 @@
   "kimi_excerpt": "小白兔耳朵是白的，化妆后变色太明显，小猫一眼就看出来了。",
   "kimi_full_answer": "这是一个脑筋急转弯类型的笑话。小猫之所以能知道小白兔化妆了，是因为小白兔的耳朵是白色的，但化妆后耳朵变成了其他颜色（比如粉色腮红），所以小猫一眼就看出来了。小白兔惊讶地问\"你怎么知道的\"，暗示它以为化妆很隐蔽，没想到被轻易识破。这个笑话的笑点在于：小白兔的耳朵本来就很显眼，化妆后变化更明显，根本藏不住。",
   "human_answer": "小猫：“因为你的脸上有粉。”",
-  "difficulty_score": 6,
+  "difficulty_score": 4.6,
   "flash_answer_score": 4,
-  "kimi_answer_score": 9
+  "kimi_answer_score": 9,
+  "original_difficulty_score": 6
 }
