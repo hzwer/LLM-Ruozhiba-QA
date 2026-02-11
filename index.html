@@ -415,6 +415,22 @@
             border-top: 1px solid #e0e0e0;
         }
 
+        .meta-line {
+            margin-top: 8px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            font-size: 0.8em;
+            color: #555;
+        }
+
+        .meta-badge {
+            padding: 2px 8px;
+            border-radius: 999px;
+            background: #f3f4ff;
+            color: #4f46e5;
+        }
+
         .no-results {
             text-align: center;
             color: white;
@@ -515,6 +531,12 @@
                 </select>
                 <label>搜索：</label>
                 <input type="text" id="searchInput" placeholder="搜索题目内容...">
+                <label>排序：</label>
+                <select id="sortSelect">
+                    <option value="default">默认（按互动）</option>
+                    <option value="difficulty_desc">按难度从高到低</option>
+                    <option value="difficulty_asc">按难度从低到高</option>
+                </select>
             </div>
         </div>
 
@@ -551,6 +573,28 @@
         let filteredQuestions = [];
         let currentPage = 1;
         const itemsPerPage = 20;
+        let scoreMap = {};
+
+        // 加载难度和模型评分数据
+        async function loadScores() {
+            try {
+                const resp = await fetch('ruozhiba_scores_step-3.5-flash.json');
+                if (!resp.ok) {
+                    throw new Error('无法加载难度和评分数据');
+                }
+                const data = await resp.json();
+                scoreMap = {};
+                data.forEach(item => {
+                    const q = (item.question || '').trim();
+                    if (q) {
+                        scoreMap[q] = item;
+                    }
+                });
+                console.log('已加载评分数据条数:', Object.keys(scoreMap).length);
+            } catch (e) {
+                console.warn('加载评分数据失败:', e);
+            }
+        }
 
         // 获取互动数据（从 localStorage）
         function getInteractionData() {
@@ -661,6 +705,17 @@
                 // 过滤掉 null 值
                 questions = questionResults
                     .filter(q => q !== null && q.id !== undefined);
+
+                // 合并难度和评分信息
+                questions.forEach(q => {
+                    const score = scoreMap[(q.question || '').trim()];
+                    if (score) {
+                        q.difficulty_score = score.difficulty_score;
+                        q.flash_answer_score = score.flash_answer_score;
+                        q.kimi_answer_score = score.kimi_answer_score;
+                        q.tags = score.tags;
+                    }
+                });
                 
                 // 按互动数排序（互动数多的在前），互动数相同的随机排序
                 questions.sort((a, b) => {
@@ -796,11 +851,24 @@
             grid.style.display = 'grid';
             noResults.style.display = 'none';
             
+            // 根据排序选项对题目进行排序
+            const sortSelect = document.getElementById('sortSelect');
+            const sortValue = sortSelect ? sortSelect.value : 'default';
+            let sortedQuestions = filteredQuestions.slice();
+
+            if (sortValue === 'difficulty_desc' || sortValue === 'difficulty_asc') {
+                sortedQuestions.sort((a, b) => {
+                    const ad = typeof a.difficulty_score === 'number' ? a.difficulty_score : 0;
+                    const bd = typeof b.difficulty_score === 'number' ? b.difficulty_score : 0;
+                    return sortValue === 'difficulty_desc' ? bd - ad : ad - bd;
+                });
+            }
+            
             // 计算分页
-            const totalPages = Math.ceil(filteredQuestions.length / itemsPerPage);
+            const totalPages = Math.ceil(sortedQuestions.length / itemsPerPage);
             const startIndex = (currentPage - 1) * itemsPerPage;
             const endIndex = startIndex + itemsPerPage;
-            const currentPageQuestions = filteredQuestions.slice(startIndex, endIndex);
+            const currentPageQuestions = sortedQuestions.slice(startIndex, endIndex);
             
             // 更新分页信息
             document.getElementById('pageInfo').textContent = `第 ${currentPage} 页，共 ${totalPages} 页（共 ${filteredQuestions.length} 题）`;
@@ -826,6 +894,14 @@
                     <div>
                         <span class="category-badge">${q.category}</span>
                     </div>
+                    ${typeof q.difficulty_score === 'number' || (q.kimi_answer_score !== undefined) || (q.flash_answer_score !== undefined) || (q.tags && q.tags.length) ? `
+                        <div class="meta-line">
+                            ${typeof q.difficulty_score === 'number' ? `<span class="meta-badge">难度评分：${q.difficulty_score}</span>` : ''}
+                            ${q.kimi_answer_score !== undefined ? `<span class="meta-badge">Kimi 评分：${q.kimi_answer_score}</span>` : ''}
+                            ${q.flash_answer_score !== undefined ? `<span class="meta-badge">Step 3.5 评分：${q.flash_answer_score}</span>` : ''}
+                            ${q.tags && q.tags.length ? `<span>${q.tags.map(t => '#' + t).join(' ')}</span>` : ''}
+                        </div>
+                    ` : ''}
                     ${q.kimi_full_answer || q.stepfun_full_answer ? `
                         <div class="ai-responses-container">
                             ${q.kimi_full_answer ? `
@@ -971,10 +1047,19 @@
         // 事件监听
         document.getElementById('categoryFilter').addEventListener('change', filterQuestions);
         document.getElementById('searchInput').addEventListener('input', filterQuestions);
+        document.getElementById('sortSelect').addEventListener('change', () => {
+            currentPage = 1;
+            renderQuestions();
+        });
 
         // 初始化
-        loadQuestions();
-        loadStarCount();
+        async function init() {
+            await loadScores();
+            await loadQuestions();
+            loadStarCount();
+        }
+
+        init();
     </script>
 </body>
 </html>
