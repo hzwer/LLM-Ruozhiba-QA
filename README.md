@@ -39,8 +39,9 @@
 欢迎提交 PR 添加新的弱智题！
 
 1. Fork 本项目
-2. 在 `questions.json` 中添加新题目
-3. 提交 Pull Request
+2. 在 `questions/` 文件夹下创建新的 JSON 文件（如 `2.json`, `3.json`）
+3. 在 `questions/index.json` 中添加新文件名
+4. 提交 Pull Request
 
 题目应该对人类来说很简单，但对 AI 可能困难。
 
