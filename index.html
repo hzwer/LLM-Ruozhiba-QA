@@ -593,28 +593,6 @@
         let filteredQuestions = [];
         let currentPage = 1;
         const itemsPerPage = 20;
-        let scoreMap = {};
-
-        // 加载难度和模型评分数据
-        async function loadScores() {
-            try {
-                const resp = await fetch('ruozhiba_scores_step-3.5-flash.json');
-                if (!resp.ok) {
-                    throw new Error('无法加载难度和评分数据');
-                }
-                const data = await resp.json();
-                scoreMap = {};
-                data.forEach(item => {
-                    const q = (item.question || '').trim();
-                    if (q) {
-                        scoreMap[q] = item;
-                    }
-                });
-                console.log('已加载评分数据条数:', Object.keys(scoreMap).length);
-            } catch (e) {
-                console.warn('加载评分数据失败:', e);
-            }
-        }
 
         // 获取互动数据（从 localStorage）
         function getInteractionData() {
@@ -726,41 +704,23 @@
                 questions = questionResults
                     .filter(q => q !== null && q.id !== undefined);
 
-                // 如果题目文件中没有评分数据，尝试从 scoreMap 中匹配
-                let matchedCount = 0;
-                let fromFileCount = 0;
-                questions.forEach(q => {
-                    // 优先使用文件中的评分数据
-                    if (typeof q.difficulty_score === 'number' || 
-                        typeof q.kimi_answer_score === 'number' || 
-                        typeof q.flash_answer_score === 'number') {
-                        fromFileCount++;
-                    } else {
-                        // 如果文件中没有，尝试从 scoreMap 中匹配
-                        const questionText = (q.question || '').trim();
-                        const score = scoreMap[questionText];
-                        if (score) {
-                            q.difficulty_score = score.difficulty_score;
-                            q.flash_answer_score = score.flash_answer_score;
-                            q.kimi_answer_score = score.kimi_answer_score;
-                            q.tags = score.tags;
-                            matchedCount++;
-                        }
-                    }
-                });
-                console.log('评分数据来源统计:');
-                console.log('  从文件读取:', fromFileCount, '个题目');
-                console.log('  从 scoreMap 匹配:', matchedCount, '个题目');
-                if (fromFileCount > 0 || matchedCount > 0) {
-                    const sample = questions.find(q => typeof q.difficulty_score === 'number');
-                    if (sample) {
-                        console.log('示例题目评分数据:', {
-                            question: sample.question,
-                            difficulty_score: sample.difficulty_score,
-                            flash_answer_score: sample.flash_answer_score,
-                            kimi_answer_score: sample.kimi_answer_score
-                        });
-                    }
+                // 统计有评分数据的题目数量
+                const questionsWithScores = questions.filter(q => 
+                    typeof q.difficulty_score === 'number' || 
+                    typeof q.kimi_answer_score === 'number' || 
+                    typeof q.flash_answer_score === 'number'
+                );
+                console.log('已加载题目数:', questions.length);
+                console.log('有评分数据的题目数:', questionsWithScores.length);
+                if (questionsWithScores.length > 0) {
+                    const sample = questionsWithScores[0];
+                    console.log('示例题目评分数据:', {
+                        id: sample.id,
+                        question: sample.question,
+                        difficulty_score: sample.difficulty_score,
+                        flash_answer_score: sample.flash_answer_score,
+                        kimi_answer_score: sample.kimi_answer_score
+                    });
                 }
                 
                 // 按互动数排序（互动数多的在前），互动数相同的随机排序
@@ -991,8 +951,8 @@
                 const questionData = interactionData[q.id] || { likes: 0, dislikes: 0, userVote: null };
                 const userVote = questionData.userVote;
                 
-                // 调试：输出第一个题目的评分数据
-                if (q.id === currentPageQuestions[0].id) {
+                // 调试：输出第一个题目和特定题目的评分数据
+                if (q.id === currentPageQuestions[0].id || q.id === 'ruozhiba-0325') {
                     console.log('渲染题目数据:', {
                         id: q.id,
                         question: q.question,
@@ -1001,7 +961,11 @@
                         flash_answer_score: q.flash_answer_score,
                         hasDifficulty: typeof q.difficulty_score === 'number',
                         hasKimiScore: typeof q.kimi_answer_score === 'number',
-                        hasFlashScore: typeof q.flash_answer_score === 'number'
+                        hasFlashScore: typeof q.flash_answer_score === 'number',
+                        difficultyValue: q.difficulty_score,
+                        kimiValue: q.kimi_answer_score,
+                        flashValue: q.flash_answer_score,
+                        willShowMeta: (typeof q.difficulty_score === 'number') || (typeof q.kimi_answer_score === 'number') || (typeof q.flash_answer_score === 'number') || (q.tags && q.tags.length)
                     });
                 }
                 
@@ -1173,7 +1137,6 @@
 
         // 初始化
         async function init() {
-            await loadScores();
             await loadQuestions();
             loadStarCount();
         }
