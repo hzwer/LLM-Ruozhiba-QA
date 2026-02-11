@@ -315,14 +315,18 @@
             try {
                 // 先加载索引文件，获取所有题目文件列表
                 const indexResponse = await fetch('questions/index.json');
+                if (!indexResponse.ok) {
+                    throw new Error(`无法加载索引文件: ${indexResponse.status}`);
+                }
                 const fileList = await indexResponse.json();
+                console.log('加载的文件列表:', fileList);
                 
                 // 并行加载所有题目文件
                 const questionPromises = fileList.map(filename => 
                     fetch(`questions/${filename}`)
                         .then(response => {
                             if (!response.ok) {
-                                console.warn(`无法加载 ${filename}`);
+                                console.warn(`无法加载 ${filename}: ${response.status}`);
                                 return null;
                             }
                             return response.json();
@@ -334,6 +338,7 @@
                 );
                 
                 const questionResults = await Promise.all(questionPromises);
+                console.log('加载的题目结果:', questionResults);
                 
                 // 过滤掉 null 值，并按 id 排序（字符串排序）
                 questions = questionResults
@@ -345,6 +350,15 @@
                         return a.id - b.id;
                     });
                 
+                console.log('处理后的题目:', questions);
+                
+                if (questions.length === 0) {
+                    console.warn('没有加载到任何题目');
+                    document.getElementById('questionsGrid').innerHTML = 
+                        '<div class="no-results">没有找到题目，请检查 questions 文件夹</div>';
+                    return;
+                }
+                
                 filteredQuestions = questions;
                 renderQuestions();
                 updateStats();
@@ -352,7 +366,7 @@
             } catch (error) {
                 console.error('加载题目失败:', error);
                 document.getElementById('questionsGrid').innerHTML = 
-                    '<div class="no-results">加载失败，请检查 questions 文件夹</div>';
+                    '<div class="no-results">加载失败: ' + error.message + '</div>';
             }
         }
 
