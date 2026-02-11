@@ -1,7 +1,6 @@
 {
   "id": "ruozhiba-0107",
   "question": "为什么siri可以帮我关机，却不能开机？",
-  "category": "逻辑推理",
   "description": "这是一个弱智题：为什么siri可以帮我关机，却不能开机？",
   "added_date": "2026-02-11",
   "stepfun_excerpt": "Siri作为软件只能在系统运行时工作，关机是软件命令而开机需要硬件触发，因此Siri能关机不能开机。",

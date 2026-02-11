@@ -167,15 +167,6 @@
             font-weight: 500;
         }
 
-        .category-badge {
-            display: inline-block;
-            background: #f0f0f0;
-            color: #666;
-            padding: 4px 10px;
-            border-radius: 15px;
-            font-size: 0.85em;
-            margin-right: 8px;
-        }
 
 
         .ai-responses-container {
@@ -533,23 +524,8 @@
             </div>
         </header>
 
-        <div class="stats" style="display: none;">
-            <div class="stat-card">
-                <div class="stat-number" id="totalQuestions">0</div>
-                <div class="stat-label">题目总数</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-number" id="totalCategories">0</div>
-                <div class="stat-label">分类数量</div>
-            </div>
-        </div>
-
         <div class="filters">
             <div class="filter-group">
-                <label>分类筛选：</label>
-                <select id="categoryFilter">
-                    <option value="">全部</option>
-                </select>
                 <label>搜索：</label>
                 <input type="text" id="searchInput" placeholder="搜索题目内容...">
                 <label>排序：</label>
@@ -746,8 +722,6 @@
                 filteredQuestions = questions;
                 currentPage = 1; // 重置到第一页
                 renderQuestions();
-                updateStats();
-                populateCategories();
             } catch (error) {
                 console.error('加载题目失败:', error);
                 document.getElementById('questionsGrid').innerHTML = 
@@ -755,24 +729,6 @@
             }
         }
 
-        // 更新统计信息
-        function updateStats() {
-            document.getElementById('totalQuestions').textContent = questions.length;
-            const categories = new Set(questions.map(q => q.category));
-            document.getElementById('totalCategories').textContent = categories.size;
-        }
-
-        // 填充分类选项
-        function populateCategories() {
-            const categories = new Set(questions.map(q => q.category));
-            const select = document.getElementById('categoryFilter');
-            categories.forEach(category => {
-                const option = document.createElement('option');
-                option.value = category;
-                option.textContent = category;
-                select.appendChild(option);
-            });
-        }
 
         // 生成点赞/点踩按钮 HTML
         function generateFeedbackButtons(questionId) {
@@ -833,9 +789,8 @@
             });
             
             // 如果当前没有筛选，重新渲染所有题目
-            const category = document.getElementById('categoryFilter').value;
             const search = document.getElementById('searchInput').value.toLowerCase();
-            if (!category && !search) {
+            if (!search) {
                 filteredQuestions = questions;
                 renderQuestions();
             }
@@ -973,10 +928,11 @@
                 <div class="question-card">
                     <div class="question-number">${q.id}</div>
                     <div class="question-text">${q.question}</div>
+                    ${typeof q.difficulty_score === 'number' ? `
                     <div class="meta-line">
-                        <span class="category-badge">${q.category}</span>
-                        ${typeof q.difficulty_score === 'number' ? `<span class="meta-badge">难度评分：${q.difficulty_score}</span>` : ''}
+                        <span class="meta-badge">难度评分：${q.difficulty_score}</span>
                     </div>
+                    ` : ''}
                     ${q.kimi_full_answer || q.stepfun_full_answer ? `
                         <div class="ai-responses-container">
                             ${q.kimi_full_answer ? `
@@ -1033,16 +989,14 @@
 
         // 筛选题目
         function filterQuestions() {
-            const category = document.getElementById('categoryFilter').value;
             const search = document.getElementById('searchInput').value.toLowerCase();
 
             filteredQuestions = questions.filter(q => {
-                const matchCategory = !category || q.category === category;
                 const matchSearch = !search || 
                     q.question.toLowerCase().includes(search) ||
                     (q.description && q.description.toLowerCase().includes(search)) ||
                     (q.id && q.id.toLowerCase().includes(search));
-                return matchCategory && matchSearch;
+                return matchSearch;
             });
 
             // 重置到第一页
@@ -1120,7 +1074,6 @@
         }
 
         // 事件监听
-        document.getElementById('categoryFilter').addEventListener('change', filterQuestions);
         document.getElementById('searchInput').addEventListener('input', filterQuestions);
         document.getElementById('sortSelect').addEventListener('change', () => {
             console.log('排序选项改变:', document.getElementById('sortSelect').value);

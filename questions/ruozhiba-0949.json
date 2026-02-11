@@ -1,7 +1,6 @@
 {
   "id": "ruozhiba-0949",
   "question": "我把c盘重命名为u盘为什么还是拔不下来",
-  "category": "逻辑推理",
   "description": "这是一个弱智题：我把c盘重命名为u盘为什么还是拔不下来",
   "added_date": "2026-02-11",
   "stepfun_excerpt": "C盘是内置系统盘，重命名仅改卷标，不改变其固定连接特性，故无法像U盘一样拔出。",
