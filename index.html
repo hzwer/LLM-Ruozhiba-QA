@@ -928,7 +928,7 @@
                 }
                 
                 return `
-                <div class="question-card">
+                <div class="question-card" onclick="window.location.href='question.html?id=${q.id}'" style="cursor: pointer;">
                     <div class="question-number">${q.id}</div>
                     <div class="question-text">${q.question}</div>
                     ${typeof q.difficulty_score === 'number' ? `
@@ -939,36 +939,38 @@
                     ${q.kimi_full_answer || q.stepfun_full_answer ? `
                         <div class="ai-responses-container">
                             ${q.kimi_full_answer ? `
-                                <div class="ai-response chatgpt">
+                                <div class="ai-response chatgpt" onclick="event.stopPropagation(); window.location.href='question.html?id=${q.id}'">
                                     <strong>Kimi (K2.5 Fast)${typeof q.kimi_answer_score === 'number' ? ` <span class="score-badge">评分：${q.kimi_answer_score}</span>` : ''}</strong>
                                     <div class="ai-response-content">
                                         ${q.kimi_excerpt ? `<div class="ai-response-excerpt">${q.kimi_excerpt}</div>` : ''}
-                                        <a href="javascript:void(0)" onclick="openModal('${q.id}', 'kimi')" style="color: #10a37f; text-decoration: none; cursor: pointer;">
+                                        <div style="color: #10a37f; margin-top: 8px; font-weight: 500;">
                                             查看完整回答 →
-                                        </a>
+                                        </div>
                                     </div>
                                 </div>
                             ` : ''}
                             ${q.stepfun_full_answer ? `
-                                <div class="ai-response stepfun">
+                                <div class="ai-response stepfun" onclick="event.stopPropagation(); window.location.href='question.html?id=${q.id}'">
                                     <strong>Step 3.5 Flash${typeof q.flash_answer_score === 'number' ? ` <span class="score-badge">评分：${q.flash_answer_score}</span>` : ''}</strong>
                                     <div class="ai-response-content">
                                         ${q.stepfun_excerpt ? `<div class="ai-response-excerpt">${q.stepfun_excerpt}</div>` : ''}
-                                        <a href="javascript:void(0)" onclick="openModal('${q.id}', 'stepfun')" style="color: #f59e0b; text-decoration: none; cursor: pointer;">
+                                        <div style="color: #f59e0b; margin-top: 8px; font-weight: 500;">
                                             查看完整回答 →
-                                        </a>
+                                        </div>
                                     </div>
                                 </div>
                             ` : ''}
                         </div>
                     ` : ''}
                     ${q.cursor_comment ? `
-                        <div class="cursor-comment">
+                        <div class="cursor-comment" onclick="event.stopPropagation();">
                             <strong>💬 Cursor 锐评：</strong>
                             <div class="cursor-comment-content">${q.cursor_comment}</div>
                         </div>
                     ` : ''}
-                    ${generateFeedbackButtons(q.id)}
+                    <div onclick="event.stopPropagation();">
+                        ${generateFeedbackButtons(q.id)}
+                    </div>
                     ${q.added_date ? `
                         <div class="date-info">创建日期：${q.added_date}</div>
                     ` : ''}
