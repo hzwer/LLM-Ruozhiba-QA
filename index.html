@@ -353,10 +353,15 @@
                 
                 const questionResults = await Promise.all(questionPromises);
                 
-                // 过滤掉 null 值，并按 id 排序
+                // 过滤掉 null 值，并按 id 排序（字符串排序）
                 questions = questionResults
                     .filter(q => q !== null && q.id !== undefined)
-                    .sort((a, b) => a.id - b.id);
+                    .sort((a, b) => {
+                        if (typeof a.id === 'string' && typeof b.id === 'string') {
+                            return a.id.localeCompare(b.id);
+                        }
+                        return a.id - b.id;
+                    });
                 
                 filteredQuestions = questions;
                 renderQuestions();
