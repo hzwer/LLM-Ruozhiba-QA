@@ -30,6 +30,7 @@
 - `chatgpt_excerpt`: ChatGPT 的回答精华摘录（可选，显示在首页）
 - `stepfun_answer`: Stepfun 的回答链接
 - `stepfun_excerpt`: Stepfun 的回答精华摘录（可选，显示在首页）
+- `cursor_comment`: Cursor 自动锐评（可选，对 AI 回答的点评）
 
 系统会自动扫描 `questions/` 文件夹下的所有 JSON 文件（排除 `index.json`）并展示。只需在 `questions/` 文件夹下创建符合格式的 JSON 文件即可。
 
