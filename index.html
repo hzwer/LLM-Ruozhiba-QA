@@ -789,9 +789,9 @@
                     <div>
                         <span class="category-badge">${q.category}</span>
                     </div>
-                    ${q.kimi_answer || q.stepfun_answer ? `
+                    ${q.kimi_full_answer || q.stepfun_full_answer ? `
                         <div class="ai-responses-container">
-                            ${q.kimi_answer ? `
+                            ${q.kimi_full_answer ? `
                                 <div class="ai-response chatgpt">
                                     <strong>Kimi (K2.5 Fast)</strong>
                                     <div class="ai-response-content">
@@ -802,7 +802,7 @@
                                     </div>
                                 </div>
                             ` : ''}
-                            ${q.stepfun_answer ? `
+                            ${q.stepfun_full_answer ? `
                                 <div class="ai-response stepfun">
                                     <strong>Step 3.5 Flash</strong>
                                     <div class="ai-response-content">
@@ -896,18 +896,7 @@
                     .replace(/\n/g, '<br>');
                 modalBody.innerHTML = `<div style="white-space: pre-wrap; word-wrap: break-word;">${escapedAnswer}</div>`;
             } else {
-                // 如果没有完整回答，显示外部链接
-                const externalLink = aiType === 'kimi' ? question.kimi_answer : question.stepfun_answer;
-                if (externalLink) {
-                    modalBody.innerHTML = `
-                        <p style="color: #999; margin-bottom: 15px;">完整回答内容暂未添加。</p>
-                        <a href="${externalLink}" target="_blank" rel="noopener noreferrer" style="color: #667eea; text-decoration: none; font-weight: 500;">
-                            点击查看外部链接 →
-                        </a>
-                    `;
-                } else {
-                    modalBody.innerHTML = '<p style="color: #999; font-style: italic;">完整回答内容暂未添加。</p>';
-                }
+                modalBody.innerHTML = '<p style="color: #999; font-style: italic;">完整回答内容暂未添加。</p>';
             }
             
             modal.style.display = 'block';
