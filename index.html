@@ -726,37 +726,41 @@
                 questions = questionResults
                     .filter(q => q !== null && q.id !== undefined);
 
-                // 合并难度和评分信息
+                // 如果题目文件中没有评分数据，尝试从 scoreMap 中匹配
                 let matchedCount = 0;
-                let unmatchedSamples = [];
+                let fromFileCount = 0;
                 questions.forEach(q => {
-                    const questionText = (q.question || '').trim();
-                    const score = scoreMap[questionText];
-                    if (score) {
-                        q.difficulty_score = score.difficulty_score;
-                        q.flash_answer_score = score.flash_answer_score;
-                        q.kimi_answer_score = score.kimi_answer_score;
-                        q.tags = score.tags;
-                        matchedCount++;
-                    } else if (unmatchedSamples.length < 3) {
-                        unmatchedSamples.push({
-                            question: questionText,
-                            availableKeys: Object.keys(scoreMap).slice(0, 3)
-                        });
+                    // 优先使用文件中的评分数据
+                    if (typeof q.difficulty_score === 'number' || 
+                        typeof q.kimi_answer_score === 'number' || 
+                        typeof q.flash_answer_score === 'number') {
+                        fromFileCount++;
+                    } else {
+                        // 如果文件中没有，尝试从 scoreMap 中匹配
+                        const questionText = (q.question || '').trim();
+                        const score = scoreMap[questionText];
+                        if (score) {
+                            q.difficulty_score = score.difficulty_score;
+                            q.flash_answer_score = score.flash_answer_score;
+                            q.kimi_answer_score = score.kimi_answer_score;
+                            q.tags = score.tags;
+                            matchedCount++;
+                        }
                     }
                 });
-                console.log('成功匹配评分数据的题目数:', matchedCount, '/', questions.length);
-                if (matchedCount > 0) {
-                    const sample = questions.find(q => q.difficulty_score !== undefined);
-                    console.log('示例题目评分数据:', {
-                        question: sample.question,
-                        difficulty_score: sample.difficulty_score,
-                        flash_answer_score: sample.flash_answer_score,
-                        kimi_answer_score: sample.kimi_answer_score
-                    });
-                }
-                if (unmatchedSamples.length > 0) {
-                    console.warn('未匹配的题目示例:', unmatchedSamples);
+                console.log('评分数据来源统计:');
+                console.log('  从文件读取:', fromFileCount, '个题目');
+                console.log('  从 scoreMap 匹配:', matchedCount, '个题目');
+                if (fromFileCount > 0 || matchedCount > 0) {
+                    const sample = questions.find(q => typeof q.difficulty_score === 'number');
+                    if (sample) {
+                        console.log('示例题目评分数据:', {
+                            question: sample.question,
+                            difficulty_score: sample.difficulty_score,
+                            flash_answer_score: sample.flash_answer_score,
+                            kimi_answer_score: sample.kimi_answer_score
+                        });
+                    }
                 }
                 
                 // 按互动数排序（互动数多的在前），互动数相同的随机排序
@@ -986,6 +990,20 @@
                 const interactionData = getInteractionData();
                 const questionData = interactionData[q.id] || { likes: 0, dislikes: 0, userVote: null };
                 const userVote = questionData.userVote;
+                
+                // 调试：输出第一个题目的评分数据
+                if (q.id === currentPageQuestions[0].id) {
+                    console.log('渲染题目数据:', {
+                        id: q.id,
+                        question: q.question,
+                        difficulty_score: q.difficulty_score,
+                        kimi_answer_score: q.kimi_answer_score,
+                        flash_answer_score: q.flash_answer_score,
+                        hasDifficulty: typeof q.difficulty_score === 'number',
+                        hasKimiScore: typeof q.kimi_answer_score === 'number',
+                        hasFlashScore: typeof q.flash_answer_score === 'number'
+                    });
+                }
                 
                 return `
                 <div class="question-card">
