@@ -5,8 +5,6 @@
   "description": "这是一个典型的常识推理题。虽然距离只有50米，但必须开车去，因为要洗车。某些 AI 可能会忽略"洗车"这个前提条件，只看到距离很近就建议走路，但实际上如果走路去，车还在家里，无法洗车。",
   "added_date": "2024-01-01",
   "difficulty": "简单",
-  "kimi_answer": "",
-  "deepseek_answer": "",
-  "step3_answer": "",
-  "gemini_answer": ""
+  "chatgpt_answer": "https://chatgpt.com/s/t_698c2a08f7cc8191b08106a0468e31a0",
+  "stepfun_answer": "https://stepfun.ai/share/210412783752998912?shareto_way=link"
 }

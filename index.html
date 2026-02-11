@@ -184,20 +184,12 @@
             border-left: 4px solid #2196f3;
         }
 
-        .ai-response.deepseek {
-            border-left-color: #10b981;
+        .ai-response.chatgpt {
+            border-left-color: #10a37f;
         }
 
-        .ai-response.kimi {
-            border-left-color: #3b82f6;
-        }
-
-        .ai-response.step3 {
+        .ai-response.stepfun {
             border-left-color: #f59e0b;
-        }
-
-        .ai-response.gemini {
-            border-left-color: #8b5cf6;
         }
 
         .ai-response strong {
@@ -207,20 +199,12 @@
             font-size: 0.9em;
         }
 
-        .ai-response.deepseek strong {
-            color: #10b981;
+        .ai-response.chatgpt strong {
+            color: #10a37f;
         }
 
-        .ai-response.kimi strong {
-            color: #3b82f6;
-        }
-
-        .ai-response.step3 strong {
+        .ai-response.stepfun strong {
             color: #f59e0b;
-        }
-
-        .ai-response.gemini strong {
-            color: #8b5cf6;
         }
 
         .ai-response-content {
@@ -401,32 +385,28 @@
                         <span class="category-badge">${q.category}</span>
                         ${q.difficulty ? `<span class="category-badge">${q.difficulty}</span>` : ''}
                     </div>
-                    ${q.deepseek_answer || q.kimi_answer || q.step3_answer || q.gemini_answer ? `
+                    ${q.chatgpt_answer || q.stepfun_answer ? `
                         <div class="ai-responses-container">
-                            ${q.deepseek_answer ? `
-                                <div class="ai-response deepseek">
-                                    <strong>Deepseek v3.2</strong>
-                                    <div class="ai-response-content">${q.deepseek_answer}</div>
+                            ${q.chatgpt_answer ? `
+                                <div class="ai-response chatgpt">
+                                    <strong>ChatGPT</strong>
+                                    <div class="ai-response-content">
+                                        <a href="${q.chatgpt_answer}" target="_blank" rel="noopener noreferrer" style="color: #10a37f; text-decoration: none;">
+                                            查看回答 →
+                                        </a>
+                                    </div>
                                 </div>
-                            ` : '<div class="ai-response deepseek"><strong>Deepseek v3.2</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
-                            ${q.kimi_answer ? `
-                                <div class="ai-response kimi">
-                                    <strong>Kimi</strong>
-                                    <div class="ai-response-content">${q.kimi_answer}</div>
+                            ` : '<div class="ai-response chatgpt"><strong>ChatGPT</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
+                            ${q.stepfun_answer ? `
+                                <div class="ai-response stepfun">
+                                    <strong>Stepfun</strong>
+                                    <div class="ai-response-content">
+                                        <a href="${q.stepfun_answer}" target="_blank" rel="noopener noreferrer" style="color: #f59e0b; text-decoration: none;">
+                                            查看回答 →
+                                        </a>
+                                    </div>
                                 </div>
-                            ` : '<div class="ai-response kimi"><strong>Kimi</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
-                            ${q.step3_answer ? `
-                                <div class="ai-response step3">
-                                    <strong>Step3.5 Flash</strong>
-                                    <div class="ai-response-content">${q.step3_answer}</div>
-                                </div>
-                            ` : '<div class="ai-response step3"><strong>Step3.5 Flash</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
-                            ${q.gemini_answer ? `
-                                <div class="ai-response gemini">
-                                    <strong>Gemini</strong>
-                                    <div class="ai-response-content">${q.gemini_answer}</div>
-                                </div>
-                            ` : '<div class="ai-response gemini"><strong>Gemini</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
+                            ` : '<div class="ai-response stepfun"><strong>Stepfun</strong><div class="ai-response-content" style="color: #999; font-style: italic;">暂无回答</div></div>'}
                         </div>
                     ` : ''}
                     ${q.description ? `

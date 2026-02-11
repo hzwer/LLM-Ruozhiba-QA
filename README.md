@@ -27,10 +27,8 @@
 - `description`: 题目说明
 - `added_date`: 添加日期
 - `difficulty`: 难度（可选）
-- `kimi_answer`: Kimi 的回答
-- `deepseek_answer`: Deepseek v3.2 的回答
-- `step3_answer`: Step3.5 Flash 的回答
-- `gemini_answer`: Gemini 的回答
+- `chatgpt_answer`: ChatGPT 的回答（链接）
+- `stepfun_answer`: Stepfun 的回答（链接）
 
 `questions/index.json` 文件列出了所有题目文件名，用于加载题目。
 
