@@ -404,14 +404,11 @@
 
             grid.innerHTML = filteredQuestions.map(q => `
                 <div class="question-card">
-                    <div class="question-number">#${q.id}</div>
+                    <div class="question-number">${q.id}</div>
                     <div class="question-text">${q.question}</div>
                     <div>
                         <span class="category-badge">${q.category}</span>
                         ${q.difficulty ? `<span class="category-badge">${q.difficulty}</span>` : ''}
-                    </div>
-                    <div class="tags">
-                        ${q.tags.map(tag => `<span class="tag">${tag}</span>`).join('')}
                     </div>
                     ${q.deepseek_answer || q.kimi_answer || q.step3_answer || q.gemini_answer ? `
                         <div class="ai-responses-container">
@@ -458,7 +455,7 @@
                 const matchSearch = !search || 
                     q.question.toLowerCase().includes(search) ||
                     (q.description && q.description.toLowerCase().includes(search)) ||
-                    q.tags.some(tag => tag.toLowerCase().includes(search));
+                    (q.id && q.id.toLowerCase().includes(search));
                 return matchCategory && matchSearch;
             });
 

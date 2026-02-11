@@ -18,12 +18,15 @@
 
 ## 📝 题目格式
 
-题目文件存放在 `questions/` 文件夹下，每个题目一个 JSON 文件（如 `1.json`, `2.json`）。
+题目文件存放在 `questions/` 文件夹下，每个题目一个 JSON 文件（如 `car-wash.json`, `example-question.json`）。
 
 每个题目包含以下信息：
-- `id`: 唯一标识符
+- `id`: 唯一标识符（建议使用两个单词，用连字符连接，如 `car-wash`）
 - `question`: 问题内容
 - `category`: 分类
+- `description`: 题目说明
+- `added_date`: 添加日期
+- `difficulty`: 难度（可选）
 - `kimi_answer`: Kimi 的回答
 - `deepseek_answer`: Deepseek v3.2 的回答
 - `step3_answer`: Step3.5 Flash 的回答
@@ -39,7 +42,7 @@
 欢迎提交 PR 添加新的弱智题！
 
 1. Fork 本项目
-2. 在 `questions/` 文件夹下创建新的 JSON 文件（如 `2.json`, `3.json`）
+2. 在 `questions/` 文件夹下创建新的 JSON 文件，文件名和 id 使用两个单词（用连字符连接，如 `car-wash.json`，id 为 `"car-wash"`）
 3. 在 `questions/index.json` 中添加新文件名
 4. 提交 Pull Request
 
