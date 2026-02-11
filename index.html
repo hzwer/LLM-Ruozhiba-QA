@@ -620,64 +620,19 @@
         // 加载题目数据
         async function loadQuestions() {
             try {
-                // 使用 GitHub API 获取 questions 目录下的文件列表
-                const repo = 'hzwer/LLM-Ruozhiba-QA';
-                const path = 'questions';
-                const apiUrl = `https://api.github.com/repos/${repo}/contents/${path}`;
-                
+                // 从本地 index.json 加载文件列表，避免依赖 GitHub API（防止 403 / 速率限制）
                 let fileList = [];
-                
                 try {
-                    // 尝试使用 GitHub API 获取文件列表（支持分页）
-                    let allFiles = [];
-                    let page = 1;
-                    const perPage = 100;
-                    
-                    while (true) {
-                        const apiUrlWithPage = `${apiUrl}?per_page=${perPage}&page=${page}`;
-                        const apiResponse = await fetch(apiUrlWithPage);
-                        
-                        if (apiResponse.ok) {
-                            const files = await apiResponse.json();
-                            
-                            if (files.length === 0) {
-                                break; // 没有更多文件了
-                            }
-                            
-                            allFiles = allFiles.concat(files);
-                            
-                            // 如果返回的文件数少于每页数量，说明已经是最后一页
-                            if (files.length < perPage) {
-                                break;
-                            }
-                            
-                            page++;
-                        } else {
-                            throw new Error('GitHub API 请求失败');
-                        }
+                    const indexResponse = await fetch('questions/index.json');
+                    if (indexResponse.ok) {
+                        fileList = await indexResponse.json();
+                        console.log('通过 index.json 获取的文件列表:', fileList.length, '个文件');
+                    } else {
+                        throw new Error('无法加载 index.json');
                     }
-                    
-                    // 过滤出 JSON 文件，排除 index.json
-                    fileList = allFiles
-                        .filter(file => file.type === 'file' && file.name.endsWith('.json') && file.name !== 'index.json')
-                        .map(file => file.name);
-                    console.log('通过 GitHub API 获取的文件列表（分页）:', fileList.length, '个文件');
-                } catch (apiError) {
-                    console.warn('GitHub API 获取文件列表失败，尝试使用 index.json:', apiError);
-                    // 如果 API 失败，回退到使用 index.json
-                    try {
-                        const indexResponse = await fetch('questions/index.json');
-                        if (indexResponse.ok) {
-                            fileList = await indexResponse.json();
-                            console.log('通过 index.json 获取的文件列表:', fileList);
-                        } else {
-                            throw new Error('无法加载 index.json');
-                        }
-                    } catch (indexError) {
-                        // 如果都失败了，尝试一些常见的文件名
-                        console.warn('尝试加载常见文件名...');
-                        fileList = ['car-wash.json']; // 默认文件
-                    }
+                } catch (error) {
+                    console.error('加载文件列表失败:', error);
+                    throw error;
                 }
                 
                 if (fileList.length === 0) {
