@@ -2,6 +2,8 @@
 
 一个专门收集那些会让 AI 大模型"犯傻"的弱智题目的项目。
 
+🌐 **在线访问**：部署后，所有人都可以通过网页直接访问，无需任何安装或部署操作！
+
 ## 📖 项目简介
 
 你有没有遇到过这样的情况：问 AI 一个看似简单的问题，但它却给出了令人啼笑皆非的答案？
@@ -39,10 +41,12 @@ LLM_RuoZhiBa/
 
 ## 🌐 在线访问
 
-项目已配置 GitHub Pages，访问地址：
+项目已部署到 GitHub Pages，**所有人都可以公开访问**！
+
+访问地址：
 **https://[你的用户名].github.io/LLM_RuoZhiBa/**
 
-或者如果设置了自定义域名，访问你的自定义域名即可。
+> 💡 提示：部署完成后，将这个链接分享给任何人，他们都可以直接访问查看所有题目，无需任何部署操作。
 
 ## 📝 题目格式
 
@@ -71,34 +75,48 @@ LLM_RuoZhiBa/
 - 需要包含清晰的说明，解释为什么这是"弱智题"
 - 可以包含多个 AI 模型的测试结果（可选）
 
-## 🚀 部署到 GitHub Pages
+## 🚀 部署公开访问网站
 
-### 方法一：使用 GitHub Actions（推荐，已配置）
+### 一键部署（推荐）
 
-1. 将代码推送到 GitHub：
+1. **在 GitHub 上创建仓库**（如果还没有）：
+   - 登录 GitHub，创建新仓库 `LLM_RuoZhiBa`
+   - 选择 `Public`（公开仓库，让所有人都能访问）
+
+2. **推送代码到 GitHub**：
 ```bash
-git add .
-git commit -m "Initial commit"
-git branch -M main
 git remote add origin https://github.com/你的用户名/LLM_RuoZhiBa.git
+git branch -M main
 git push -u origin main
 ```
 
-2. 在 GitHub 仓库设置中启用 Pages：
+3. **启用 GitHub Pages**（让网站公开访问）：
    - 进入仓库的 `Settings` → `Pages`
    - 在 `Source` 中选择 `GitHub Actions`
    - 保存设置
 
-3. 每次推送到 `main` 分支后，GitHub Actions 会自动部署到 GitHub Pages
+4. **等待 1-2 分钟**，GitHub Actions 会自动部署
 
-### 方法二：手动启用 GitHub Pages
+5. **访问你的公开网站**：
+   ```
+   https://你的用户名.github.io/LLM_RuoZhiBa/
+   ```
 
-1. 进入仓库的 `Settings` → `Pages`
-2. 在 `Source` 中选择 `Deploy from a branch`
-3. 选择分支 `main` 和文件夹 `/ (root)`
-4. 点击 `Save`
+### ✅ 部署完成后的效果
 
-访问地址：`https://[你的用户名].github.io/LLM_RuoZhiBa/`
+- ✅ **所有人都可以访问**：分享链接给任何人，无需登录 GitHub
+- ✅ **自动更新**：每次你推送新题目，网站会自动更新
+- ✅ **完全免费**：GitHub Pages 免费提供
+- ✅ **无需服务器**：GitHub 自动托管
+
+### 📱 分享给朋友
+
+部署完成后，你可以直接分享这个链接：
+```
+https://你的用户名.github.io/LLM_RuoZhiBa/
+```
+
+任何人都可以在浏览器中打开，查看所有题目！
 
 ### 本地预览
 
