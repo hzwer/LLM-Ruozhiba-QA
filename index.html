@@ -213,12 +213,20 @@
             font-size: 0.9em;
         }
 
+        .ai-response-excerpt {
+            color: #555;
+            line-height: 1.6;
+            margin-bottom: 10px;
+            font-style: italic;
+        }
+
         .ai-response-content a {
             display: inline-block;
             padding: 6px 12px;
             background: rgba(0, 0, 0, 0.05);
             border-radius: 4px;
             transition: background 0.2s;
+            margin-top: 8px;
         }
 
         .ai-response-content a:hover {
@@ -424,8 +432,9 @@
                                 <div class="ai-response chatgpt">
                                     <strong>ChatGPT</strong>
                                     <div class="ai-response-content">
+                                        ${q.chatgpt_excerpt ? `<div class="ai-response-excerpt">${q.chatgpt_excerpt}</div>` : ''}
                                         <a href="${q.chatgpt_answer}" target="_blank" rel="noopener noreferrer" style="color: #10a37f; text-decoration: none;">
-                                            查看回答 →
+                                            查看完整回答 →
                                         </a>
                                     </div>
                                 </div>
@@ -434,8 +443,9 @@
                                 <div class="ai-response stepfun">
                                     <strong>Stepfun</strong>
                                     <div class="ai-response-content">
+                                        ${q.stepfun_excerpt ? `<div class="ai-response-excerpt">${q.stepfun_excerpt}</div>` : ''}
                                         <a href="${q.stepfun_answer}" target="_blank" rel="noopener noreferrer" style="color: #f59e0b; text-decoration: none;">
-                                            查看回答 →
+                                            查看完整回答 →
                                         </a>
                                     </div>
                                 </div>
