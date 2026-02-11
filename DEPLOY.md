@@ -6,7 +6,7 @@
 
 1. 登录 GitHub
 2. 点击右上角的 `+` → `New repository`
-3. 仓库名填写：`LLM-Trick-Questions`（推荐）或你喜欢的名字
+3. 仓库名填写：`LLM-Ruozhiba-QA`（推荐）或你喜欢的名字
 4. 选择 `Public`（GitHub Pages 免费版需要公开仓库）
 5. **不要**勾选 "Initialize this repository with a README"（因为本地已有代码）
 6. 点击 `Create repository`
@@ -29,7 +29,7 @@ git commit -m "Initial commit: LLM 弱智题收集库"
 git branch -M main
 
 # 添加远程仓库（替换成你的 GitHub 用户名）
-git remote add origin https://github.com/你的用户名/LLM-Trick-Questions.git
+git remote add origin https://github.com/你的用户名/LLM-Ruozhiba-QA.git
 
 # 推送代码
 git push -u origin main
@@ -61,12 +61,12 @@ git push -u origin main
 部署完成后（通常需要 1-2 分钟），访问：
 
 ```
-https://你的用户名.github.io/LLM-Trick-Questions/
+https://你的用户名.github.io/LLM-Ruozhiba-QA/
 ```
 
 例如，如果你的 GitHub 用户名是 `zhangsan`，访问地址就是：
 ```
-https://zhangsan.github.io/LLM-Trick-Questions/
+https://zhangsan.github.io/LLM-Ruozhiba-QA/
 ```
 
 ### 步骤 5: 更新内容
@@ -122,7 +122,7 @@ A:
 
 ## 📝 关于仓库名
 
-推荐使用 `LLM-Trick-Questions`，这个名字：
+推荐使用 `LLM-Ruozhiba-QA`，这个名字：
 - ✅ 外国人容易理解（Trick Questions = 陷阱题/诡计题）
 - ✅ 专业且有趣
 - ✅ 准确描述了项目内容

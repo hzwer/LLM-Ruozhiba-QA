@@ -1,4 +1,4 @@
-# LLM Trick Questions Collection (LLM 弱智题收集库)
+# LLM Ruozhiba QA (LLM 弱智题收集库)
 
 一个专门收集那些会让 AI 大模型"犯傻"的弱智题目的项目。
 
@@ -28,7 +28,7 @@
 ## 📁 项目结构
 
 ```
-LLM-Trick-Questions/
+LLM-Ruozhiba-QA/
 ├── README.md              # 项目说明
 ├── questions.json         # 题目数据文件
 ├── index.html            # 网页展示页面
@@ -44,7 +44,7 @@ LLM-Trick-Questions/
 项目已部署到 GitHub Pages，**所有人都可以公开访问**！
 
 访问地址：
-**https://[你的用户名].github.io/LLM-Trick-Questions/**
+**https://[你的用户名].github.io/LLM-Ruozhiba-QA/**
 
 > 💡 提示：部署完成后，将这个链接分享给任何人，他们都可以直接访问查看所有题目，无需任何部署操作。
 
@@ -80,12 +80,12 @@ LLM-Trick-Questions/
 ### 一键部署（推荐）
 
 1. **在 GitHub 上创建仓库**（如果还没有）：
-   - 登录 GitHub，创建新仓库 `LLM-Trick-Questions`
+   - 登录 GitHub，创建新仓库 `LLM-Ruozhiba-QA`
    - 选择 `Public`（公开仓库，让所有人都能访问）
 
 2. **推送代码到 GitHub**：
 ```bash
-git remote add origin https://github.com/你的用户名/LLM-Trick-Questions.git
+git remote add origin https://github.com/你的用户名/LLM-Ruozhiba-QA.git
 git branch -M main
 git push -u origin main
 ```
@@ -99,7 +99,7 @@ git push -u origin main
 
 5. **访问你的公开网站**：
    ```
-   https://你的用户名.github.io/LLM-Trick-Questions/
+   https://你的用户名.github.io/LLM-Ruozhiba-QA/
    ```
 
 ### ✅ 部署完成后的效果
@@ -113,7 +113,7 @@ git push -u origin main
 
 部署完成后，你可以直接分享这个链接：
 ```
-https://你的用户名.github.io/LLM-Trick-Questions/
+https://你的用户名.github.io/LLM-Ruozhiba-QA/
 ```
 
 任何人都可以在浏览器中打开，查看所有题目！
