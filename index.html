@@ -328,13 +328,47 @@
         // 加载题目数据
         async function loadQuestions() {
             try {
-                // 先加载索引文件，获取所有题目文件列表
-                const indexResponse = await fetch('questions/index.json');
-                if (!indexResponse.ok) {
-                    throw new Error(`无法加载索引文件: ${indexResponse.status}`);
+                // 使用 GitHub API 获取 questions 目录下的文件列表
+                const repo = 'hzwer/LLM-Ruozhiba-QA';
+                const path = 'questions';
+                const apiUrl = `https://api.github.com/repos/${repo}/contents/${path}`;
+                
+                let fileList = [];
+                
+                try {
+                    // 尝试使用 GitHub API 获取文件列表
+                    const apiResponse = await fetch(apiUrl);
+                    if (apiResponse.ok) {
+                        const files = await apiResponse.json();
+                        // 过滤出 JSON 文件，排除 index.json
+                        fileList = files
+                            .filter(file => file.type === 'file' && file.name.endsWith('.json') && file.name !== 'index.json')
+                            .map(file => file.name);
+                        console.log('通过 GitHub API 获取的文件列表:', fileList);
+                    } else {
+                        throw new Error('GitHub API 请求失败');
+                    }
+                } catch (apiError) {
+                    console.warn('GitHub API 获取文件列表失败，尝试使用 index.json:', apiError);
+                    // 如果 API 失败，回退到使用 index.json
+                    try {
+                        const indexResponse = await fetch('questions/index.json');
+                        if (indexResponse.ok) {
+                            fileList = await indexResponse.json();
+                            console.log('通过 index.json 获取的文件列表:', fileList);
+                        } else {
+                            throw new Error('无法加载 index.json');
+                        }
+                    } catch (indexError) {
+                        // 如果都失败了，尝试一些常见的文件名
+                        console.warn('尝试加载常见文件名...');
+                        fileList = ['car-wash.json']; // 默认文件
+                    }
                 }
-                const fileList = await indexResponse.json();
-                console.log('加载的文件列表:', fileList);
+                
+                if (fileList.length === 0) {
+                    throw new Error('没有找到题目文件');
+                }
                 
                 // 并行加载所有题目文件
                 const questionPromises = fileList.map(filename => 

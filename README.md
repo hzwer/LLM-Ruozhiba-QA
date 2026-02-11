@@ -31,7 +31,7 @@
 - `stepfun_answer`: Stepfun 的回答链接
 - `stepfun_excerpt`: Stepfun 的回答精华摘录（可选，显示在首页）
 
-`questions/index.json` 文件列出了所有题目文件名，用于加载题目。
+系统会自动扫描 `questions/` 文件夹下的所有 JSON 文件（排除 `index.json`）并展示。只需在 `questions/` 文件夹下创建符合格式的 JSON 文件即可。
 
 ## 🤝 贡献
 
@@ -39,8 +39,9 @@
 
 1. Fork 本项目
 2. 在 `questions/` 文件夹下创建新的 JSON 文件，文件名和 id 使用两个单词（用连字符连接，如 `car-wash.json`，id 为 `"car-wash"`）
-3. 在 `questions/index.json` 中添加新文件名
-4. 提交 Pull Request
+3. 提交 Pull Request
+
+系统会自动识别并展示新添加的题目文件，无需手动更新任何索引文件。
 
 题目应该对人类来说很简单，但对 AI 可能困难。
 
